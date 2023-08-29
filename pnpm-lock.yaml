@@ -35,9 +35,15 @@ devDependencies:
   flowbite-svelte:
     specifier: 0.44.4
     version: 0.44.4(svelte@4.2.0)
+  flowbite-svelte-blocks:
+    specifier: 0.4.14
+    version: 0.4.14(svelte@4.2.0)(tailwindcss@3.3.3)
   flowbite-svelte-icons:
     specifier: 0.3.6
     version: 0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3)
+  flowbite-typography:
+    specifier: 1.0.3
+    version: 1.0.3(tailwindcss@3.3.3)
   postcss:
     specifier: 8.4.29
     version: 8.4.29
@@ -1321,6 +1327,21 @@ packages:
     resolution: {integrity: sha512-5nqDSxl8nn5BSNxyR3n4I6eDmbolI6WT+QqR547RwxQapgjQBmtktdP+HTBb/a/zLsbzERTONyUB5pefh5TtjQ==}
     dev: true
 
+  /flowbite-svelte-blocks@0.4.14(svelte@4.2.0)(tailwindcss@3.3.3):
+    resolution: {integrity: sha512-tpELDnvNkbCJ1wecDhT4Ky2Oa7UDm7Pamxkq5q1VWC2Zh42AY6VQeIKkE1R05OohOnNvrCvg03V7h39TOIDo5w==}
+    engines: {node: '>=16.0.0', npm: '>=7.0.0'}
+    peerDependencies:
+      svelte: ^4.0.0
+    dependencies:
+      flowbite: 1.8.1
+      flowbite-svelte: 0.44.4(svelte@4.2.0)
+      flowbite-svelte-icons: 0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3)
+      svelte: 4.2.0
+      tailwind-merge: 1.14.0
+    transitivePeerDependencies:
+      - tailwindcss
+    dev: true
+
   /flowbite-svelte-icons@0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3):
     resolution: {integrity: sha512-4YEq++cbD36KF+zGgLqfkmQgfWGMAP7tjDbesuieROx6UgbMBTtj7f4n49iO+g1cMLelGsCkyZiwelCXDbIJ2w==}
     peerDependencies:
@@ -1344,6 +1365,17 @@ packages:
       flowbite: 1.8.1
       svelte: 4.2.0
       tailwind-merge: 1.14.0
+    dev: true
+
+  /flowbite-typography@1.0.3(tailwindcss@3.3.3):
+    resolution: {integrity: sha512-UbdQFIIOb7xx2TS+QQrqr79B6ZSkSZurxYWzV0npth6Wns3/j7KfeDJoH9QFU+Zs7zjrvejNtyzgzWLWyCrdiA==}
+    peerDependencies:
+      tailwindcss: '>=3.0.0 || insiders'
+    dependencies:
+      lodash.castarray: 4.4.0
+      lodash.isplainobject: 4.0.6
+      lodash.merge: 4.6.2
+      tailwindcss: 3.3.3
     dev: true
 
   /flowbite@1.8.1:
@@ -1620,6 +1652,14 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       p-locate: 5.0.0
+    dev: true
+
+  /lodash.castarray@4.4.0:
+    resolution: {integrity: sha512-aVx8ztPv7/2ULbArGJ2Y42bG1mEQ5mGjpdvrbJcJFU3TbYybe+QlLS4pst9zV52ymy2in1KpFPiZnAOATxD4+Q==}
+    dev: true
+
+  /lodash.isplainobject@4.0.6:
+    resolution: {integrity: sha512-oSXzaWypCMHkPC3NvBEaPHf0KsA5mvPrOPgQWDsbg8n7orZ290M0BmC/jgRZ4vcJ6DTAhjrsSYgdsW/F+MFOBA==}
     dev: true
 
   /lodash.merge@4.6.2:
