@@ -57,7 +57,7 @@ devDependencies:
     specifier: 3.0.3
     version: 3.0.3(prettier@3.0.3)(svelte@4.2.0)
   prettier-plugin-tailwindcss:
-    specifier: ^0.5.3
+    specifier: 0.5.3
     version: 0.5.3(prettier-plugin-svelte@3.0.3)(prettier@3.0.3)
   svelte:
     specifier: 4.2.0
