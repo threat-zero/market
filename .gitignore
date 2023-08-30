@@ -1,10 +1,96 @@
-.DS_Store
 node_modules
-/build
-/.svelte-kit
+/node_modules
+/.svelte
+.svelte-kit
 /package
-.env
-.env.*
-!.env.example
+.vercel
+.output
+.vercel
+.netlify
+/build
+/functions
+/workers-site
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+dev-dist
+
+# Ignore the build css
+static/*.css
+static/sitemap.xml
+static/feed.xml
+static/rss.xml
+
+# Storybook files #
+###################
+storybook-static
+storybook-static/*
+
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing #
+#############################
+coverage
+coverage/*
+
+# KDE/Linux generated files #
+#############################
+.directory
+
+# Turborepo #
+#############################
+.turbo
+
+
+# Runtime data #
+################
+pids
+*.pid
+*.seed
+*.pid.lock
+*.eslintcache
+
+# environment files #
+#####################
+.env
+.env.*
+.env.local
+.env.*.local
+!.env.example
+!.env.local.example
+!.env.production.example
+# TODO: Remove me after https://github.com/sveltejs/kit/pull/5663
+!.env
+!.env.test
+
+# turborepo #
+##########################
+/apps/**/package
+/packages/**/package
+/apps/**/build
+
+# project specific files #
+##########################
+stats.html
+TODO.md
+/test-results/
+/playwright-report/
+/playwright/.cache/
+coverage
+TODO
+$houdini
