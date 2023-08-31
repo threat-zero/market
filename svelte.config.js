@@ -29,7 +29,6 @@ const config = {
 			base: dev ? '' : process.env.BASE_PATH
 		},
 		prerender: {
-			crawl: false,
 			handleEntryGeneratorMismatch: 'warn'
 		},
 		serviceWorker: {
