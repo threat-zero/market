@@ -1,14 +1,18 @@
 name: Deploy to GitHub Pages
 
+# TODO https://github.com/actions/deploy-pages/issues/76
+# on:
+#   workflow_dispatch:
+#     inputs:
+#       dey-run:
+#         description: Deploy with dey-run.
+#         required: false
+#   push:
+#     tags:
+#       - 'v[0-9]+.[0-9]+.[0-9]+'
 on:
-  workflow_dispatch:
-    inputs:
-      dey-run:
-        description: Deploy with dey-run.
-        required: false
   push:
-    tags:
-      - 'v[0-9]+.[0-9]+.[0-9]+'
+    branches: ['main']
 
 jobs:
   build_site:
@@ -59,4 +63,4 @@ jobs:
     steps:
       - name: Deploy
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
