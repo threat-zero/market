@@ -12,7 +12,7 @@ devDependencies:
     specifier: 2.1.0
     version: 2.1.0(@sveltejs/kit@1.24.0)
   '@sveltejs/adapter-static':
-    specifier: ^2.0.3
+    specifier: 2.0.3
     version: 2.0.3(@sveltejs/kit@1.24.0)
   '@sveltejs/kit':
     specifier: 1.24.0
