@@ -1,9 +1,3 @@
-// Since there's no dynamic data for marketing site, we can prerender it
-// so that it gets served as a static asset in prod
-// FIXME: `$env/dynamic/public` not working with `prerender = true`
-// https://github.com/sveltejs/kit/discussions/7700
-import { dev } from '$app/environment';
-
-export const csr = dev;
-
+// This can be false if you're using a fallback (i.e. SPA mode)
 export const prerender = true;
+export const trailingSlash = 'always';
