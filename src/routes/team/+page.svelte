@@ -21,7 +21,7 @@
 				<a href="https://twitter.com/threatmatic">
 					<img
 						class="p-4 w-[288px] h-[288px] object-cover rounded-lg"
-						src="{base}/headshots/mohan.jpg"
+						src={`${base}/headshots/mohan.jpg`}
 						alt="Mohan Reddy"
 					/>
 				</a>
@@ -60,7 +60,7 @@
 				<a href="https://www.linkedin.com/in/karthik-sivanadiyan/">
 					<img
 						class="p-4 w-[288px] h-[288px] object-cover object-top rounded-lg"
-						src="{base}/headshots/karthik.jpg"
+						src={`${base}/headshots/karthik.jpg`}
 						alt="Mohan Reddy"
 					/>
 				</a>
