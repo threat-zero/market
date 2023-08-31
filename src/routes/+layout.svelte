@@ -25,7 +25,7 @@
 			<a
 				href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
 				target="_blank"
-				rel="noopener noreferrer"
+				rel="external noopener noreferrer"
 				class="mr-2 rounded-lg bg-primary-700 px-4 py-2 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 lg:px-5 lg:py-2.5"
 			>
 				Console
@@ -47,6 +47,13 @@
 			<NavLi href="{base}/product">Product</NavLi>
 			<NavLi href="{base}/pricing">Pricing</NavLi>
 			<NavLi href="{base}/team">Team</NavLi>
+			<NavLi
+				href="https://medium.com/@threatmatic"
+				target="_blank"
+				rel="external noopener noreferrer"
+			>
+				Blog
+			</NavLi>
 		</NavUl>
 	</Navbar>
 </header>
@@ -83,7 +90,7 @@
 							<a
 								href="https://medium.com/@threatmatic"
 								target="_blank"
-								rel="noopener noreferrer"
+								rel="external noopener noreferrer"
 								class="hover:underline"
 							>
 								Blog
@@ -128,7 +135,7 @@
 				<a
 					href="https://twitter.com/threatmatic"
 					target="_blank"
-					rel="noopener noreferrer"
+					rel="external noopener noreferrer"
 					class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
 				>
 					<Icon name="twitter-solid" />
