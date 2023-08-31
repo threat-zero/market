@@ -1,8 +1,14 @@
 name: Deploy to GitHub Pages
 
 on:
+  workflow_dispatch:
+    inputs:
+      dey-run:
+        description: Deploy with dey-run.
+        required: false
   push:
-    branches: 'main'
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'
 
 jobs:
   build_site:
