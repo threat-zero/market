@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { dev } from '$app/environment';
+	import { base } from '$app/paths';
 	import { page } from '$app/stores';
 	import { Icon } from 'flowbite-svelte-icons';
 </script>
@@ -45,7 +46,7 @@
 			<div class="flex items-center">
 				<Icon name="arrow-left-solid" class="mr-2 text-primary-600" />
 				<a
-					href={'#'}
+					href="{base}/"
 					on:click={() => history.back()}
 					class="text-base font-medium text-primary-600 hover:text-teal-500"
 				>
