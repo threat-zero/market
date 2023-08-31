@@ -18,7 +18,11 @@
 			<div
 				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
-				<a href="https://twitter.com/threatmatic" target="_blank" rel="noopener noreferrer">
+				<a
+					href="https://twitter.com/threatmatic"
+					target="_blank"
+					rel="external noopener noreferrer"
+				>
 					<img
 						class="h-[288px] w-[288px] rounded-lg object-cover p-4"
 						src="{base}/headshots/mohan.jpg"
@@ -27,7 +31,11 @@
 				</a>
 				<div class="px-5 pb-5">
 					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-						<a href="https://twitter.com/threatmatic" target="_blank" rel="noopener noreferrer">
+						<a
+							href="https://twitter.com/threatmatic"
+							target="_blank"
+							rel="external noopener noreferrer"
+						>
 							Mohan Reddy
 						</a>
 					</h3>
@@ -49,7 +57,7 @@
 							<a
 								href="https://twitter.com/threatmatic"
 								target="_blank"
-								rel="noopener noreferrer"
+								rel="external noopener noreferrer"
 								class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
 							>
 								<Icon name="twitter-solid" size="xl" />
@@ -64,7 +72,7 @@
 				<a
 					href="https://www.linkedin.com/in/karthik-sivanadiyan/"
 					target="_blank"
-					rel="noopener noreferrer"
+					rel="external noopener noreferrer"
 				>
 					<img
 						class="h-[288px] w-[288px] rounded-lg object-cover object-top p-4"
@@ -77,7 +85,7 @@
 						<a
 							href="https://www.linkedin.com/in/karthik-sivanadiyan/"
 							target="_blank"
-							rel="noopener noreferrer">Karthik Siva</a
+							rel="external noopener noreferrer">Karthik Siva</a
 						>
 					</h3>
 					<span class="text-gray-500">Developer</span>
