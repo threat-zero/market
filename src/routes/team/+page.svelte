@@ -8,29 +8,31 @@
 </svelte:head>
 
 <section class="bg-white dark:bg-gray-900">
-	<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
-		<div class="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
-			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+	<div class="mx-auto max-w-screen-xl px-4 py-8 lg:px-6 lg:py-16">
+		<div class="mx-auto mb-8 max-w-screen-sm text-center lg:mb-16">
+			<h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
 				Our Team
 			</h2>
 		</div>
 		<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
 			<div
-				class="bg-white rounded-lg border border-gray-200 shadow-sm dark:bg-gray-800 dark:border-gray-700"
+				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
-				<a href="https://twitter.com/threatmatic">
+				<a href="https://twitter.com/threatmatic" target="_blank" rel="noopener noreferrer">
 					<img
-						class="p-4 w-[288px] h-[288px] object-cover rounded-lg"
+						class="h-[288px] w-[288px] rounded-lg object-cover p-4"
 						src="{base}/headshots/mohan.jpg"
 						alt="Mohan Reddy"
 					/>
 				</a>
 				<div class="px-5 pb-5">
 					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-						<a href="https://twitter.com/threatmatic">Mohan Reddy</a>
+						<a href="https://twitter.com/threatmatic" target="_blank" rel="noopener noreferrer">
+							Mohan Reddy
+						</a>
 					</h3>
 					<span class="text-gray-500">CEO & Co Founder</span>
-					<p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">
+					<p class="mb-4 mt-3 font-light text-gray-500 dark:text-gray-400">
 						Mohan S. Reddy is a well-known Internet, datacenter, and cybersecurity engineering
 						expert based in the Los Angeles area. He is a Distinguished Engineer at
 						UnitedHealthGroup where he plays a leading role in innovating and advancing a world
@@ -46,6 +48,8 @@
 						<li>
 							<a
 								href="https://twitter.com/threatmatic"
+								target="_blank"
+								rel="noopener noreferrer"
 								class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
 							>
 								<Icon name="twitter-solid" size="xl" />
@@ -55,11 +59,11 @@
 				</div>
 			</div>
 			<div
-				class="bg-white rounded-lg border border-gray-200 shadow-sm dark:bg-gray-800 dark:border-gray-700"
+				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
 				<a href="https://www.linkedin.com/in/karthik-sivanadiyan/">
 					<img
-						class="p-4 w-[288px] h-[288px] object-cover object-top rounded-lg"
+						class="h-[288px] w-[288px] rounded-lg object-cover object-top p-4"
 						src="{base}/headshots/karthik.jpg"
 						alt="Mohan Reddy"
 					/>
@@ -69,7 +73,7 @@
 						<a href="https://www.linkedin.com/in/karthik-sivanadiyan/">Karthik Siva</a>
 					</h3>
 					<span class="text-gray-500">Developer</span>
-					<p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">
+					<p class="mb-4 mt-3 font-light text-gray-500 dark:text-gray-400">
 						Description coming soon.
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">

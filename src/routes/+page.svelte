@@ -10,15 +10,15 @@
 
 <section class="bg-white dark:bg-gray-900">
 	<!--Hero with App Screenshot and CTAs-->
-	<div class="max-w-screen-xl px-4 pt-8 mx-auto text-center lg:pt-16 lg:px-12">
+	<div class="mx-auto max-w-screen-xl px-4 pt-8 text-center lg:px-12 lg:pt-16">
 		<h1
-			class="mb-4 text-4xl font-light tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white"
+			class="mb-4 text-4xl font-light leading-none tracking-tight text-gray-900 dark:text-white md:text-5xl lg:text-6xl"
 		>
 			<span class="text-primary-500"> Zero Trust </span>
 			Demystified
 		</h1>
 		<p
-			class="mb-8 font-light text-gray-500 md:text-lg lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400"
+			class="mb-8 font-light text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-xl xl:px-48"
 		>
 			ThreatMatic™ strikes the perfect balance between functionality and usability. Our
 			unparalleled approach to melding modern user and app identities into a snappy and powerful
@@ -26,40 +26,42 @@
 			responding to ransomware or malware threats, Phishing attacks, DNS poisoning and so much more.
 		</p>
 		<div
-			class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4"
+			class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
 		>
 			<a
 				href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
-				class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
 			>
 				Get a Demo
 			</a>
 		</div>
 		<img
-			class="mx-auto mb-5 lg:mb-8 border border-gray-200 rounded-lg shadow-xl dark:border-gray-600 z-1 dark:hidden"
+			class="z-1 mx-auto mb-5 rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 			src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/dashboard-mockup.svg"
 			alt="dashboard overview"
 		/>
 		<img
-			class="mx-auto mb-5 lg:mb-8 border border-gray-200 rounded-lg shadow-xl dark:border-gray-600 hidden dark:block z-1"
+			class="z-1 mx-auto mb-5 hidden rounded-lg border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
 			src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/dashboard-mockup-dark.svg"
 			alt="dashboard overview dark"
 		/>
 	</div>
 	<!--Social Proof-->
-	<div class="pt-48 lg:pb-16 pb-8 -mt-48 bg-gray-50 sm:pt-80 sm:-mt-80 dark:bg-gray-800 z-2">
-		<div class="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-16 lg:px-6">
-			<dl class="grid max-w-screen-md gap-8 mx-auto text-gray-900 sm:grid-cols-3 dark:text-white">
+	<div class="z-2 -mt-48 bg-gray-50 pb-8 pt-48 dark:bg-gray-800 sm:-mt-80 sm:pt-80 lg:pb-16">
+		<div class="mx-auto max-w-screen-xl px-4 py-8 text-center lg:px-6 lg:py-16">
+			<dl class="mx-auto grid max-w-screen-md gap-8 text-gray-900 dark:text-white sm:grid-cols-3">
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl md:text-4xl font-extrabold">100+</dt>
+					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">100+</dt>
 					<dd class="font-light text-gray-500 dark:text-gray-400">Hours Saved</dd>
 				</div>
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl md:text-4xl font-extrabold">≤5 minutes</dt>
+					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">≤5 Min</dt>
 					<dd class="font-light text-gray-500 dark:text-gray-400">Deployment</dd>
 				</div>
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl md:text-4xl font-extrabold">0</dt>
+					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">0 ms</dt>
 					<dd class="font-light text-gray-500 dark:text-gray-400">Network Latency</dd>
 				</div>
 			</dl>
@@ -69,21 +71,21 @@
 
 <!--Feature List with CTAs-->
 <section class="bg-white dark:bg-gray-900">
-	<div class="py-8 px-4 mx-auto max-w-screen-xl text-center sm:py-16 lg:px-6">
-		<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+	<div class="mx-auto max-w-screen-xl px-4 py-8 text-center sm:py-16 lg:px-6">
+		<h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
 			Simplicity Comes Standard
 		</h2>
-		<p class="text-gray-500 sm:text-xl dark:text-gray-400">
+		<p class="text-gray-500 dark:text-gray-400 sm:text-xl">
 			Whether you’re a 10 person small business or a large enterprise, ThreatMatic™ enables
 			uncompromising endpoint protection.
 		</p>
 		<div
-			class="mt-8 lg:mt-12 space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0"
+			class="mt-8 space-y-8 md:grid md:grid-cols-2 md:gap-12 md:space-y-0 lg:mt-12 lg:grid-cols-3"
 		>
 			<div>
 				<Icon
 					name="fingerprint-solid"
-					class="mx-auto mb-4 w-12 h-12 text-primary-600 dark:text-primary-500"
+					class="mx-auto mb-4 h-12 w-12 text-primary-600 dark:text-primary-500"
 				/>
 				<h3 class="mb-2 text-xl font-bold dark:text-white">
 					No-compromise endpoint security rooted in identity
@@ -92,14 +94,14 @@
 			<div>
 				<Icon
 					name="clock-outline"
-					class="mx-auto mb-4 w-12 h-12 text-primary-600 dark:text-primary-500"
+					class="mx-auto mb-4 h-12 w-12 text-primary-600 dark:text-primary-500"
 				/>
 				<h3 class="mb-2 text-xl font-bold dark:text-white">Millisecond malware countermeasures</h3>
 			</div>
 			<div>
 				<Icon
 					name="draw-square-outline"
-					class="mx-auto mb-4 w-12 h-12 text-primary-600 dark:text-primary-500"
+					class="mx-auto mb-4 h-12 w-12 text-primary-600 dark:text-primary-500"
 				/>
 				<h3 class="mb-2 text-xl font-bold dark:text-white">
 					On demand microsegmentation and app traffic control
@@ -212,16 +214,18 @@
 
 <!--Mailing List Heading with CTA Button-->
 <section class="bg-white dark:bg-gray-900">
-	<div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+	<div class="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 lg:px-6">
 		<div class="mx-auto max-w-screen-sm text-center">
 			<h2
-				class="mb-4 text-4xl tracking-tight font-extrabold leading-tight text-gray-900 dark:text-white"
+				class="mb-4 text-4xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white"
 			>
 				Join our Mailing List!
 			</h2>
 			<a
 				href="https://docs.google.com/forms/d/e/1FAIpQLScTMV_GyN480Jie4voJMwDDb6U6WUv14p0k8do3TPeeb8g9uQ/viewform?usp=sf_link"
-				class="text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="mb-2 mr-2 rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
 			>
 				Interest Form
 			</a>
