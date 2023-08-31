@@ -14,8 +14,8 @@ const config = {
 
 	kit: {
 		version: {
-      name: child_process.execSync('git rev-parse HEAD').toString().trim()
-    },
+			name: child_process.execSync('git rev-parse HEAD').toString().trim()
+		},
 		adapter: adapter({
 			// default options are shown. On some platforms
 			// these options are set automatically — see below
@@ -28,10 +28,10 @@ const config = {
 		paths: {
 			base: dev ? '' : process.env.BASE_PATH
 		},
-		 prerender: {
-      crawl: false,
-      handleEntryGeneratorMismatch: 'warn'
-    },
+		prerender: {
+			crawl: false,
+			handleEntryGeneratorMismatch: 'warn'
+		},
 		serviceWorker: {
 			register: isProd
 		}
