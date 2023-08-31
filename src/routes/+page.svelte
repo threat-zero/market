@@ -29,7 +29,7 @@
 			class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4"
 		>
 			<a
-				href="/"
+				href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
 				class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
 			>
 				Get a Demo
@@ -51,16 +51,16 @@
 		<div class="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-16 lg:px-6">
 			<dl class="grid max-w-screen-md gap-8 mx-auto text-gray-900 sm:grid-cols-3 dark:text-white">
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl md:text-4xl font-extrabold">3</dt>
-					<dd class="font-light text-gray-500 dark:text-gray-400">developers</dd>
+					<dt class="mb-2 text-3xl md:text-4xl font-extrabold">100+</dt>
+					<dd class="font-light text-gray-500 dark:text-gray-400">Hours Saved</dd>
 				</div>
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl md:text-4xl font-extrabold">3</dt>
-					<dd class="font-light text-gray-500 dark:text-gray-400">contributors</dd>
+					<dt class="mb-2 text-3xl md:text-4xl font-extrabold">≤5 minutes</dt>
+					<dd class="font-light text-gray-500 dark:text-gray-400">Deployment</dd>
 				</div>
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl md:text-4xl font-extrabold">2</dt>
-					<dd class="font-light text-gray-500 dark:text-gray-400">organizations</dd>
+					<dt class="mb-2 text-3xl md:text-4xl font-extrabold">0</dt>
+					<dd class="font-light text-gray-500 dark:text-gray-400">Network Latency</dd>
 				</div>
 			</dl>
 		</div>

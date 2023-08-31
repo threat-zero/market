@@ -10,7 +10,9 @@
 		<div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
 			<a href="/" class="flex items-center">
 				<span class="ml-3 text-xl">
-					<span class="text-blue-500 dark:text-blue-400">Threat</span>matic™
+					<span class="text-blue-500 dark:text-blue-400">Threat</span><span class="dark:text-white"
+						>Matic™</span
+					>
 				</span>
 			</a>
 			<div class="flex items-center lg:order-2">
@@ -89,7 +91,9 @@
 			<div class="mb-6 md:mb-0">
 				<a href="/" class="flex items-center">
 					<span class="ml-3 text-xl">
-						<span class="text-blue-500 dark:text-blue-400">Threat</span>matic™
+						<span class="text-blue-500 dark:text-blue-400">Threat</span><span
+							class="dark:text-white">Matic™</span
+						>
 					</span>
 				</a>
 			</div>

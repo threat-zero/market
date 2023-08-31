@@ -1,3 +1,5 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
+
 /** @type {import('tailwindcss').Config} */
 const config = {
 	content: [
@@ -13,7 +15,9 @@ const config = {
 
 	theme: {
 		extend: {
-			fontFamily: {sans: ['arial']},
+			fontFamily: {
+				sans: ['Montserrat', ...defaultTheme.fontFamily.sans]
+			},
 			colors: {
 				// flowbite-svelte blue
 				primary: {

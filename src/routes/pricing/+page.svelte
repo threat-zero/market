@@ -2,6 +2,10 @@
 	import { ComparisonTable } from '$lib/blocks';
 </script>
 
+<svelte:head>
+	<title>ThreatMatic™ | Pricing</title>
+</svelte:head>
+
 <section class="bg-white dark:bg-gray-900">
 	<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
 		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
@@ -81,7 +85,7 @@
 						premium: true
 					},
 					{
-						feature: "Customer Safe Downtime",
+						feature: 'Customer Safe Downtime',
 						description:
 							'No dependence on VPN and based on agent based policing (agnostic of Threatmatic™ downtime)',
 						standard: true,
@@ -110,8 +114,7 @@
 					},
 					{
 						feature: 'Edge2Edge Policy',
-						description:
-							'User and workload ID enforced simultaneously at source & destination',
+						description: 'User and workload ID enforced simultaneously at source & destination',
 						standard: true,
 						premium: true
 					},
@@ -130,8 +133,7 @@
 					},
 					{
 						feature: 'DNSSEC Enforcement',
-						description:
-							'Additional DNS checking to ensure that name records are not spoofed',
+						description: 'Additional DNS checking to ensure that name records are not spoofed',
 						standard: false,
 						premium: true
 					},
@@ -189,7 +191,8 @@
 				'Admin Management': [
 					{
 						feature: 'Cloud-Based Management Platform',
-						description: "Easily build and manage your organization network with our admin dashboard.",
+						description:
+							'Easily build and manage your organization network with our admin dashboard.',
 						standard: true,
 						premium: true
 					},
@@ -203,8 +206,7 @@
 				Support: [
 					{
 						feature: 'Self Service Knowledge Base',
-						description:
-							'Intuitive documents to learn/understand and implement various steps.',
+						description: 'Intuitive documents to learn/understand and implement various steps.',
 						standard: true,
 						premium: true
 					},
