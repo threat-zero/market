@@ -27,7 +27,7 @@
 		"eslint-plugin-svelte": "2.33.0",
 		"flowbite-svelte": "0.44.4",
 		"flowbite-svelte-blocks": "0.4.14",
-		"flowbite-svelte-icons": "0.4.2",
+		"flowbite-svelte-icons": "0.3.6",
 		"flowbite-typography": "1.0.3",
 		"postcss": "8.4.29",
 		"postcss-load-config": "4.0.1",
@@ -42,5 +42,10 @@
 		"vite": "4.4.9",
 		"vitest": "0.34.3"
 	},
-	"type": "module"
+	"type": "module",
+	"pnpm": {
+		"overrides": {
+			"flowbite-svelte-icons": "0.3.6"
+		}
+	}
 }
