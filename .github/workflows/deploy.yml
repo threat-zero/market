@@ -36,8 +36,6 @@ jobs:
         run: pnpm install
 
       - name: build
-        env:
-          BASE_PATH: '/market'
         run: |
           npm run build
           touch build/.nojekyll
