@@ -22,10 +22,10 @@
 		<p
 			class="mb-8 font-light text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-xl xl:px-48"
 		>
-			ThreatMatic™ strikes the perfect balance between functionality and usability. Our
-			unparalleled approach to melding modern user and app identities into a snappy and powerful
-			agent ensures that your most valuable assets are protected in an instant: your advantage when
-			responding to ransomware or malware threats, Phishing attacks, DNS poisoning and so much more.
+			ThreatMatic™ strikes the perfect balance between security and user-friendliness. Our
+			lightweight and powerful agent seemlessly managed from our modern admin-dashboard ensures that
+			your most valuable assets are protected <span class="italic">instantaneously</span> - your advantage when responding to
+			ransomware, malware threats, phishing attacks, DNS poisoning and so much more.
 		</p>
 		<div
 			class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
@@ -59,12 +59,12 @@
 					<dd class="font-light text-gray-500 dark:text-gray-400">Hours Saved</dd>
 				</div>
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">≤5 Min</dt>
-					<dd class="font-light text-gray-500 dark:text-gray-400">Deployment</dd>
+					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">≤10 s</dt>
+					<dd class="font-light text-gray-500 dark:text-gray-400">Policy Creation</dd>
 				</div>
 				<div class="flex flex-col items-center justify-center">
 					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">0 ms</dt>
-					<dd class="font-light text-gray-500 dark:text-gray-400">Network Latency</dd>
+					<dd class="font-light text-gray-500 dark:text-gray-400">Policy Propagation</dd>
 				</div>
 			</dl>
 		</div>
