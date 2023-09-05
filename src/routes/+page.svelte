@@ -24,8 +24,8 @@
 		>
 			ThreatMatic™ strikes the perfect balance between security and user-friendliness. Our
 			lightweight and powerful agent seemlessly managed from our modern admin-dashboard ensures that
-			your most valuable assets are protected <span class="italic">instantaneously</span> - your advantage when responding to
-			ransomware, malware threats, phishing attacks, DNS poisoning and so much more.
+			your most valuable assets are protected <span class="italic">instantaneously</span> - your advantage
+			when responding to ransomware, malware threats, phishing attacks, DNS poisoning and so much more.
 		</p>
 		<div
 			class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
