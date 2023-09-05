@@ -1,5 +1,7 @@
 <script lang="ts">
 	import FeaturesList from '$lib/blocks/FeaturesList.svelte';
+	import dashboardMockupDark from '$lib/images/flowbite/dashboardMockupDark.svg';
+	import dashboardMockupLight from '$lib/images/flowbite/dashboardMockupLight.svg';
 	import { Icon } from 'flowbite-svelte-icons';
 </script>
 
@@ -39,12 +41,12 @@
 		</div>
 		<img
 			class="z-1 mx-auto mb-5 rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
-			src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/dashboard-mockup.svg"
+			src={dashboardMockupLight}
 			alt="dashboard overview"
 		/>
 		<img
 			class="z-1 mx-auto mb-5 hidden rounded-lg border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
-			src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/dashboard-mockup-dark.svg"
+			src={dashboardMockupDark}
 			alt="dashboard overview dark"
 		/>
 	</div>

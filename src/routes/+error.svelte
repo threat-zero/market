@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { dev } from '$app/environment';
-	import { base } from '$app/paths';
 	import { page } from '$app/stores';
+	import flowbiteError from '$lib/images/flowbite/flowbiteError.svg';
 	import { Icon } from 'flowbite-svelte-icons';
 </script>
 
@@ -11,14 +11,14 @@
 
 <section class="bg-white dark:bg-gray-900">
 	<div
-		class="grid-cols-2 gap-8 content-center py-8 px-4 mx-auto max-w-screen-xl md:grid lg:py-16 lg:px-6"
+		class="mx-auto max-w-screen-xl grid-cols-2 content-center gap-8 px-4 py-8 md:grid lg:px-6 lg:py-16"
 	>
 		<div class="self-center">
 			<h1 class="mb-4 text-2xl font-bold text-primary-600 dark:text-primary-500">
 				{$page.status} Internal Error
 			</h1>
 			<p
-				class="mb-4 text-3xl tracking-tight font-bold text-gray-900 lg:mb-10 md:text-4xl dark:text-white"
+				class="mb-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white md:text-4xl lg:mb-10"
 			>
 				Whoops! That page doesn’t exist.
 			</p>
@@ -46,7 +46,7 @@
 			<div class="flex items-center">
 				<Icon name="arrow-left-solid" class="mr-2 text-primary-600" />
 				<a
-					href="{base}/"
+					href="/"
 					on:click={() => history.back()}
 					class="text-base font-medium text-primary-600 hover:text-teal-500"
 				>
@@ -54,10 +54,6 @@
 				</a>
 			</div>
 		</div>
-		<img
-			class="hidden mx-auto mb-4 md:flex"
-			src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/500/500.svg"
-			alt="500 Server Error"
-		/>
+		<img class="mx-auto mb-4 hidden md:flex" src={flowbiteError} alt="500 Server Error" />
 	</div>
 </section>
