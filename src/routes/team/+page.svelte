@@ -1,5 +1,7 @@
 <script lang="ts">
 	import { base } from '$app/paths';
+	import mohan from '$lib/images/headshots/mohan.jpg';
+	import karthik from '$lib/images/headshots/karthik.jpg';
 	import { Icon } from 'flowbite-svelte-icons';
 </script>
 
@@ -24,8 +26,8 @@
 					rel="external noopener noreferrer"
 				>
 					<img
-						class="h-[288px] w-[288px] rounded-lg object-cover p-4"
-						src="{base}/headshots/mohan.jpg"
+						class="w-[288px] h-[288px] rounded-lg object-cover p-4"
+						src={mohan}
 						alt="Mohan Reddy"
 					/>
 				</a>
@@ -75,9 +77,9 @@
 					rel="external noopener noreferrer"
 				>
 					<img
-						class="h-[288px] w-[288px] rounded-lg object-cover object-top p-4"
-						src="{base}/headshots/karthik.jpg"
-						alt="Mohan Reddy"
+						class="w-[288px] h-[288px] rounded-lg object-cover object-top p-4"
+						src={karthik}
+						alt="Karthik Sivanadiyan"
 					/>
 				</a>
 				<div class="px-5 pb-5">
