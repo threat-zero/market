@@ -12,7 +12,11 @@
 	$: activeUrl = $page.url.pathname;
 </script>
 
-<Navbar navClass="fixed w-full z-20 top-0 left-0 bg-surface-1/50 dark:bg-surface-1/50 backdrop-blur-xl" let:hidden let:toggle>
+<Navbar
+	navClass="fixed w-full z-20 top-0 left-0 bg-surface-1/50 dark:bg-surface-1/50 backdrop-blur-xl"
+	let:hidden
+	let:toggle
+>
 	<NavBrand href="/" class="px-2">
 		<!--Do not format into two seperate lines as <span> is whitespace sensitive-->
 		<span class="text-blue-500 dark:text-blue-400">Threat</span><span class="dark:text-white"
@@ -21,7 +25,7 @@
 	</NavBrand>
 	<div class="flex items-center lg:order-2">
 		<a
-			href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
+			href="https://console.threatmatic.com/"
 			target="_blank"
 			rel="external noopener noreferrer"
 			class="mr-2 rounded-lg bg-primary-700 px-4 py-1 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 lg:px-4 lg:py-1"
