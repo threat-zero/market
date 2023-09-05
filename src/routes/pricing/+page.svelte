@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { base } from '$app/paths';
 	import { ComparisonTable } from '$lib/blocks';
 </script>
 
@@ -31,7 +30,7 @@
 					<span class="text-gray-500">/month</span>
 				</div>
 				<a
-					href="{base}/"
+					href="/"
 					class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900"
 				>
 					Get started
@@ -53,7 +52,7 @@
 					<span class="text-gray-500">/month</span>
 				</div>
 				<a
-					href="{base}/"
+					href="/"
 					class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900"
 				>
 					Get started
