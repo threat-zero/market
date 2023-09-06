@@ -3,12 +3,156 @@
 	import dashboardMockupDark from '$lib/images/flowbite/dashboardMockupDark.svg';
 	import dashboardMockupLight from '$lib/images/flowbite/dashboardMockupLight.svg';
 	import { Icon } from 'flowbite-svelte-icons';
+	import { JsonLd, MetaTags } from 'svelte-meta-tags';
 </script>
 
-<svelte:head>
-	<title>Threatmatic™</title>
-	<meta name="description" content="ThreatMatic™ Zero Trust Security Demystified" />
-</svelte:head>
+<MetaTags
+	{...{
+		title: 'Home',
+		titleTemplate: '%s | ThreatMatic™',
+		description:
+			'ThreatMatic™ Zero-Trust, Bandwidth, Network, Microsegmentation, and Defense-in-Depth features',
+		canonical: 'https://threatmatic.com/',
+		openGraph: {
+			url: 'https://www.threatmatic.com/',
+			title: 'Home',
+			description:
+				'ThreatMatic™ Zero-Trust, Bandwidth, Network, Microsegmentation, and Defense-in-Depth features',
+			images: [
+				{
+					url: 'https://threatmatic.com/_app/immutable/assets/dashboardMockupLight.31c48286.svg',
+					alt: 'ThreatMatic Dashboard Mockup Light Version',
+					width: 800,
+					height: 600,
+					secureUrl:
+						'https://threatmatic.com/_app/immutable/assets/dashboardMockupLight.31c48286.svg',
+					type: 'image/jpeg'
+				},
+				{
+					url: 'https://threatmatic.com/_app/immutable/assets/dashboardMockupDark.95a900fd.svg',
+					alt: 'ThreatMatic Dashboard Mockup Dark Version',
+					width: 800,
+					height: 600,
+					secureUrl:
+						'https://threatmatic.com/_app/immutable/assets/dashboardMockupDark.95a900fd.svg',
+					type: 'image/jpeg'
+				}
+			],
+			siteName: 'ThreatMatic™'
+		},
+		twitter: {
+			handle: '@threatmatic',
+			summary: 'summary_large_image',
+			site: '@threatmatic'
+		}
+	}}
+/>
+
+<JsonLd
+	schema={[
+		{
+			'@context': 'https://schema.org',
+			'@type': 'organization',
+			email: 'threatmatic@gmail.com',
+			employee: 'Mohan Reddy',
+			founder: 'Mohan Reddy',
+			telephone: '5626732599',
+			employees: [
+				{
+					'@context': 'https://schema.org',
+					'@type': 'person',
+					name: 'Mohan Reddy',
+					telephone: '5626732599',
+					alumniOf: {
+						'@context': 'https://schema.org',
+						'@type': 'CollegeOrUniversity',
+						name: 'Florida Atlantic University'
+					}
+				}
+			]
+		},
+		{
+			'@context': 'https://schema.org/',
+			'@type': 'Recipe',
+			name: 'Banana Bread Recipe',
+			description:
+				"The best banana bread recipe you'll ever find! Learn how to use up all those extra bananas."
+		},
+		{
+			'@context': 'https://schema.org',
+			'@type': 'WebApplication',
+			applicationCategory: 'SecurityApplication',
+			description: "ThreatMatic™'s flagship product consisting of the agent and admin dashboard.",
+			featureList:
+				"Fully ID aware across all your users and workloads, Unlimited Policies, Run on Customer Provided Infrastructure, Customer Safe Downtime, Cybersecurity Mesh Architecture, Cloud Ready ThreatMatic™, Zero Trust Mesh Architecture, Edge2Edge Policy, DNS Lock, Port Scanner Protection, DNSSEC Enforcement, Disable DoH (DNS over HTTP), Flexible IPsec Traffic Steering with sChannel, Metered Socket Actions (QoS), Compliance Signals, TrustZero Cloud Proxy, Advanced Analytics, 'ThreatMatic API', 'Mitre Attack Integrated', 'Cloud-Based Management Platform', 'API Support', Self Service Knowledge Base, Designated Account Manager, Technical Specialist, Phone Support, Chat/Email Support",
+			keywords:
+				'Access Application Bandwidth Blocking Browser Cloud Control DNS DNS-over-HTTP Executable Free Granular Inbound Instant Integration Intelligence Internet Limits Malware Monitoring Performance Precise Rapid Resource Rule-Based Threat Traffic Trust Tuning Vulnerability-Based Zero ',
+			name: 'ThreatMatic™ Pricing Structure',
+			offers: [
+				{
+					'@type': 'offer',
+					businessFunction: 'Sell',
+					category: 'https://threatmatic.com/pricing',
+					disambiguatingDescription: 'ThreatMatic Standard Working Tier',
+					name: 'Standard Workstation',
+					price: '9.99',
+					priceCurrency: 'USD',
+					priceSpecification: {
+						'@type': 'UnitPriceSpecification',
+						billingDuration: 'month'
+					}
+				},
+				{
+					'@type': 'offer',
+					businessFunction: 'Sell',
+					category: 'https://threatmatic.com/pricing',
+					disambiguatingDescription: 'ThreatMatic Standard Workstation Tier',
+					name: 'Standard Workstation',
+					price: '49.99',
+					priceCurrency: 'USD',
+					priceSpecification: {
+						'@type': 'UnitPriceSpecification',
+						billingDuration: 'month'
+					}
+				},
+				{
+					'@type': 'offer',
+					businessFunction: 'Sell',
+					category: 'https://threatmatic.com/pricing',
+					disambiguatingDescription: 'ThreatMatic Premium Workstation Tier',
+					name: 'Premium User',
+					price: '12.99',
+					priceCurrency: 'USD',
+					priceSpecification: {
+						'@type': 'UnitPriceSpecification',
+						billingDuration: 'month'
+					}
+				},
+				{
+					'@type': 'offer',
+					businessFunction: 'Sell',
+					category: 'https://threatmatic.com/pricing',
+					disambiguatingDescription: 'ThreatMatic Premium Workstation Tier',
+					name: 'Premium User',
+					price: '59.99',
+					priceCurrency: 'USD',
+					priceSpecification: {
+						'@type': 'UnitPriceSpecification',
+						billingDuration: 'month'
+					}
+				}
+			],
+			operatingSystem: 'WINDOWS',
+			provider: {
+				'@type': 'organization',
+				email: 'threatmatic@gmail.com',
+				employee: 'Mohan Reddy',
+				founder: 'Mohan Reddy',
+				telephone: '5626732599'
+			}
+		}
+	]}
+/>
 
 <section class="bg-white dark:bg-gray-900">
 	<!--Hero with App Screenshot and CTAs-->
