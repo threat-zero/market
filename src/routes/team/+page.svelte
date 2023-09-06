@@ -1,13 +1,35 @@
 <script lang="ts">
-	import { base } from '$app/paths';
 	import mohan from '$lib/images/headshots/mohan.jpg';
-	import karthik from '$lib/images/headshots/karthik.jpg';
+	import { MetaTags } from 'svelte-meta-tags';
 	import { Icon } from 'flowbite-svelte-icons';
 </script>
 
-<svelte:head>
-	<title>ThreatMatic™ | Team</title>
-</svelte:head>
+<MetaTags
+	{...{
+		title: 'Team',
+		titleTemplate: '%s | Team™',
+		description: 'ThreatMatic™ Team',
+		canonical: 'https://threatmatic.com/team',
+		openGraph: {
+			url: 'https://www.threatmatic.com/team',
+			title: 'Home',
+			description: 'ThreatMatic™ Team',
+			images: [
+				{
+					url: 'https://threatmatic.com/_app/immutable/assets/mohan.0dcfc7d0.jpg',
+					width: 800,
+					height: 600,
+					alt: "Mohan Reddy's Headshot"
+				}
+			],
+			siteName: 'ThreatMatic™'
+		},
+		twitter: {
+			handle: '@threatmatic',
+			site: '@threatmatic'
+		}
+	}}
+/>
 
 <section class="bg-white dark:bg-gray-900">
 	<div class="mx-auto max-w-screen-xl px-4 py-8 lg:px-6 lg:py-16">

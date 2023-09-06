@@ -1,10 +1,26 @@
 <script lang="ts">
+	import { MetaTags } from 'svelte-meta-tags';
 	import { ComparisonTable } from '$lib/blocks';
 </script>
 
-<svelte:head>
-	<title>ThreatMatic™ | Pricing</title>
-</svelte:head>
+<MetaTags
+	{...{
+		title: 'Pricing',
+		titleTemplate: '%s | ThreatMatic™',
+		description: 'ThreatMatic™ Pricing Tiers',
+		canonical: 'https://threatmatic.com/pricing',
+		openGraph: {
+			url: 'https://www.threatmatic.com/pricing',
+			title: 'Home',
+			description: 'ThreatMatic™ Pricing Tiers',
+			siteName: 'ThreatMatic™'
+		},
+		twitter: {
+			handle: '@threatmatic',
+			site: '@threatmatic'
+		}
+	}}
+/>
 
 <section class="bg-white dark:bg-gray-900">
 	<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
