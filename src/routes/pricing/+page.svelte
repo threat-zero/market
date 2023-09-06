@@ -48,7 +48,7 @@
 				</div>
 				<h2 class="text-xl font-medium">Workstation</h2>
 				<div class="flex justify-center items-baseline my-8">
-					<span class="mr-2 text-5xl font-extrabold">$15.99</span>
+					<span class="mr-2 text-5xl font-extrabold">$59.99</span>
 					<span class="text-gray-500">/month</span>
 				</div>
 				<a
