@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { onNavigate } from '$app/navigation';
 	import { page } from '$app/stores';
 	import { DarkMode, NavBrand, NavHamburger, NavLi, NavUl, Navbar } from 'flowbite-svelte';
 
@@ -10,9 +11,21 @@
 	const gitDate = __GIT_DATE__;
 
 	$: activeUrl = $page.url.pathname;
+
+	onNavigate((navigation) => {
+		if (!document.startViewTransition) return;
+
+		return new Promise((resolve) => {
+			document.startViewTransition(async () => {
+				resolve();
+				await navigation.complete;
+			});
+		});
+	});
 </script>
 
 <Navbar
+	id="header"
 	navClass="fixed w-full z-20 top-0 left-0 bg-surface-1/50 dark:bg-surface-1/50 backdrop-blur-xl"
 	let:hidden
 	let:toggle
