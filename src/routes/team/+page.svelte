@@ -1,7 +1,8 @@
 <script lang="ts">
 	import mohan from '$lib/images/headshots/mohan.jpg';
-	import { MetaTags } from 'svelte-meta-tags';
+	import viswanath from '$lib/images/headshots/viswanath.jpg';
 	import { Icon } from 'flowbite-svelte-icons';
+	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
 <MetaTags
@@ -75,6 +76,52 @@
 						SDNs and next gen datacenters. He holds a master’s degree in computer science from
 						Florida Atlantic University, and a bachelor’s degree in computer engineering from
 						Bangalore University. Mohan is a multiple CCIE #23501 Emeritus, PCNSE, and CCSI #34359.
+					</p>
+					<ul class="flex space-x-4 sm:mt-0">
+						<li>
+							<a
+								href="https://twitter.com/threatmatic"
+								target="_blank"
+								rel="external noopener noreferrer"
+								class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+							>
+								<Icon name="twitter-solid" size="xl" />
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div
+				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
+			>
+				<a
+					href="https://twitter.com/threatmatic"
+					target="_blank"
+					rel="external noopener noreferrer"
+				>
+					<img
+						class="w-[288px] h-[288px] rounded-lg object-cover p-4"
+						src={viswanath}
+						alt="Viswanath VK"
+					/>
+				</a>
+				<div class="px-5 pb-5">
+					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+						<a
+							href="https://twitter.com/threatmatic"
+							target="_blank"
+							rel="external noopener noreferrer"
+						>
+							Viswanath VK
+						</a>
+					</h3>
+					<span class="text-gray-500">Product</span>
+					<p class="mb-4 mt-3 font-light text-gray-500 dark:text-gray-400">
+						VK has been involved in creating products across a wide range of domains - risk/security
+						, payments , trust and safety for the last 15 years. He has worked at companies like
+						Meta , Paypal where he has helped design data and intuition based solutions to provide
+						security at scale focusing on customer acquisition,retention and servicing. He also
+						brings ML based experience to further enhance product customization and reach.
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
