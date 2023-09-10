@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 overrides:
-  flowbite-svelte-icons: 0.3.6
+  flowbite-svelte-icons: 0.4.3
 
 devDependencies:
   '@playwright/test':
@@ -45,8 +45,8 @@ devDependencies:
     specifier: 0.4.14
     version: 0.4.14(svelte@4.2.0)(tailwindcss@3.3.3)
   flowbite-svelte-icons:
-    specifier: 0.3.6
-    version: 0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3)
+    specifier: 0.4.3
+    version: 0.4.3(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3)
   flowbite-typography:
     specifier: 1.0.3
     version: 1.0.3(tailwindcss@3.3.3)
@@ -1355,15 +1355,15 @@ packages:
     dependencies:
       flowbite: 1.8.1
       flowbite-svelte: 0.44.4(svelte@4.2.0)
-      flowbite-svelte-icons: 0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3)
+      flowbite-svelte-icons: 0.4.3(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3)
       svelte: 4.2.0
       tailwind-merge: 1.14.0
     transitivePeerDependencies:
       - tailwindcss
     dev: true
 
-  /flowbite-svelte-icons@0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3):
-    resolution: {integrity: sha512-4YEq++cbD36KF+zGgLqfkmQgfWGMAP7tjDbesuieROx6UgbMBTtj7f4n49iO+g1cMLelGsCkyZiwelCXDbIJ2w==}
+  /flowbite-svelte-icons@0.4.3(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3):
+    resolution: {integrity: sha512-tDw9sI+wAZJVNInr/Wh6l4iz3SeOvVnxjL8DiqUnvakLRawIcneAYUKUzQQaazCbsNmgUkKo3HKOpqWwR0y1Zg==}
     peerDependencies:
       svelte: ^3.54.0 || ^4.0.0
       tailwind-merge: ^1.13.2
