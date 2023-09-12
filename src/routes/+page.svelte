@@ -207,7 +207,7 @@
 					<dd class="font-light text-gray-500 dark:text-gray-400">Policy Creation</dd>
 				</div>
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">0 ms</dt>
+					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">ms</dt>
 					<dd class="font-light text-gray-500 dark:text-gray-400">Policy Propagation</dd>
 				</div>
 			</dl>
