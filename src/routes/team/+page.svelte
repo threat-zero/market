@@ -1,6 +1,8 @@
 <script lang="ts">
 	import mohan from '$lib/images/headshots/mohan.jpg';
 	import viswanath from '$lib/images/headshots/viswanath.jpg';
+	import reena from '$lib/images/headshots/reena.jpg';
+	import naren from '$lib/images/headshots/naren.jpg';
 	import { Icon } from 'flowbite-svelte-icons';
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
@@ -137,6 +139,101 @@
 					</ul>
 				</div>
 			</div>
+			<div
+				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
+			>
+				<a
+					href="https://twitter.com/threatmatic"
+					target="_blank"
+					rel="external noopener noreferrer"
+				>
+					<img
+						class="w-[288px] h-[288px] rounded-lg object-none object-top p-4"
+						src={reena}
+						alt="Reena Vaswani"
+					/>
+				</a>
+				<div class="px-5 pb-5">
+					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+						<a
+							href="https://twitter.com/threatmatic"
+							target="_blank"
+							rel="external noopener noreferrer"
+						>
+							Reena Vaswani
+						</a>
+					</h3>
+					<span class="text-gray-500">Business Operations</span>
+					<p class="mb-4 mt-3 font-light text-gray-500 dark:text-gray-400">
+						Reena Vaswani received her Master’s Degree in Computer Science from Northwestern
+						University. She has over 15 years of experience delivering complete IT solutions to
+						public and private sector clients both in the U.S. and internationally. She is certified
+						in ITIL and CSM. In 2012, Reena Vaswani participated in Goldman Sachs 10,000 Small
+						Businesses program designed to help small businesses in the United States create jobs
+						and economic growth by providing entrepreneurs with a practical business and management
+						education, access to capital and business support services.
+					</p>
+					<ul class="flex space-x-4 sm:mt-0">
+						<li>
+							<a
+								href="https://twitter.com/threatmatic"
+								target="_blank"
+								rel="external noopener noreferrer"
+								class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+							>
+								<Icon name="twitter-solid" size="xl" />
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- <div
+				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
+			>
+				<a
+					href="https://twitter.com/threatmatic"
+					target="_blank"
+					rel="external noopener noreferrer"
+				>
+					<img
+						class="w-[288px] h-[288px] rounded-lg object-none object-top p-4"
+						src={naren}
+						alt="Naren Goel"
+					/>
+				</a>
+				<div class="px-5 pb-5">
+					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+						<a
+							href="https://twitter.com/threatmatic"
+							target="_blank"
+							rel="external noopener noreferrer"
+						>
+							Naren Goel
+						</a>
+					</h3>
+					<span class="text-gray-500">Chief Financial Officer</span>
+					<p class="mb-4 mt-3 font-light text-gray-500 dark:text-gray-400">
+						Naren Goel brings nearly 20 years of senior finance leadership experience to the
+						position, having led a broad range of startups to large corporations such as VMWare
+						through various stages of growth. Goel has a strong background as a financial executive
+						for a number of enterprise software and cloud computing organizations, including an
+						understanding of Software-as-a-Service-model. He has also earned an ACMA (Chartered
+						Management Accountant) designation in the U.K.
+					</p>
+					<ul class="flex space-x-4 sm:mt-0">
+						<li>
+							<a
+								href="https://twitter.com/threatmatic"
+								target="_blank"
+								rel="external noopener noreferrer"
+								class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+							>
+								<Icon name="twitter-solid" size="xl" />
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div> -->
 		</div>
 	</div>
 </section>
