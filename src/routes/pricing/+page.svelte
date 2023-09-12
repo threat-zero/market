@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { MetaTags } from 'svelte-meta-tags';
 	import { ComparisonTable } from '$lib/blocks';
+	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
 <MetaTags
@@ -46,10 +46,12 @@
 					<span class="text-gray-500">/month</span>
 				</div>
 				<a
-					href="/"
+					href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
+					target="_blank"
+					rel="external noopener noreferrer"
 					class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900"
 				>
-					Get started
+					Contact Us
 				</a>
 			</div>
 			<!-- Pricing Card -->
@@ -68,10 +70,12 @@
 					<span class="text-gray-500">/month</span>
 				</div>
 				<a
-					href="/"
+					href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
+					target="_blank"
+					rel="external noopener noreferrer"
 					class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900"
 				>
-					Get started
+					Contact Us
 				</a>
 			</div>
 		</div>
@@ -97,13 +101,6 @@
 						feature: 'Run on Customer Provided Infrastructure',
 						description:
 							'No dependence on VPN; run solely on org network - thus providing better security.',
-						standard: true,
-						premium: true
-					},
-					{
-						feature: 'Customer Safe Downtime',
-						description:
-							'No dependence on VPN and based on agent based policing (agnostic of Threatmatic™ downtime)',
 						standard: true,
 						premium: true
 					},
@@ -148,15 +145,15 @@
 						premium: true
 					},
 					{
-						feature: 'DNSSEC Enforcement',
-						description: 'Additional DNS checking to ensure that name records are not spoofed',
-						standard: false,
-						premium: true
-					},
-					{
 						feature: 'Disable DoH (DNS over HTTP)',
 						description: 'Bypass common browser DoH shortcuts',
 						standard: true,
+						premium: true
+					},
+					{
+						feature: 'DNSSEC Enforcement',
+						description: 'Additional DNS checking to ensure that name records are not spoofed',
+						standard: false,
 						premium: true
 					},
 					{
@@ -227,6 +224,12 @@
 						premium: true
 					},
 					{
+						feature: 'Chat/Email Support',
+						description: 'COMING SOON',
+						standard: true,
+						premium: true
+					},
+					{
 						feature: 'Designated Account Manager',
 						description: 'COMING SOON',
 						standard: false,
@@ -242,12 +245,6 @@
 						feature: 'Phone Support',
 						description: 'COMING SOON',
 						standard: false,
-						premium: true
-					},
-					{
-						feature: 'Chat/Email Support',
-						description: 'COMING SOON',
-						standard: true,
 						premium: true
 					}
 				]
