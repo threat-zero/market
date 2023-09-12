@@ -33,8 +33,8 @@
 	<NavBrand href="/" class="px-2">
 		<!--Do not format into two seperate lines as <span> is whitespace sensitive-->
 		<span class="text-blue-500 dark:text-blue-400">Threat</span><span class="dark:text-white"
-			>Matic™</span
-		>
+			>Matic</span
+		><span class="text-xs dark:text-white">™</span>
 	</NavBrand>
 	<div class="flex items-center lg:order-2">
 		<a
@@ -71,8 +71,8 @@
 					<span class="ml-3 text-xl">
 						<!--Do not format into two seperate lines as <span> is whitespace sensitive-->
 						<span class="text-blue-500 dark:text-blue-400">Threat</span><span
-							class="dark:text-white">Matic™</span
-						>
+							class="dark:text-white">Matic</span
+						><span class="text-xs dark:text-white">™</span>
 					</span>
 				</a>
 			</div>
