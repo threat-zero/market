@@ -1,10 +1,34 @@
 <script lang="ts">
 	import product from '$lib/images/product/product.png';
+	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
-<svelte:head>
-	<title>ThreatMatic™ | Product</title>
-</svelte:head>
+<MetaTags
+	{...{
+		title: 'Product',
+		titleTemplate: '%s | Product™',
+		description: 'ThreatMatic™ Product',
+		canonical: 'https://threatmatic.com/product',
+		openGraph: {
+			url: 'https://www.threatmatic.com/product',
+			title: 'Home',
+			description: 'ThreatMatic™ Product',
+			images: [
+				{
+					url: 'https://threatmatic.com/_app/immutable/assets/product.158ef51e.png',
+					width: 800,
+					height: 600,
+					alt: "Product Graphic"
+				}
+			],
+			siteName: 'ThreatMatic™'
+		},
+		twitter: {
+			handle: '@threatmatic',
+			site: '@threatmatic'
+		}
+	}}
+/>
 
 <section class="bg-white dark:bg-gray-900">
 	<div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
