@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Icon } from 'flowbite-svelte-icons';
+	import product from '$lib/images/product/product.png';
 </script>
 
 <svelte:head>
@@ -7,15 +7,36 @@
 </svelte:head>
 
 <section class="bg-white dark:bg-gray-900">
-	<div class="py-8 px-4 mx-auto max-w-screen-md text-center lg:py-16 lg:px-12">
-		<Icon name="ruler-combined-solid" class="mx-auto mb-4 text-gray-400" size="xl" />
-		<h1
-			class="mb-4 text-4xl font-bold tracking-tight leading-none text-gray-900 lg:mb-6 md:text-5xl xl:text-6xl dark:text-white"
-		>
-			Under Maintenance
-		</h1>
-		<p class="font-light text-gray-500 md:text-lg xl:text-xl dark:text-gray-400">
-			Our developers are working on this page. It will be available soon.
-		</p>
+	<div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
+		<!-- Row -->
+		<div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
+			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
+				<h2 class="mb-4 text-2xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+					ThreatZero is a potent solution for a smart zero-trust edge and rapid malware counter
+					measures with unparalleled visibility and control.
+				</h2>
+				<p class="mb-8 font-light lg:text-xl">
+					Today’s cyber defenses are typically constructed with a perimeter focus where the security
+					is built from outside-in, and this is the main reason why we have so many security
+					breaches that cause massive loss of data, trust and productivity, and are expensive to
+					mitigate. We have taken a novel approach to building an end point focused zero-trust
+					solution that is guided by simplicity of deployment with ultra low-latency policy updates
+					for an impermeable Zero-Trust edge. Our lightweight agent coupled with AI cloud engine has
+					the power to secure your servers and workstations regardless of size, scope or location,
+					in a matter of milliseconds. Our policy driven model is rooted in identity and secured by
+					the latest encryption and cloud-native technology.
+				</p>
+				<p class="mb-8 font-light lg:text-xl">
+					Our cloud policy engine (also available on-site) is scalable, secure and reliable and can
+					instantly control the security posture on all your endpoints (users and servers) for
+					multi-dimensional protection based on identity and each app/exe.
+				</p>
+			</div>
+			<img
+				class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
+				src={product}
+				alt="Product Graphic"
+			/>
+		</div>
 	</div>
 </section>
