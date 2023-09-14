@@ -187,7 +187,7 @@
 					</ul>
 				</div>
 			</div>
-			<!-- <div
+			<div
 				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
 				<a
@@ -211,7 +211,7 @@
 							Naren Goel
 						</a>
 					</h3>
-					<span class="text-gray-500">Chief Financial Officer</span>
+					<span class="text-gray-500">Board</span>
 					<p class="mb-4 mt-3 font-light text-gray-500 dark:text-gray-400">
 						Naren Goel brings nearly 20 years of senior finance leadership experience to the
 						position, having led a broad range of startups to large corporations such as VMWare
@@ -233,7 +233,7 @@
 						</li>
 					</ul>
 				</div>
-			</div> -->
+			</div>
 		</div>
 	</div>
 </section>
