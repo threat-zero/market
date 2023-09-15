@@ -31,10 +31,9 @@
 	let:toggle
 >
 	<NavBrand href="/" class="px-2">
-		<!--Do not format into two seperate lines as <span> is whitespace sensitive-->
-		<span class="text-blue-500 dark:text-blue-400">Threat</span><span class="dark:text-white"
-			>Matic</span
-		><span class="text-xs dark:text-white">™</span>
+		<div class="text-blue-500 dark:text-blue-400">Threat</div>
+		<div class="dark:text-white">Matic</div>
+		<div class="text-xs dark:text-white">™</div>
 	</NavBrand>
 	<div class="flex items-center lg:order-2">
 		<a
@@ -67,13 +66,11 @@
 	<div class="mx-auto max-w-screen-xl">
 		<div class="md:flex md:justify-between">
 			<div class="mb-6 md:mb-0">
-				<a href="/" class="flex items-center">
-					<span class="ml-3 text-xl">
-						<!--Do not format into two seperate lines as <span> is whitespace sensitive-->
-						<span class="text-blue-500 dark:text-blue-400">Threat</span><span
-							class="dark:text-white">Matic</span
-						><span class="text-xs dark:text-white">™</span>
-					</span>
+				<a href="/">
+					<!--Do not format into two seperate lines as <span> is whitespace sensitive-->
+					<span class="text-blue-500 dark:text-blue-400">Threat</span><span class="dark:text-white"
+						>Matic</span
+					><span class="text-xs dark:text-white">™</span>
 				</a>
 			</div>
 			<div class="grid grid-cols-2 gap-8 sm:grid-cols-3 sm:gap-6">

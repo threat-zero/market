@@ -184,7 +184,7 @@
 					},
 					{
 						feature: 'Advanced Analytics',
-						description: 'Rich AI and ML powered analytics from the Cloud or On-prem',
+						description: 'Coming Soon!',
 						standard: false,
 						premium: true
 					},
@@ -225,25 +225,25 @@
 					},
 					{
 						feature: 'Chat/Email Support',
-						description: 'COMING SOON',
+						description: 'Coming Soon!',
 						standard: true,
 						premium: true
 					},
 					{
 						feature: 'Designated Account Manager',
-						description: 'COMING SOON',
+						description: 'Coming Soon!',
 						standard: false,
 						premium: true
 					},
 					{
 						feature: 'Technical Specialist',
-						description: 'COMING SOON',
+						description: 'Coming Soon!',
 						standard: false,
 						premium: true
 					},
 					{
 						feature: 'Phone Support',
-						description: 'COMING SOON',
+						description: 'Coming Soon!',
 						standard: false,
 						premium: true
 					}

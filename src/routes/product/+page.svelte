@@ -18,7 +18,7 @@
 					url: 'https://threatmatic.com/_app/immutable/assets/product.158ef51e.png',
 					width: 800,
 					height: 600,
-					alt: "Product Graphic"
+					alt: 'Product Graphic'
 				}
 			],
 			siteName: 'ThreatMatic™'
