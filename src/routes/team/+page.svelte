@@ -66,7 +66,7 @@
 							Mohan Reddy
 						</a>
 					</h3>
-					<span class="text-gray-500">CEO & Co-Founder</span>
+					<span class="text-gray-500">Engineering</span>
 					<p class="mb-4 mt-3 font-light text-gray-500 dark:text-gray-400">
 						Mohan S. Reddy is a well-known Internet, datacenter, and cybersecurity engineering
 						expert based in the Los Angeles area. He is a Distinguished Engineer at
@@ -82,12 +82,12 @@
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
 							<a
-								href="https://twitter.com/threatmatic"
+								href="https://www.linkedin.com/in/mohan-s-reddy-5b2b86b/"
 								target="_blank"
 								rel="external noopener noreferrer"
 								class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
 							>
-								<Icon name="twitter-solid" size="xl" />
+								<Icon name="linkedin-solid" size="xl" />
 							</a>
 						</li>
 					</ul>
@@ -97,7 +97,7 @@
 				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
 				<a
-					href="https://twitter.com/threatmatic"
+					href="https://www.linkedin.com/in/viswanathvk"
 					target="_blank"
 					rel="external noopener noreferrer"
 				>
@@ -110,7 +110,7 @@
 				<div class="px-5 pb-5">
 					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
 						<a
-							href="https://twitter.com/threatmatic"
+							href="https://www.linkedin.com/in/viswanathvk"
 							target="_blank"
 							rel="external noopener noreferrer"
 						>
@@ -120,20 +120,20 @@
 					<span class="text-gray-500">Product</span>
 					<p class="mb-4 mt-3 font-light text-gray-500 dark:text-gray-400">
 						VK has been involved in creating products across a wide range of domains - risk/security
-						, payments , trust and safety for the last 15 years. He has worked at companies like
-						Meta , Paypal where he has helped design data and intuition based solutions to provide
+						, payments, trust and safety for the last 15 years. He has worked at companies like Meta
+						and Paypal where he has helped design data and intuition based solutions to provide
 						security at scale focusing on customer acquisition,retention and servicing. He also
 						brings ML based experience to further enhance product customization and reach.
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
 							<a
-								href="https://twitter.com/threatmatic"
+								href="https://www.linkedin.com/in/viswanathvk"
 								target="_blank"
 								rel="external noopener noreferrer"
 								class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
 							>
-								<Icon name="twitter-solid" size="xl" />
+								<Icon name="linkedin-solid" size="xl" />
 							</a>
 						</li>
 					</ul>
@@ -143,7 +143,7 @@
 				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
 				<a
-					href="https://twitter.com/threatmatic"
+					href="https://www.linkedin.com/in/reena-j-vaswani-15927214"
 					target="_blank"
 					rel="external noopener noreferrer"
 				>
@@ -156,7 +156,7 @@
 				<div class="px-5 pb-5">
 					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
 						<a
-							href="https://twitter.com/threatmatic"
+							href="https://www.linkedin.com/in/reena-j-vaswani-15927214"
 							target="_blank"
 							rel="external noopener noreferrer"
 						>
@@ -176,12 +176,12 @@
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
 							<a
-								href="https://twitter.com/threatmatic"
+								href="https://www.linkedin.com/in/reena-j-vaswani-15927214"
 								target="_blank"
 								rel="external noopener noreferrer"
 								class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
 							>
-								<Icon name="twitter-solid" size="xl" />
+								<Icon name="linkedin-solid" size="xl" />
 							</a>
 						</li>
 					</ul>
@@ -191,7 +191,7 @@
 				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
 				<a
-					href="https://twitter.com/threatmatic"
+					href="https://www.linkedin.com/in/naren-goel-527297"
 					target="_blank"
 					rel="external noopener noreferrer"
 				>
@@ -204,7 +204,7 @@
 				<div class="px-5 pb-5">
 					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
 						<a
-							href="https://twitter.com/threatmatic"
+							href="https://www.linkedin.com/in/naren-goel-527297"
 							target="_blank"
 							rel="external noopener noreferrer"
 						>
@@ -223,12 +223,12 @@
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
 							<a
-								href="https://twitter.com/threatmatic"
+								href="https://www.linkedin.com/in/naren-goel-527297"
 								target="_blank"
 								rel="external noopener noreferrer"
 								class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
 							>
-								<Icon name="twitter-solid" size="xl" />
+								<Icon name="linkedin-solid" size="xl" />
 							</a>
 						</li>
 					</ul>
