@@ -29,7 +29,7 @@
 		"flowbite-svelte-blocks": "0.4.14",
 		"flowbite-svelte-icons": "0.3.6",
 		"flowbite-typography": "1.0.3",
-		"postcss": "8.4.29",
+		"postcss": "8.4.31",
 		"postcss-load-config": "4.0.1",
 		"prettier": "3.0.3",
 		"prettier-plugin-svelte": "3.0.3",
