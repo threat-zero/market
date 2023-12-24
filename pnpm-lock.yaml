@@ -43,13 +43,13 @@ devDependencies:
     version: 0.44.4(svelte@4.2.0)
   flowbite-svelte-blocks:
     specifier: 0.4.14
-    version: 0.4.14(svelte@4.2.0)(tailwindcss@3.3.3)
+    version: 0.4.14(svelte@4.2.0)(tailwindcss@3.4.0)
   flowbite-svelte-icons:
     specifier: 0.3.6
-    version: 0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3)
+    version: 0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.4.0)
   flowbite-typography:
     specifier: 1.0.3
-    version: 1.0.3(tailwindcss@3.3.3)
+    version: 1.0.3(tailwindcss@3.4.0)
   postcss:
     specifier: 8.4.29
     version: 8.4.29
@@ -75,8 +75,8 @@ devDependencies:
     specifier: 3.0.3
     version: 3.0.3(svelte@4.2.0)(typescript@5.2.2)
   tailwindcss:
-    specifier: 3.3.3
-    version: 3.3.3
+    specifier: 3.4.0
+    version: 3.4.0
   tslib:
     specifier: 2.6.2
     version: 2.6.2
@@ -1347,7 +1347,7 @@ packages:
     resolution: {integrity: sha512-5nqDSxl8nn5BSNxyR3n4I6eDmbolI6WT+QqR547RwxQapgjQBmtktdP+HTBb/a/zLsbzERTONyUB5pefh5TtjQ==}
     dev: true
 
-  /flowbite-svelte-blocks@0.4.14(svelte@4.2.0)(tailwindcss@3.3.3):
+  /flowbite-svelte-blocks@0.4.14(svelte@4.2.0)(tailwindcss@3.4.0):
     resolution: {integrity: sha512-tpELDnvNkbCJ1wecDhT4Ky2Oa7UDm7Pamxkq5q1VWC2Zh42AY6VQeIKkE1R05OohOnNvrCvg03V7h39TOIDo5w==}
     engines: {node: '>=16.0.0', npm: '>=7.0.0'}
     peerDependencies:
@@ -1355,14 +1355,14 @@ packages:
     dependencies:
       flowbite: 1.8.1
       flowbite-svelte: 0.44.4(svelte@4.2.0)
-      flowbite-svelte-icons: 0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3)
+      flowbite-svelte-icons: 0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.4.0)
       svelte: 4.2.0
       tailwind-merge: 1.14.0
     transitivePeerDependencies:
       - tailwindcss
     dev: true
 
-  /flowbite-svelte-icons@0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.3.3):
+  /flowbite-svelte-icons@0.3.6(svelte@4.2.0)(tailwind-merge@1.14.0)(tailwindcss@3.4.0):
     resolution: {integrity: sha512-4YEq++cbD36KF+zGgLqfkmQgfWGMAP7tjDbesuieROx6UgbMBTtj7f4n49iO+g1cMLelGsCkyZiwelCXDbIJ2w==}
     peerDependencies:
       svelte: ^3.54.0 || ^4.0.0
@@ -1371,7 +1371,7 @@ packages:
     dependencies:
       svelte: 4.2.0
       tailwind-merge: 1.14.0
-      tailwindcss: 3.3.3
+      tailwindcss: 3.4.0
     dev: true
 
   /flowbite-svelte@0.44.4(svelte@4.2.0):
@@ -1387,7 +1387,7 @@ packages:
       tailwind-merge: 1.14.0
     dev: true
 
-  /flowbite-typography@1.0.3(tailwindcss@3.3.3):
+  /flowbite-typography@1.0.3(tailwindcss@3.4.0):
     resolution: {integrity: sha512-UbdQFIIOb7xx2TS+QQrqr79B6ZSkSZurxYWzV0npth6Wns3/j7KfeDJoH9QFU+Zs7zjrvejNtyzgzWLWyCrdiA==}
     peerDependencies:
       tailwindcss: '>=3.0.0 || insiders'
@@ -1395,7 +1395,7 @@ packages:
       lodash.castarray: 4.4.0
       lodash.isplainobject: 4.0.6
       lodash.merge: 4.6.2
-      tailwindcss: 3.3.3
+      tailwindcss: 3.4.0
     dev: true
 
   /flowbite@1.8.1:
@@ -2546,8 +2546,8 @@ packages:
     resolution: {integrity: sha512-3mFKyCo/MBcgyOTlrY8T7odzZFx+w+qKSMAmdFzRvqBfLlSigU6TZnlFHK0lkMwj9Bj8OYU+9yW9lmGuS0QEnQ==}
     dev: true
 
-  /tailwindcss@3.3.3:
-    resolution: {integrity: sha512-A0KgSkef7eE4Mf+nKJ83i75TMyq8HqY3qmFIJSWy8bNt0v1lG7jUcpGpoTFxAwYcWOphcTBLPPJg+bDfhDf52w==}
+  /tailwindcss@3.4.0:
+    resolution: {integrity: sha512-VigzymniH77knD1dryXbyxR+ePHihHociZbXnLZHUyzf2MMs2ZVqlUrZ3FvpXP8pno9JzmILt1sZPD19M3IxtA==}
     engines: {node: '>=14.0.0'}
     hasBin: true
     dependencies:
