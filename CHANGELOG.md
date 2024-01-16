@@ -2,6 +2,44 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [v0.2.0](https://github.com/Karthik Sivanadiyan/market/compare/v0.1.0..v0.2.0) - 2024-01-16
+#### Bug Fixes
+- Add Zack's phone, Mohan pricing text, and VSC settings - ([cefeda3](https://github.com/Karthik Sivanadiyan/market/commit/cefeda3ed8ac8b9be4d02042ab61df0b831fd240)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- content updates (#30) - ([a539dd8](https://github.com/Karthik Sivanadiyan/market/commit/a539dd8441d6dfee31093dd262a9f07a7ecd9035)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Update +page.svelte (#29) - ([4e30efb](https://github.com/Karthik Sivanadiyan/market/commit/4e30efb4ef70fcf5807fa563e390a448009f9ec1)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- update content (#26) - ([0e69a0d](https://github.com/Karthik Sivanadiyan/market/commit/0e69a0df85f5b85330edaefcc7240a1883c3da97)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Tweaks on Pricing (#24) - ([dfe23d8](https://github.com/Karthik Sivanadiyan/market/commit/dfe23d88fbdb6e5802eec3b9b2fbcce285d3f991)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Hotfix premium workstation pricing typo (#15) - ([75c7cea](https://github.com/Karthik Sivanadiyan/market/commit/75c7ceabe1c49c9cbc641b43c2d83d22adb773ea)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- update team page & format (#14) - ([322abd0](https://github.com/Karthik Sivanadiyan/market/commit/322abd049d97699f7e464717479dd6fdb2e863ce)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Update statistics & elevator pitch (#13) - ([653b990](https://github.com/Karthik Sivanadiyan/market/commit/653b99028127525e919a8e83d9379c8c1ca3b48e)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- correct href & format - ([7a42633](https://github.com/Karthik Sivanadiyan/market/commit/7a42633fd6ff9436ffed9597853749ed8b5d67f4)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Active Link Header & Version in Footer - ([9fcc5c5](https://github.com/Karthik Sivanadiyan/market/commit/9fcc5c5b031abdca83a634a75fd04df78da45158)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- No JS Import Tooltip & Favicon Paths - ([d355b56](https://github.com/Karthik Sivanadiyan/market/commit/d355b56fcb40630b4917ec7e795d5505f795dfff)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Optimize Asset Handling - ([ae51daa](https://github.com/Karthik Sivanadiyan/market/commit/ae51daa99c30fc7c6e750e0b91bada958fb1f9cd)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Missing Blog Link and External href - ([c4a995d](https://github.com/Karthik Sivanadiyan/market/commit/c4a995d88a2e02d1e206fc4426425fa7e5d4938c)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Fix base path issues - ([828bf00](https://github.com/Karthik Sivanadiyan/market/commit/828bf00d4729d85375e7f7b1359e836d9bcb59ec)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+#### Build system
+- **(deps)** bump actions/upload-pages-artifact from 1 to 2 - ([192b801](https://github.com/Karthik Sivanadiyan/market/commit/192b80147f4205e5686432f65bba2b88164fb489)) - dependabot[bot]
+- **(deps-dev)** bump flowbite-svelte-icons from 0.3.6 to 0.4.2 - ([a054b7f](https://github.com/Karthik Sivanadiyan/market/commit/a054b7ff902efa8d67710ffaded6e7902b879e0a)) - dependabot[bot]
+- **(deps-dev)** bump prettier-plugin-tailwindcss from 0.5.3 to 0.5.4 - ([190614a](https://github.com/Karthik Sivanadiyan/market/commit/190614afed1cf64f504ed33d763305a7dd7096e4)) - dependabot[bot]
+- **(dev-deps)** Revert Icons v4.2 -> 3.6 - ([16141b3](https://github.com/Karthik Sivanadiyan/market/commit/16141b3ee91a83c895a721db68e36a4116637b35)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Remove BASE_PATH env var (#12) - ([446d349](https://github.com/Karthik Sivanadiyan/market/commit/446d349e7d7808519336c453859a141d33fee582)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- dedable linter check - ([52d99b3](https://github.com/Karthik Sivanadiyan/market/commit/52d99b3871930b719bec6163af5e8093e859adab)) - Sumanth Chinthagunta
+- dedable linter check - ([ec99303](https://github.com/Karthik Sivanadiyan/market/commit/ec99303a41c57637c3b412b35b607aa150cf15fb)) - Sumanth Chinthagunta
+- dedable linter check - ([9271cfb](https://github.com/Karthik Sivanadiyan/market/commit/9271cfbf79e6a22223dc6cd2fba39b6d8b1a9c66)) - Sumanth Chinthagunta
+- dedable linter check - ([8515ff5](https://github.com/Karthik Sivanadiyan/market/commit/8515ff5aad28b1c77a9a9af23a596e81c9c277b9)) - Sumanth Chinthagunta
+#### Features
+- add product metatags (#28) - ([1cb2869](https://github.com/Karthik Sivanadiyan/market/commit/1cb2869ee0a663cee7f0e43a0001586d1f48f322)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- update product content (#27) - ([d9bb520](https://github.com/Karthik Sivanadiyan/market/commit/d9bb520a6dd9f96a8c97cc838507a72095d0df99)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Update deps & team (#25) - ([9d8ec70](https://github.com/Karthik Sivanadiyan/market/commit/9d8ec70734ddc525a52cc804d65cd7406e4d8228)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Add view transitions (#17) - ([eb5ce21](https://github.com/Karthik Sivanadiyan/market/commit/eb5ce21d85db7bfa9da5efdfc1df2da97ddf45e7)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- Optimize SEO w/Metatags & JSON-LD (#16) - ([1868708](https://github.com/Karthik Sivanadiyan/market/commit/186870829b5fbb6334a3922fde61977ba3791e1d)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+#### Refactoring
+- Add VK to team page - ([5dfc1c6](https://github.com/Karthik Sivanadiyan/market/commit/5dfc1c6c78873924d20dc3d4bdd36e0848fea9f9)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+- <a/> target _blank, format & mobile menu - ([2749875](https://github.com/Karthik Sivanadiyan/market/commit/2749875052000e76272df6a8522e4800324179d7)) - [@karthik-sivanadiyan](https://github.com/karthik-sivanadiyan)
+
+- - -
+
 ## [v0.1.0](https://github.com/Karthik Sivanadiyan/market/compare/5938323e55bf5855194f98eac3a9979394fb3263..v0.1.0) - 2023-08-31
 #### Bug Fixes
 - deploy on tag - ([018344b](https://github.com/Karthik Sivanadiyan/market/commit/018344b98c8faaae4f1dfeaf8ab03ff32c3ea52f)) - Sumanth Chinthagunta
