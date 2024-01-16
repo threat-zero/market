@@ -53,16 +53,16 @@
 		{
 			'@context': 'https://schema.org',
 			'@type': 'organization',
-			email: 'threatmatic@gmail.com',
+			email: 'info@threatmatic.com',
 			employee: 'Mohan Reddy',
 			founder: 'Mohan Reddy',
-			telephone: '5626732599',
+			telephone: '9492262192',
 			employees: [
 				{
 					'@context': 'https://schema.org',
 					'@type': 'person',
 					name: 'Mohan Reddy',
-					telephone: '5626732599',
+					telephone: '9492262192',
 					alumniOf: {
 						'@context': 'https://schema.org',
 						'@type': 'CollegeOrUniversity',
@@ -145,10 +145,10 @@
 			operatingSystem: 'WINDOWS',
 			provider: {
 				'@type': 'organization',
-				email: 'threatmatic@gmail.com',
+				email: 'info@threatmatic.com',
 				employee: 'Mohan Reddy',
 				founder: 'Mohan Reddy',
-				telephone: '5626732599'
+				telephone: '9492262192'
 			}
 		}
 	]}

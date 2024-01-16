@@ -36,18 +36,18 @@
 		<div class="text-xs dark:text-white">™</div>
 	</NavBrand>
 	<div class="flex items-center lg:order-2">
-		<a
+		<!-- <a
 			href="https://console.threatmatic.com/"
 			target="_blank"
 			rel="external noopener noreferrer"
 			class="mr-2 rounded-lg bg-primary-700 px-4 py-1 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 lg:px-4 lg:py-1"
 		>
 			Console
-		</a>
-		<DarkMode />
+		</a> -->
+		<DarkMode class="mr-4" />
 		<NavHamburger on:click={toggle} />
 	</div>
-	<NavUl {hidden} {activeUrl} class="order-1">
+	<NavUl {hidden} {activeUrl} class="order-1 mr-4">
 		<NavLi href="/">Home</NavLi>
 		<NavLi href="/product">Product</NavLi>
 		<NavLi href="/pricing">Pricing</NavLi>
@@ -117,12 +117,12 @@
 					</h2>
 					<ul class="text-gray-600 dark:text-gray-400">
 						<li class="mb-4">
-							<a href="mailto:threatmatic@gmail.com" class="hover:underline">
-								threatmatic@gmail.com
+							<a href="mailto:info@threatmatic.com" class="hover:underline">
+								info@threatmatic.com
 							</a>
 						</li>
 						<li>
-							<a href="tel:+15626732599" class="hover:underline">+1-(562)-673-2599</a>
+							<a href="tel:+19492262192" class="hover:underline">+1-(949)-226-2192</a>
 						</li>
 					</ul>
 				</div>
@@ -131,7 +131,7 @@
 		<hr class="my-6 border-gray-200 dark:border-gray-700 sm:mx-auto lg:my-8" />
 		<div class="sm:flex sm:items-center sm:justify-between">
 			<span class="text-sm text-gray-500 dark:text-gray-400 sm:text-center">
-				© 2023 ThreatMatic™, Co. All rights reserved.
+				© 2024 ThreatMatic™, Co. All rights reserved.
 			</span>
 			<span class="text-sm font-extralight text-gray-500 dark:text-gray-400 sm:text-center">
 				<span class="font-semibold">Version:</span>
