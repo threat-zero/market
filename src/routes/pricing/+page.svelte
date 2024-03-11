@@ -35,16 +35,16 @@
 				class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-200 shadow-sm dark:border-gray-700 xl:p-8 dark:text-white dark:bg-gray-800"
 			>
 				<h3 class="mb-4 text-2xl font-semibold">Standard</h3>
-				<h2 class="text-xl font-medium">User</h2>
-				<div class="flex justify-center items-baseline my-8">
+				<!-- <h2 class="text-xl font-medium">User</h2> -->
+				<!-- <div class="flex justify-center items-baseline my-8">
 					<span class="mr-2 text-5xl font-extrabold">$9.99</span>
 					<span class="text-gray-500">/month</span>
-				</div>
-				<h2 class="text-xl font-medium">Workstation</h2>
-				<div class="flex justify-center items-baseline my-8">
+				</div> -->
+				<!-- <h2 class="text-xl font-medium">Workstation</h2> -->
+				<!-- <div class="flex justify-center items-baseline my-8">
 					<span class="mr-2 text-5xl font-extrabold">$49.99</span>
 					<span class="text-gray-500">/month</span>
-				</div>
+				</div> -->
 				<a
 					href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
 					target="_blank"
@@ -59,16 +59,16 @@
 				class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-200 shadow-sm dark:border-gray-700 xl:p-8 dark:text-white dark:bg-gray-800"
 			>
 				<h3 class="mb-4 text-2xl font-semibold">Premium</h3>
-				<h2 class="text-xl font-medium">User</h2>
-				<div class="flex justify-center items-baseline my-8">
+				<!-- <h2 class="text-xl font-medium">User</h2> -->
+				<!-- <div class="flex justify-center items-baseline my-8">
 					<span class="mr-2 text-5xl font-extrabold">$12.99</span>
 					<span class="text-gray-500">/month</span>
-				</div>
-				<h2 class="text-xl font-medium">Workstation</h2>
-				<div class="flex justify-center items-baseline my-8">
+				</div> -->
+				<!-- <h2 class="text-xl font-medium">Workstation</h2> -->
+				<!-- <div class="flex justify-center items-baseline my-8">
 					<span class="mr-2 text-5xl font-extrabold">$59.99</span>
 					<span class="text-gray-500">/month</span>
-				</div>
+				</div> -->
 				<a
 					href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
 					target="_blank"
