@@ -51,7 +51,7 @@
 		<NavLi href="/">Home</NavLi>
 		<NavLi href="/product">Product</NavLi>
 		<NavLi href="/pricing">Pricing</NavLi>
-		<NavLi href="/team">Team</NavLi>
+		<!-- <NavLi href="/team">Team</NavLi> -->
 		<NavLi
 			href="https://medium.com/@threatmatic"
 			target="_blank"
@@ -85,9 +85,9 @@
 						<li class="mb-4">
 							<a href="/pricing" class="hover:underline">Pricing</a>
 						</li>
-						<li class="mb-4">
+						<!-- <li class="mb-4">
 							<a href="/team" class="hover:underline">Team</a>
-						</li>
+						</li> -->
 						<li class="mb-4">
 							<a
 								href="https://medium.com/@threatmatic"
