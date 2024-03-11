@@ -250,12 +250,13 @@
 				]
 			}}
 		/>
-		<div class="mt-4 text-xl text-rose-500">
+		<!-- <div class="mt-4 text-xl text-rose-500">
 			Small and medium sized business pricing is noted above with data being retained for a period
 			of 1-6 months. For expanded features and user tiers, and for custom data analytics with longer
-			periods of data retention, please contact <a href="mailto:pricing@threatmatic.com"
-				>pricing@threatmatic.com</a
-			>.
-		</div>
+			periods of data retention, please contact
+			<a href="mailto:pricing@threatmatic.com">
+				pricing@threatmatic.com
+			</a>.
+		</div> -->
 	</div>
 </section>

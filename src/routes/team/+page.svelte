@@ -1,9 +1,9 @@
 <script lang="ts">
-	import mohan from '$lib/images/headshots/mohan.jpg';
-	import viswanath from '$lib/images/headshots/viswanath.jpg';
+	// import mohan from '$lib/images/headshots/mohan.jpg';
+	// import viswanath from '$lib/images/headshots/viswanath.jpg';
 	// import reena from '$lib/images/headshots/reena.jpg';
-	import naren from '$lib/images/headshots/naren.jpg';
-	import { Icon } from 'flowbite-svelte-icons';
+	// import naren from '$lib/images/headshots/naren.jpg';
+	// import { Icon } from 'flowbite-svelte-icons';
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
@@ -34,7 +34,7 @@
 	}}
 />
 
-<section class="bg-white dark:bg-gray-900">
+<!-- <section class="bg-white dark:bg-gray-900">
 	<div class="mx-auto max-w-screen-xl px-4 py-8 lg:px-6 lg:py-16">
 		<div class="mx-auto mb-8 max-w-screen-sm text-center lg:mb-16">
 			<h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
@@ -139,7 +139,7 @@
 					</ul>
 				</div>
 			</div>
-			<!-- <div
+			<div
 				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
 				<a
@@ -186,7 +186,7 @@
 						</li>
 					</ul>
 				</div>
-			</div> -->
+			</div>
 			<div
 				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
@@ -236,4 +236,4 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
