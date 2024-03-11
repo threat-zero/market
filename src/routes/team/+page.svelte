@@ -1,7 +1,7 @@
 <script lang="ts">
 	import mohan from '$lib/images/headshots/mohan.jpg';
 	import viswanath from '$lib/images/headshots/viswanath.jpg';
-	import reena from '$lib/images/headshots/reena.jpg';
+	// import reena from '$lib/images/headshots/reena.jpg';
 	import naren from '$lib/images/headshots/naren.jpg';
 	import { Icon } from 'flowbite-svelte-icons';
 	import { MetaTags } from 'svelte-meta-tags';
@@ -139,7 +139,7 @@
 					</ul>
 				</div>
 			</div>
-			<div
+			<!-- <div
 				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
 				<a
@@ -186,7 +186,7 @@
 						</li>
 					</ul>
 				</div>
-			</div>
+			</div> -->
 			<div
 				class="rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
 			>
