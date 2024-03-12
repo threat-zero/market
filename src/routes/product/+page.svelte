@@ -36,7 +36,7 @@
 		<div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-2xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-					ThreatZero is a potent solution for a smart zero-trust edge and rapid malware counter
+					ThreatMatic™ is a potent solution for a smart zero-trust edge and rapid malware counter
 					measures with unparalleled visibility and control.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
@@ -45,7 +45,7 @@
 					breaches that cause massive loss of data, trust and productivity, and are expensive to
 					mitigate. We have taken a novel approach to building an end point focused zero-trust
 					solution that is guided by simplicity of deployment with ultra low-latency policy updates
-					for an impermeable Zero-Trust edge. Our lightweight agent coupled with AI cloud engine has
+					for an impermeable Zero-Trust edge. Our lightweight agent coupled with our engine has
 					the power to secure your servers and workstations regardless of size, scope or location,
 					in a matter of milliseconds. Our policy driven model is rooted in identity and secured by
 					the latest encryption and cloud-native technology.
