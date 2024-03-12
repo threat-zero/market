@@ -1,5 +1,5 @@
 <script lang="ts">
-	import product from '$lib/images/product/product.png';
+	import productNew from '$lib/images/product/productNew.jpg';
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
@@ -58,7 +58,7 @@
 			</div>
 			<img
 				class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
-				src={product}
+				src={productNew}
 				alt="Product Graphic"
 			/>
 		</div>
