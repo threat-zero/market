@@ -45,10 +45,10 @@
 					breaches that cause massive loss of data, trust and productivity, and are expensive to
 					mitigate. We have taken a novel approach to building an end point focused zero-trust
 					solution that is guided by simplicity of deployment with ultra low-latency policy updates
-					for an impermeable Zero-Trust edge. Our lightweight agent coupled with our engine has
-					the power to secure your servers and workstations regardless of size, scope or location,
-					in a matter of milliseconds. Our policy driven model is rooted in identity and secured by
-					the latest encryption and cloud-native technology.
+					for an impermeable Zero-Trust edge. Our lightweight agent coupled with our engine has the
+					power to secure your servers and workstations regardless of size, scope or location, in a
+					matter of milliseconds. Our policy driven model is rooted in identity and secured by the
+					latest encryption and cloud-native technology.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					Our cloud policy engine (also available on-site) is scalable, secure and reliable and can
