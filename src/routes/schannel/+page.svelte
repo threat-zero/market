@@ -36,21 +36,25 @@
 		<div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<p class="mb-8 font-light lg:text-xl">
-					The “un-VPN” update to 25 year old technology. ThreatMatic S/Channel is a lightning quick
+					The “un-VPN” update to 25 year old technology. ThreatMatic sChannel is a lightning quick
 					secure channel to your private and public clouds and data centers. It’s both ephemeral and
 					encrypted, with the latest ciphers and highly customizable with ThreatMatic security
 					policies. You protect only the flows and conversations you choose, unwind the complexity
-					and sluggish performance of traditional VPN, while you unleash your workforce and free
+					and sluggish performance of traditional VPN, unleash your workforce and free
 					them to connect to your data: uncompromising confidentiality and blazing performance at a
-					fraction of the cost. Our built-in metrics and bandwidth management (QoS) capabilities set
-					us apart from the competition, as does multi-factor authentication and short key lifetimes
+					fraction of the cost. 
+				</p>
+				<p class="mb-8 font-light lg:text-xl">
+					Our built-in metrics gathering and bandwidth management (QoS) capabilities set
+					us apart from the competition, along with multi-factor authentication and short key lifetimes
 					for maximum peace of mind. It’s engineered for the modern world with auto-scaling and
 					high-availability fused into our design.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					S/Channel also functions as a granular, “app level traffic director” to route traffic to
-					security pipelines and NAT to ensure deep inspection and address obfuscation, in concert
-					with IAM, DLP, XDR and logging services.
+					SChannel "zones" allow you to route traffic to
+					security pipelines and NAT gateways to ensure deep inspection and address obfuscation, in concert
+					with IAM, DLP, XDR and logging services. ThreatMatic microsegmentation policies can be applied in
+					concert with sChannel "zones" to extend Zero Trust architecuture to endpoints on-prem, remote workers and public cloud.
 				</p>
 			</div>
 			<img
