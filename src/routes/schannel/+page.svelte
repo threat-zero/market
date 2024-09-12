@@ -42,7 +42,7 @@
 					policies. You protect only the flows and conversations you choose, unwind the complexity
 					and sluggish performance of traditional VPN, unleash your workforce and free
 					them to connect to your data: uncompromising confidentiality and blazing performance at a
-					fraction of the cost. 
+					fraction of the cost.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					Our built-in metrics gathering and bandwidth management (QoS) capabilities set
@@ -51,9 +51,9 @@
 					high-availability fused into our design.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					SChannel "zones" allow you to route traffic to
+					sChannel "zones" allow you to route traffic to
 					security pipelines and NAT gateways to ensure deep inspection and address obfuscation, in concert
-					with IAM, DLP, XDR and logging services. ThreatMatic microsegmentation policies can be applied in
+					with IAM, DLP, XDR and logging services. ThreatMatic microsegmentation/security policies can be applied in
 					concert with sChannel "zones" to extend Zero Trust architecuture to endpoints on-prem, remote workers and public cloud.
 				</p>
 			</div>
