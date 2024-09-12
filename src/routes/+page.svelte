@@ -225,9 +225,6 @@
 			Whether you’re a 10 person small business or a large enterprise, ThreatMatic™ enables
 			uncompromising endpoint protection. Lightning fast policy changes with no learning curve and instantaneous ZTNA enforcement: all adminstered by a refreshingly simple and modern UI.
 		</p>
-		<p class="text-gray-500 dark:text-gray-400 sm:text-xl">
-		ThreatMatic is engineered with secure and modern frameworks to help realize a highly potent cybersecurity mesh: lightning fast ZTNA enforcement that protects directly at your endpoints. With ultra-fast, modern onboarding in datacenters or public cloud, you can deploy ID based least-privilege policies and flexible microsegmentation. On Windows and Mac, we offer unparalleled protection against unauthorized executions or access, micro-segmentation and enable deep visibility and interoperability with perimeter protection and XDR. sChannel replaces the traditional VPN approach and connect your private, cloud and untrusted spaces with an integrated policy-driven approach. CloudDiffusion enables you to seamlessly connect your workforce and privately hosted datacenters with the Cloud, with sChannel and ThreatMatic ZTNA protection infused. ActiveObscure ingress posture control extends ZTNA to ensure that only trusted and verified clients are allowed to connect to your service edges. Infused into the platform is a deep-analytics architecture that was built with AI-ML and LLM at the center to enable a natural language interface to ThreatMatic.
-		</p>
 		<div
 			class="mt-8 space-y-8 md:grid md:grid-cols-2 md:gap-12 md:space-y-0 lg:mt-12 lg:grid-cols-3"
 		>
