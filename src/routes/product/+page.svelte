@@ -54,12 +54,12 @@
 					latest encryption and cloud-native technology.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					The ThreatMatic platform is engineered with the most up-to-date frameworks to help realize a highly potent cybersecurity mesh: lightning fast ZTNA 					enforcement that protects directly at your endpoints. With ultra-fast, modern onboarding in datacenters or public cloud, you can deploy ID based 					least-privilege policies and flexible microsegmentation. On the Windows and Mac, we offer unparalleled protection against unauthorized executions 					or access, micro-segmentation and enable deep visibility/interoperability with perimeter protection and XDR, presented with a modern UI. 						
-					sChannel(tm) untangles the traditional VPN approach to securely connect your private, cloud and untrusted spaces with an integrated policy-driven 					approach.
+					The ThreatMatic platform is engineered with the most up-to-date frameworks to help realize a highly potent cybersecurity mesh: lightning fast ZTNA 					enforcement that protects directly at your endpoints. With ultra-fast, modern onboarding in datacenters or public cloud, you can deploy app and 					user ID based least-privilege policies and flexible microsegmentation. On Windows and MacOS, we offer unparalleled protection against unauthorized 					executions or access, micro-segmentation and enable deep visibility/interoperability with perimeter protection and XDR, presented with a modern UI. 						
+					sChannel™ untangles the traditional VPN approach to securely connect your private, cloud and untrusted spaces with an integrated policy-driven 						approach. It is offered for all platforms including iPhone and Android.
 
-					CloudDiffusion(tm) enables you to seamlessly connect your workforce and privately hosted datacenters with the Cloud, with sChannel and ThreatMatic 					ZTNA protection infused.
+					CloudDiffusion™ enables you to seamlessly connect your workforce and privately hosted datacenters with the Cloud, with sChannel and ThreatMatic 					ZTNA protection infused.
 
-					ActiveObscure(tm) ingress posture control extends ZTNA to ensure that only trusted and verified clients are allowed to connect to your service 						edges.
+					ActiveObscurity™ ingress posture control extends ZTNA to ensure that only trusted and verified clients are allowed to connect to your services.
 
 					Infused into the platform is a deep-analytics architecture that was built with AI-ML and LLM at the center to enable a natural language interface 					to ThreatMatic.
 				</p>
