@@ -328,6 +328,12 @@
 				description:
 					'Optimize performance and enhance security by controlling bandwidth throttling rates for host-to-host traffic by user, group, device or device-pool.',
 				flowbiteIconName: 'filter-solid'
+			},
+			{
+				name: 'Cloudiffusion',
+				description:
+					'Seamless and secure diffusion between on-prem-private and public clouds, with ZTNA policies.',
+				flowbiteIconName: 'cloud-solid'
 			}
 		],
 		'Defense-in-Depth': [
