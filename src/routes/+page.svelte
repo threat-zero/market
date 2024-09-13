@@ -333,7 +333,7 @@
 				name: 'Cloudiffusion',
 				description:
 					'Seamless and secure diffusion between on-prem-private and public clouds, with ZTNA policies.',
-				flowbiteIconName: 'cloud-solid'
+				flowbiteIconName: 'CloudArrowUpOutline'
 			}
 		],
 		'Defense-in-Depth': [
