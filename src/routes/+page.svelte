@@ -330,10 +330,10 @@
 				flowbiteIconName: 'filter-solid'
 			},
 			{
-				name: 'Cloudiffusion',
+				name: 'ClouDiffusion',
 				description:
 					'Seamless and secure diffusion between on-prem-private and public clouds, with ZTNA policies.',
-				flowbiteIconName: 'CloudArrowUpOutline'
+				flowbiteIconName: 'cloud-arrow-up-outline'
 			}
 		],
 		'Defense-in-Depth': [
