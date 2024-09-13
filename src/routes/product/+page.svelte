@@ -48,19 +48,22 @@
 				<p class="mb-8 font-light lg:text-xl">
 					We have taken a novel approach to building a Zero-Trust
 					solution that is founded on the principles of simplicity of deployment and ultra low-latency policy updates
-					for an impermeable Zero-Trust model. A featherweight agent coupled with our policy engine has the
-					power to secure your servers and workstations regardless of size, scope or location, in a
-					matter of milliseconds. It's all anchored by a policy driven model is rooted in identity and secured by the
+					for an impermeable Zero-Trust model. A featherweight agent along with our cloud, or privately hosted policy engine, 
+					protect your servers and users regardless of size, scope or location, in a
+					matter of milliseconds. It's all anchored by a policy driven model, rooted in identity and secured by the
 					latest encryption and cloud-native technology.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					The ThreatMatic platform is engineered with the most up-to-date frameworks to help realize a highly potent cybersecurity mesh: lightning fast ZTNA 					enforcement that protects directly at your endpoints. With ultra-fast, modern onboarding in datacenters or public cloud, you can deploy app and 					user ID based least-privilege policies and flexible microsegmentation. On Windows and MacOS, we offer unparalleled protection against unauthorized 					executions or access, micro-segmentation and enable deep visibility/interoperability with perimeter protection and XDR, presented with a modern UI. 						
 					sChannel™ untangles the traditional VPN approach to securely connect your private, cloud and untrusted spaces with an integrated policy-driven 						approach. It is offered for all platforms including iPhone and Android.
-
-					CloudDiffusion™ enables you to seamlessly connect your workforce and privately hosted datacenters with the Cloud, with sChannel and ThreatMatic 					ZTNA protection infused.
-
+				</p>				
+				<p class="mb-8 font-light lg:text-xl">
+					ClouDiffusion™ enables you to seamlessly connect your workforce and privately hosted datacenters with the Cloud, with sChannel and ThreatMatic 					ZTNA protection infused.
+				</p>
+				<p class="mb-8 font-light lg:text-xl">
 					ActiveObscurity™ ingress posture control extends ZTNA to ensure that only trusted and verified clients are allowed to connect to your services.
-
+				</p>
+				<p class="mb-8 font-light lg:text-xl">
 					Infused into the platform is a deep-analytics architecture that was built with AI-ML and LLM at the center to enable a natural language interface 					to ThreatMatic.
 				</p>
 			</div>
