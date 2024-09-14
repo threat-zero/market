@@ -166,10 +166,9 @@
 		<p
 			class="mb-8 font-light text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-xl xl:px-48"
 		>
-			ThreatMatic™ strikes the perfect balance between security and user-friendliness. Our
-			lightweight and powerful agent seemlessly managed from our modern admin-dashboard ensures that
-			your most valuable assets are protected <span class="italic">instantaneously</span> - your advantage
-			when responding to ransomware, malware threats, phishing attacks, DNS poisoning and so much more.
+			ThreatMatic™ strikes the perfect balance between security and usability. Our modular and uninterruptible Zero Trust enforcement design, managed from an ultra-easy and modern UI ensures that
+			your most valuable assets are protected <span class="italic">instantaneously</span> with ZTNA - your advantage
+			when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. sChannel™ Zones and ClouDiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
 		</p>
 		<div
 			class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
