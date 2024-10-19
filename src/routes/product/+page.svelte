@@ -33,7 +33,7 @@
 <section class="bg-white dark:bg-gray-900">
 	<div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
 		<!-- Row -->
-		<div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
+		<div class="gap-8 items-top lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-2xl tracking-tight font-extrabold text-gray-900 dark:text-white">
 					ThreatMatic™ is a potent solution for a smart Zero-Trust edge and rapid malware counter
