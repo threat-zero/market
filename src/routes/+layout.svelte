@@ -42,6 +42,7 @@
 		</div>
 		<NavUl {hidden} {activeUrl} class="order-1 mr-4">
 			<NavLi href="/">Home</NavLi>
+			<NavLi href="/">Intro</NavLi>
 			<NavLi href="/product">Product</NavLi>
 			<NavLi href="/schannel">sChannel™</NavLi>
 			<NavLi href="/pricing">Pricing</NavLi>
