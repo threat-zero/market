@@ -32,9 +32,9 @@
 		let:toggle
 	>
 		<NavBrand href="/" class="px-2">
-			<div class="text-xl text-blue-500 dark:text-blue-400">Threat</div>
-			<div class="text-xl dark:text-white">Matic</div>
-			<div class="text-xl dark:text-white">™</div>
+			<div class="text-lg text-blue-500 dark:text-blue-400">Threat</div>
+			<div class="text-lg dark:text-white">Matic</div>
+			<div class="text-xs dark:text-white">™</div>
 		</NavBrand>
 		<div class="flex items-center lg:order-2">
 			<DarkMode class="mr-4" />
