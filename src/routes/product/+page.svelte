@@ -60,7 +60,7 @@
 					sChannel™ untangles the traditional VPN approach to securely connect your private, cloud and untrusted spaces with an integrated policy-driven 						approach. It is offered for all platforms including iPhone and Android.
 				</p>				
 				<p class="mb-8 font-light lg:text-xl">
-					Cloudiffusion™ enables you to seamlessly connect your workforce and privately hosted datacenters with the Cloud, with sChannel and ThreatMatic 						ZTNA protection infused.
+					Cloudiffusion™ enables you to seamlessly connect your global workforce and privately hosted datacenters to the Cloud with sChannel and ThreatMatic 						ZTNA policies.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					ActiveObscurity™ ingress posture control extends ZTNA to ensure that only trusted and verified clients are allowed to connect to your services.
