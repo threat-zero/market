@@ -36,28 +36,28 @@
 		<div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-2xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-					The “un-VPN” update to 25 year old technology. ThreatMatic sChannel™ is a lightning quick
+					Next-gen VPN alternative: ThreatMatic QS:Channel™ is a lightning fast, quantum-safe
 					secure channel to your private and public clouds and data centers.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
-					sChannel is both ephemeral and
-					encrypted, with the latest ciphers and highly customizable with ThreatMatic security
-					policies. You protect only the flows and conversations you choose, unwind the complexity
+					QS:Channel is an ephemeral and
+					encrypted asymmetrical private network with the latest ciphers fused with ThreatMatic ZTNA 
+					policies. Protect the flows and conversations you choose, unwind the complexity
 					and sluggish performance of traditional VPN, unleash your workforce and free
 					them to connect to your data: uncompromising confidentiality and blazing performance at a
 					fraction of the cost.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					Our built-in metrics gathering and bandwidth management (QoS) capabilities set
+					ThreatMatic metrics gathering and bandwidth management (QoS) capabilities set
 					us apart from the competition, along with multi-factor authentication and short key lifetimes
 					for maximum peace of mind. It’s engineered for the modern world with auto-scaling and
 					high-availability fused into our design.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					sChannel "zones" allow you to route traffic to
-					security pipelines and NAT gateways to ensure deep inspection and address obfuscation, in concert
+					QS:Channel "zones" allow you to create unlimited micro (or nano) segments, and route traffic to
+					security pipelines and secure web gateways (SWG) to ensure deep inspection and address obfuscation, in concert
 					with IAM, DLP, XDR and logging services. ThreatMatic microsegmentation/security policies can be applied in
-					concert with sChannel "zones" to extend Zero Trust architecuture to endpoints on-prem, remote workers and public cloud.
+					concert with QS:Channel "zones" to extend Zero Trust Edge (ZTE) to endpoints on-prem, remote workers and public cloud.
 				</p>
 			</div>
 			<img
