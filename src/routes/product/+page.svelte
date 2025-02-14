@@ -1,5 +1,5 @@
 <script lang="ts">
-	import productNew from '$lib/images/product/productNew.jpg';
+	import productNew from '$lib/images/product/tm-circle.png';
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
