@@ -44,7 +44,7 @@
 			<NavLi href="/">Home</NavLi>
 			<NavLi href="/intro">Intro</NavLi>
 			<NavLi href="/product">Product</NavLi>
-			<NavLi href="/schannel">sChannel™</NavLi>
+			<NavLi href="/schannel">QS:Channel™</NavLi>
 			<NavLi href="/pricing">Pricing</NavLi>
 			<!-- <NavLi href="/team">Team</NavLi> -->
 			<NavLi
