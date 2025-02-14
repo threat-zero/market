@@ -1,7 +1,9 @@
 <script lang="ts">
 	import FeaturesList from '$lib/blocks/FeaturesList.svelte';
-	import dashboardMockupDark from '$lib/images/flowbite/dashboardMockupDark.svg';
-	import dashboardMockupLight from '$lib/images/flowbite/dashboardMockupLight.svg';
+#	import dashboardMockupDark from '$lib/images/flowbite/dashboardMockupDark.svg';
+	import dashboardMockupDark from '$lib/images/product/tm-cloud.jpg';
+#	import dashboardMockupLight from '$lib/images/flowbite/dashboardMockupLight.svg';
+	import dashboardMockupLight from '$lib/images/product/34.jpg';
 	import { Icon } from 'flowbite-svelte-icons';
 	import { JsonLd, MetaTags } from 'svelte-meta-tags';
 </script>
