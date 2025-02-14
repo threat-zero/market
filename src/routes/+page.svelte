@@ -198,7 +198,7 @@
 		<div class="mx-auto max-w-screen-xl px-4 py-8 text-center lg:px-6 lg:py-16">
 			<dl class="mx-auto grid max-w-screen-md gap-8 text-gray-900 dark:text-white sm:grid-cols-3">
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">100+</dt>
+					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">300+</dt>
 					<dd class="font-light text-gray-500 dark:text-gray-400">Hours Saved</dd>
 				</div>
 				<div class="flex flex-col items-center justify-center">
@@ -206,7 +206,7 @@
 					<dd class="font-light text-gray-500 dark:text-gray-400">Policy Creation</dd>
 				</div>
 				<div class="flex flex-col items-center justify-center">
-					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">ms</dt>
+					<dt class="mb-2 text-3xl font-extrabold md:text-4xl">60 ms</dt>
 					<dd class="font-light text-gray-500 dark:text-gray-400">Policy Propagation</dd>
 				</div>
 			</dl>
