@@ -311,25 +311,25 @@
 			{
 				name: 'Rapid Vulnerability-Based Blocking',
 				description:
-					'Instantly Block in-progress or scheduled software updates with known vulnerabilities.',
+					'Instantly block or throttle in-progress or scheduled software updates with known vulnerabilities.',
 				flowbiteIconName: 'shield-solid'
 			}
 		],
 		Microsegmentation: [
 			{
-				name: 'Rapid Malware Blocking',
+				name: 'QS/Channel Zones',
 				description:
-					'Instantly react and black malware on your endpoints by user, group, device, or device-pool coordinates for precisely delivered relief and forensic analysis.',
+					'Simple and direct policy action to build unlimited any-to-any nano- and micro-segments: ',
 				flowbiteIconName: 'clock-solid'
 			},
 			{
 				name: 'Granular Traffic Bandwidth Control',
 				description:
-					'Optimize performance and enhance security by controlling bandwidth throttling rates for host-to-host traffic by user, group, device or device-pool.',
+					'Optimize performance and enhance security by controlling bandwidth throttling rates by application for traffic by user, group, device or pool.',
 				flowbiteIconName: 'filter-solid'
 			},
 			{
-				name: 'ClouDiffusion',
+				name: 'Cloudiffusion',
 				description:
 					'Seamless and secure diffusion between on-prem-private and public clouds, with ZTNA policies.',
 				flowbiteIconName: 'cloud-arrow-up-outline'
@@ -350,13 +350,13 @@
 			{
 				name: 'Precise Malware Blocking',
 				description:
-					'Instantly block confirmed malware commands & control malware destination by hostnames or IP addresses.',
+					'Instantly block malware executables from contacting C2 or from spreading.',
 				flowbiteIconName: 'bug-solid'
 			},
 			{
 				name: 'Granular DNS Traffic Control',
 				description:
-					'Control DNS traffic to specific servers by users, groups, devices, and device pools.',
+					'Control DNS traffic to specific servers, and resolution to specific domains',
 				flowbiteIconName: 'filter-solid'
 			}
 		]
