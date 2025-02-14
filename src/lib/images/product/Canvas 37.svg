@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1459 2080 987 499" width="987" height="499">
+  <defs>
+    <font-face font-family="Ethnocentric" font-size="16" panose-1="2 0 6 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-133" underline-thickness="20" slope="0" x-height="669" cap-height="669" ascent="945.0019" descent="-255.00052" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Ethnocentric-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.3 
+    <dc:date>2025-02-14 15:19:37 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_37" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Canvas 37</title>
+    <rect fill="white" x="1459" y="2080" width="987" height="499"/>
+    <g id="Canvas_37: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="1544.2792" y="2275.875" width="810.9396" height="139.5" id="path"/>
+        <clipPath id="clip_path">
+          <use xl:href="#path"/>
+        </clipPath>
+        <g clip-path="url(#clip_path)">
+          <image xl:href="image40.png" width="529" height="91" opacity="1" transform="matrix(1.572967 0 0 1.6729668 1533.6992 2269.505)"/>
+        </g>
+      </g>
+      <g id="Graphic_3">
+        <text transform="translate(1492.64 2117.75)" fill="#666">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="#666" x="8384404e-19" y="15">Deploy in minutes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(1810.909 2085.125)" fill="#666">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="#666" x="0" y="15">Noiseless operation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(1851.125 2259.5)" fill="black">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="black" x="0" y="15">Enforcement</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(1722.965 2177.375)" fill="#666">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="#666" x="0" y="15">Deployment simplicity and velocity</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <text transform="translate(1464.125 2259.5)" fill="#a5a5a5">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="#a5a5a5" x="0" y="15">Non-Porous</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <text transform="translate(1830.541 2411.375)" fill="black">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="black" x="5115908e-19" y="15">Granular control</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(1569.853 2554.5)" fill="black">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="black" x="682121e-18" y="15">Imagined and engineered with a clean slate: UNINTERRUPTIBLE</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <text transform="translate(2161.625 2117.75)" fill="#666">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="#666" x="0" y="15">Simpler… Quicker</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(2234.75 2259.5)" fill="#666">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="#666" x="6679102e-19" y="15">No “legacy” debt</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(1671.125 2476.625)" fill="#666">
+          <tspan font-family="Ethnocentric" font-size="16" font-weight="400" fill="#666" x="0" y="15">Opposite of “integrated just in the console”</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
