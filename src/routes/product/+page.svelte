@@ -45,13 +45,6 @@
 					breaches that cause massive loss of data, trust and productivity, and are massively disruptive and expensive to
 					mitigate.
 				</p>
-
-				<img
-					class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg mx-auto"
-					src={productNew}
-					alt="Product Graphic"
-				/>
-
 				<p class="mb-8 font-light lg:text-xl">
 					We have taken a novel approach to building a Zero-Trust
 					solution that is founded on the principles of simplicity of deployment and ultra low-latency policy updates
@@ -76,7 +69,11 @@
 					Infused into the platform is a deep-analytics architecture that was built with AI-ML and LLM at the center to enable a natural language interface to ThreatMatic.
 				</p>
 			</div>
-			
+			<img
+				class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg mx-auto"
+				src={productNew}
+				alt="Product Graphic"
+			/>
 		</div>
 	</div>
 </section>
