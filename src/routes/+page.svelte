@@ -181,15 +181,7 @@
 			>
 				Get a Demo
 			</a>
-
-<a
-				href="https://drive.google.com/file/d/10L879kcqd5gl0iq0WfTkEXxp8vSBtJqy/view?usp=drive_link"
-				target="_blank"
-				rel="external noopener noreferrer"
-				class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
-			>
-				Get our Agent
-			</a>
+			
 		</div>
 		<img
 			class="z-1 mx-auto mb-5 rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
