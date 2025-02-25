@@ -61,7 +61,7 @@
 				</p>
 			</div>
 			<img
-				class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
+				class="hidden mb-4 max-w-full mx-auto lg:mb-0 lg:flex rounded-lg"
 				src={productNew}
 				alt="Product Graphic"
 			/>
