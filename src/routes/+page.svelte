@@ -170,6 +170,35 @@
 			your most valuable assets are protected <span class="italic">instantaneously</span> with ZTNA - your advantage
 			when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. QSChannel™ Zones and Cloudiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
 		</p>
+
+		<div
+		<button id="dropdownDefaultButton" data-dropdown-toggle="dropdown" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" type="button">Watch a Demo <svg class="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+		<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
+		</svg>
+		</button>
+
+		<!-- Dropdown menu -->
+		<div id="dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700">
+		    <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton">
+		      <li>
+		        <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ThreatMatic ZTE</a>
+		      </li>
+		      <li>
+		        <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">QSChannel</a>
+		      </li>
+		      <li>
+		        <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Policies in Action</a>
+		      </li>
+		      <li>
+		        <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Installing our Agent</a>
+		      </li>
+		    </ul>
+		</div>
+
+		
+		</div>
+
+		<!-- 
 		<div
 			class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
 		>
@@ -181,7 +210,7 @@
 			>
 				Get a Demo
 			</a>
-			<!-- 
+			
 			<a
 				href="https://drive.google.com/file/d/10L879kcqd5gl0iq0WfTkEXxp8vSBtJqy/view?usp=drive_link"
 				target="_blank"
@@ -190,9 +219,10 @@
 			>
 				Get our Agent
 			</a> 
-			-->
+			
 			
 		</div>
+		-->
 		<img
 			class="z-1 mx-auto mb-5 rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 			src={dashboardMockupLight}
