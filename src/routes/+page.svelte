@@ -84,7 +84,7 @@
 			applicationCategory: 'SecurityApplication',
 			description: "ThreatMatic™'s flagship product consisting of the agent and admin dashboard.",
 			featureList:
-				"Fully ID aware across all your users and workloads, Unlimited Policies, Run on Customer Provided Infrastructure, Customer Safe Downtime, Cybersecurity Mesh Architecture, Cloud Ready ThreatMatic™, Zero Trust Mesh Architecture, Edge2Edge Policy, DNS Lock, Port Scanner Protection, DNSSEC Enforcement, Disable DoH (DNS over HTTP), Flexible IPsec Traffic Steering with sChannel, Metered Socket Actions (QoS), Compliance Signals, TrustZero Cloud Proxy, Advanced Analytics, 'ThreatMatic API', 'Mitre Attack Integrated', 'Cloud-Based Management Platform', 'API Support', Self Service Knowledge Base, Designated Account Manager, Technical Specialist, Phone Support, Chat/Email Support",
+				"Fully ID aware across all your users and workloads, Unlimited Policies, Run on Customer Provided Infrastructure, Customer Safe Downtime, Cybersecurity Mesh Architecture, Cloud Ready ThreatMatic™, Zero Trust Mesh Architecture, Edge2Edge Policy, DNS Lock, Port Scanner Protection, DNSSEC Enforcement, Disable DoH (DNS over HTTP), Flexible IPsec Traffic Steering with QSChannel, Metered Socket Actions (QoS), Compliance Signals, TrustZero Cloud Proxy, Advanced Analytics, 'ThreatMatic API', 'Mitre Attack Integrated', 'Cloud-Based Management Platform', 'API Support', Self Service Knowledge Base, Designated Account Manager, Technical Specialist, Phone Support, Chat/Email Support",
 			keywords:
 				'Access Application Bandwidth Blocking Browser Cloud Control DNS DNS-over-HTTP Executable Free Granular Inbound Instant Integration Intelligence Internet Limits Malware Monitoring Performance Precise Rapid Resource Rule-Based Threat Traffic Trust Tuning Vulnerability-Based Zero ',
 			name: 'ThreatMatic™ Pricing Structure',
@@ -168,7 +168,7 @@
 		>
 			ThreatMatic™ strikes the perfect balance between security and usability. Our modular and uninterruptible Zero Trust enforcement design, managed from an ultra-easy and modern UI ensures that
 			your most valuable assets are protected <span class="italic">instantaneously</span> with ZTNA - your advantage
-			when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. QS/Channel™ Zones and Cloudiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
+			when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. QSChannel™ Zones and Cloudiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
 		</p>
 		<div
 			class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
@@ -318,7 +318,7 @@
 		],
 		Microsegmentation: [
 			{
-				name: 'QS/Channel Zones',
+				name: 'QSChannel Zones',
 				description:
 					'Simple and direct policy action to build unlimited any-to-any nano- and micro-segments: ',
 				flowbiteIconName: 'clock-solid'
