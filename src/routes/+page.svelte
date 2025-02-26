@@ -207,19 +207,18 @@
 				rel="external noopener noreferrer"
 				class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
 			>
-				Get a Demo
+				Request a Demo
 			</a>
 			
-		<!--
 			<a
-				href="https://drive.google.com/file/d/10L879kcqd5gl0iq0WfTkEXxp8vSBtJqy/view?usp=drive_link"
+				href="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXgrDZtuICxPs7wAoofx3gYBYG_O9z9T7AIpRoy97jvEMg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tjxwVD"
 				target="_blank"
 				rel="external noopener noreferrer"
 				class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 		focus:ring-primary-300 dark:focus:ring-primary-900"
 			>
-				Get our Agent
+				Watch a 3 Min Video
 			</a> 
-		-->
+		
 		</div>
 	
 		<img
