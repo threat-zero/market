@@ -179,7 +179,6 @@
 		</button>
 		
 
-		<!-- Dropdown menu -->
 		<div id="dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700">
 		    <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton">
 		      <li>
@@ -220,9 +219,9 @@
 			>
 				Get our Agent
 			</a> 
-	
-		</div>
 		-->
+		</div>
+	
 		<img
 			class="z-1 mx-auto mb-5 rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 			src={dashboardMockupLight}
