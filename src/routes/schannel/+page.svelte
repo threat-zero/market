@@ -36,11 +36,11 @@
 		<div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-2xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-					Next-gen VPN alternative: ThreatMatic QS:Channel™ is a lightning fast, quantum-safe
+					Next-gen VPN alternative: ThreatMatic QSChannel™ is a lightning fast, quantum-safe
 					secure channel to your private and public clouds and data centers.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
-					QS:Channel is an ephemeral and
+					QSChannel is an ephemeral and
 					encrypted asymmetrical private network with the latest ciphers fused with ThreatMatic ZTNA 
 					policies. Protect the flows and conversations you choose, unwind the complexity
 					and sluggish performance of traditional VPN, unleash your workforce and free
@@ -54,10 +54,10 @@
 					high-availability fused into our design.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					QS:Channel "zones" allow you to create unlimited micro (or nano) segments, and route traffic to
+					QSChannel "zones" allow you to create unlimited micro (or nano) segments, and route traffic to
 					security pipelines and secure web gateways (SWG) to ensure deep inspection and address obfuscation, in concert
 					with IAM, DLP, XDR and logging services. ThreatMatic microsegmentation/security policies can be applied in
-					concert with QS:Channel "zones" to extend Zero Trust Edge (ZTE) to endpoints on-prem, remote workers and public cloud.
+					concert with QSChannel "zones" to extend Zero Trust Edge (ZTE) to endpoints on-prem, remote workers and public cloud.
 				</p>
 			</div>
 			<img
