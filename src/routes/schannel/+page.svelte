@@ -40,24 +40,24 @@
 					secure channel to your private and public clouds and data centers.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
-					QSChannel is an ephemeral and
-					encrypted asymmetrical private network with the latest ciphers fused with ThreatMatic ZTNA 
+					QSChannel is a Quantum Safe
+					encrypted asymmetrical private mesh network with the latest ciphers, infused with ThreatMatic ZTNA 
 					policies. Protect the flows and conversations you choose, unwind the complexity
-					and sluggish performance of traditional VPN, unleash your workforce and free
+					and supercharge the sluggish performance of traditional VPNs, unleash your workforce and free
 					them to connect to your data: uncompromising confidentiality and blazing performance at a
 					fraction of the cost.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					ThreatMatic metrics gathering and bandwidth management (QoS) capabilities set
-					us apart from the competition, along with multi-factor authentication and short key lifetimes
+					us apart from the competition, along with multi-factor authentication and short key-lifetimes
 					for maximum peace of mind. It’s engineered for the modern world with auto-scaling and
 					high-availability fused into our design.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					QSChannel "zones" allow you to create unlimited micro (or nano) segments, and route traffic to
+					QSChannel enables you to create unlimited micro (or nano) segments, and route traffic between your branches or cloud, and to
 					security pipelines and secure web gateways (SWG) to ensure deep inspection and address obfuscation, in concert
 					with IAM, DLP, XDR and logging services. ThreatMatic microsegmentation/security policies can be applied in
-					concert with QSChannel "zones" to extend Zero Trust Edge (ZTE) to endpoints on-prem, remote workers and public cloud.
+					concert with QSChannel "zones" to extend Zero Trust Edge (ZTE) to endpoints anywhere: corp HQ, branch, home and public cloud.
 				</p>
 			</div>
 			<img
