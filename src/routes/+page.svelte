@@ -210,19 +210,6 @@
 				Request a Demo
 			</a>
 
-
-			<a
-				<video class="h-full w-full rounded-lg" controls>
-				<source src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EfFViXIkPZtNj0LiDNI-1UsBkw1A76LF8nLGRfcXNhy5Ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rawba"
-        			type="video/webm"
-      				/>
-    				</video>
-			>
-				Watch a 3 Min Video
-			</a> 
-	
-
-			<!--
 			<a
 				<video class="w-full h-auto max-w-full border border-gray-200 rounded-lg dark:border-gray-700" controls>
 				href="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXgrDZtuICxPs7wAoofx3gYBYG_O9z9T7AIpRoy97jvEMg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tjxwVD"
@@ -230,7 +217,9 @@
 				rel="external noopener noreferrer"
 				class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 		focus:ring-primary-300 dark:focus:ring-primary-900"
 			>
-			-->
+>
+				Watch a 3 Min Video
+			</a> 
 
 		</div>
 	
