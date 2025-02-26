@@ -213,9 +213,8 @@
 
 			<a
 				<video class="h-full w-full rounded-lg" controls>
-				<source
-        				src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EfFViXIkPZtNj0LiDNI-1UsBkw1A76LF8nLGRfcXNhy5Ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rawba"
-        				type="video/webm"
+				<source src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EfFViXIkPZtNj0LiDNI-1UsBkw1A76LF8nLGRfcXNhy5Ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rawba"
+        			type="video/webm"
       				/>
     				</video>
 			>
