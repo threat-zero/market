@@ -65,9 +65,7 @@
 				<div class="mb-6 md:mb-0">
 					<a href="/">
 						<!--Do not format into two seperate lines as <span> is whitespace sensitive-->
-						<span class="text-blue-500 dark:text-blue-400">Threat</span><span
-							class="dark:text-white">Matic</span
-						><span class="text-xs dark:text-white">™</span>
+						<span class="text-blue-500 dark:text-blue-400">Threat</span><span class="dark:text-white">Matic</span><span class="text-xs dark:text-white">™</span>
 					</a>
 				</div>
 				<div class="grid grid-cols-2 gap-8 sm:grid-cols-3 sm:gap-6">
