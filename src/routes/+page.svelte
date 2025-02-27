@@ -295,15 +295,10 @@
 	</div>
 </section>
 
-<section class="bg-white dark:bg-gray-900">
-
-	<video class="w-full" autoplay controls>
-  		<source src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EfFViXIkPZtNj0LiDNI-1UsBkw1A76LF8nLGRfcXNhy5Ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tzzB4Q" type="video/webm">
-  		Your browser does not support the video tag.
-	</video>
-
-</section>
-		
+<video class="w-full" autoplay controls>
+	<source src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EfFViXIkPZtNj0LiDNI-1UsBkw1A76LF8nLGRfcXNhy5Ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tzzB4Q" type="video/webm">
+  	Your browser does not support the video tag.
+</video>
 
 <FeaturesList
 	featureData={{
