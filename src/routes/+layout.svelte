@@ -34,7 +34,7 @@
 		let:toggle
 	>
 		<NavBrand href="/" class="px-2">
-			<--
+			<!--
 			<div class="text-lg text-blue-500 dark:text-blue-400">Threat</div>
 			<div class="text-lg dark:text-white">Matic</div>
 			<div class="text-xs dark:text-white">™</div>
