@@ -301,7 +301,7 @@
     		src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXDREMiF81xAoPJr6yfhUQABEzBZfp9nI1ok6WYLIaRBzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RDgiD3"
     		frameborder="0"
     		allowfullscreen
-  	</iframe>
+  	></iframe>
 </div>
 
 <FeaturesList
