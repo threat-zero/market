@@ -39,7 +39,7 @@
 			<div class="text-lg dark:text-white">Matic</div>
 			<div class="text-xs dark:text-white">™</div>
 			-->
-			<img class="h-auto max-w-xs" src="$lib/images/product/image40.png" alt="image description">
+			<img class="h-auto max-w-xs" src={tmlogo} alt="image description">
 
 		</NavBrand>
 		<div class="flex items-center lg:order-2">
