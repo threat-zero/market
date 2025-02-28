@@ -295,13 +295,14 @@
 	</div>
 </section>
 
-<section class="bg-white dark:bg-gray-900">
-
-	<video class=w-full h-auto max-w-full controls>
-		<source src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXDREMiF81xAoPJr6yfhUQABEzBZfp9nI1ok6WYLIaRBzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1Lz4Fp" type="video/mp4">
-</video>
-
-</section>
+<div class="relative pb-56.25% h-0 overflow-hidden">
+	<iframe
+    		class="absolute top-0 left-0 w-full h-full"
+    		src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXDREMiF81xAoPJr6yfhUQABEzBZfp9nI1ok6WYLIaRBzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RDgiD3"
+    		frameborder="0"
+    		allowfullscreen
+  	</iframe>
+</div>
 
 <FeaturesList
 	featureData={{
