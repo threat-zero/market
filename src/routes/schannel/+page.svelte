@@ -40,7 +40,7 @@
 					secure channel to your private and public clouds and data centers.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
-					QSChannel is a *Quantum Safe*
+					QSChannel is a <span class="italic">Quantum Safe</span>
 					encrypted private mesh network with the latest ciphers, infused with ThreatMatic ZTNA 
 					policies. Protect the flows and conversations you choose, unwind the complexity
 					and supercharge the sluggish performance of traditional VPNs, unleash your workforce and free
