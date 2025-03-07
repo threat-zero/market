@@ -411,8 +411,6 @@
 	}}
 />
 
-
-<!--
 <section class="bg-white dark:bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
         <div class="flex flex-col justify-center">
@@ -431,11 +429,10 @@
             </div>
         </div>
         <div>
-            <iframe class="mx-auto w-full lg:max-w-xl h-64 rounded-lg sm:h-96 shadow-xl" src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EciLWGPJrI5Lm60wTCdbVd4BRHGCl7J5hKKHRO3zVns5Nw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zJxpxS" allowfullscreen></iframe>
+            <iframe class="mx-auto w-full lg:max-w-xl h-64 rounded-lg sm:h-96 shadow-xl" src="<iframe src="https://drive.google.com/file/d/1blEhLZeQBNmnO5gDXeXNAXx5u1Nogorl/preview" width="640" height="480" allow="autoplay"></iframe>" allowfullscreen></iframe>
         </div>
     </div>
 </section>
--->
 
 <!--Mailing List Heading with CTA Button-->
 <section class="bg-white dark:bg-gray-900">
