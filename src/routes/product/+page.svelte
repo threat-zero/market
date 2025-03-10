@@ -48,17 +48,17 @@
 				<p class="mb-8 font-light lg:text-xl">
 					We have taken a novel approach to building a Zero-Trust
 					solution that is founded on the principles of simplicity of deployment and ultra low-latency policy updates
-					for an impermeable Zero-Trust model. A featherweight agent along with our cloud, or privately hosted policy engine, 
+					for an impermeable Zero-Trust model. A featherweight agent along with our cloud, or privately hosted policy engine,
 					protect your servers and users regardless of size, scope or location, in a
-					matter of milliseconds. It's all anchored by a policy driven model, rooted in identity and secured by the
-					latest encryption and cloud-native technology. 
+					matter of milliseconds. It's anchored by a policy driven model, based on identity and secured by
+					advanced encryption and cloud-native technology.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					The ThreatMatic platform is engineered with the most up-to-date frameworks to help realize a highly potent cybersecurity mesh: lightning fast ZTNA enforcement that protects directly at your endpoints. With ultra-fast, modern onboarding in datacenters or public cloud, you can deploy app and user ID based least-privilege policies and flexible microsegmentation. On Windows and MacOS, we offer unparalleled protection against unauthorized executions or access, enable micro-segmentation and deep visibility/interoperability with perimeter protection and XDR, all adminstered with a modern UI. The platform is modular with decoupled components that are designed to operate independently and asynchronously, to deliver uninterruptible operation.
+					The ThreatMatic platform is engineered with the most up-to-date frameworks to help realize a highly potent cybersecurity mesh: lightning fast ZTNA enforcement that protects directly at your endpoints. With ultra-fast, modern onboarding in datacenters or public cloud, you can deploy app and user ID based least-privilege policies and flexible microsegmentation. On Windows and MacOS, we offer unparalleled protection against unauthorized executions or access, enable micro-segmentation and deep visibility/interoperability with perimeter protection and XDR, administered with a modern UI. The platform is modular with decoupled components that are designed to operate independently and asynchronously, to deliver uninterruptible operation.
 				</p>
-				<p class="mb-8 font-light lg:text-xl">					
+				<p class="mb-8 font-light lg:text-xl">
 					sChannel™ untangles the traditional VPN approach to securely connect your private, cloud and untrusted spaces with an integrated policy-driven approach. It is offered for all platforms including iPhone and Android.
-				</p>				
+				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					Cloudiffusion™ enables you to seamlessly connect your global workforce and privately hosted datacenters to the Cloud with sChannel and ThreatMatic ZTNA policies.
 				</p>
