@@ -263,7 +263,7 @@
 </section>
 
 <section class="bg-white dark:bg-gray-900">
-    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid gap-4 lg:gap-8">
+    <div class="py-4 px-4 mx-auto max-w-screen-xl">
         <div>
             <iframe class="mx-auto w-full lg:max-w-xl h-64 rounded-lg sm:h-96 shadow-xl" src="https://drive.google.com/file/d/1G1rhXAv5Z53TIHh12uai3ZrTlHeNJ_dr/preview" frameborder="1" allow="autoplay;"></iframe>
         </div>
