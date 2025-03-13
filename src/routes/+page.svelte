@@ -263,9 +263,9 @@
 </section>
 
 <section class="bg-white dark:bg-gray-900">
-    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
+    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid gap-4 lg:gap-8">
         <div>
-            <iframe class="mx-auto w-full lg:max-w-xl h-64 rounded-lg sm:h-96 shadow-xl" src="https://drive.google.com/file/d/1G1rhXAv5Z53TIHh12uai3ZrTlHeNJ_dr/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;" allowfullscreen></iframe>
+            <iframe class="mx-auto w-full lg:max-w-xl h-64 rounded-lg sm:h-96 shadow-xl" src="https://drive.google.com/file/d/1G1rhXAv5Z53TIHh12uai3ZrTlHeNJ_dr/preview" frameborder="1" allow="autoplay;"></iframe>
         </div>
     </div>
 </section>
