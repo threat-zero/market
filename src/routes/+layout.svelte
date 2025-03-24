@@ -36,11 +36,11 @@
 	>
 		<NavBrand href="/" class="px-2">
 
-			<--
+		<!--
 			<div class="text-lg text-blue-500 dark:text-blue-400">Threat</div>
 			<div class="text-lg dark:text-white">Matic</div>
 			<div class="text-xs dark:text-white">™</div>
-			-->
+		-->
 
 			<img
 				class="h-auto rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
