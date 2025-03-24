@@ -3,8 +3,8 @@
 	import { page } from '$app/stores';
 	import { DarkMode, NavBrand, NavHamburger, NavLi, NavUl, Navbar } from 'flowbite-svelte';
 
-	import tm-brand-dark from '$lib/images/product/tm-brand-dark.png';
-	import tm-brand-light from '$lib/images/product/tm-brand-light.png';
+	import TMbrandDark from '$lib/images/product/tm-brand-dark.png';
+	import TMbrandLight from '$lib/images/product/tm-brand-light.png';
 
 	import { Icon } from 'flowbite-svelte-icons';
 	import '../app.pcss';
@@ -44,15 +44,15 @@
 
 			<img
 				class="h-auto rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
-				src={tm-brand-light}
+				src={TMbrandDark}
 				alt="tm brand"
 			/>
 			<img
 				class="h-auto hidden rounded-lg border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
-				src={tm-brand-dark}
+				src={TMbrandLight}
 				alt="tm brand dark"
 			/>
-					
+
 		</NavBrand>
 		<div class="flex items-center lg:order-2">
 			<DarkMode class="mr-4" />
