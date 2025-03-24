@@ -2,7 +2,10 @@
 	import { onNavigate } from '$app/navigation';
 	import { page } from '$app/stores';
 	import { DarkMode, NavBrand, NavHamburger, NavLi, NavUl, Navbar } from 'flowbite-svelte';
-	
+
+	import tm-brand-dark from '$lib/images/product/tm-brand-dark.png';
+	import tm-brand-light from '$lib/images/product/tm-brand-light.png';
+
 	import { Icon } from 'flowbite-svelte-icons';
 	import '../app.pcss';
 
@@ -32,11 +35,24 @@
 		let:toggle
 	>
 		<NavBrand href="/" class="px-2">
-			
+
+			<--
 			<div class="text-lg text-blue-500 dark:text-blue-400">Threat</div>
 			<div class="text-lg dark:text-white">Matic</div>
 			<div class="text-xs dark:text-white">™</div>
-			
+			-->
+
+			<img
+				class="h-auto rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
+				src={tm-brand-light}
+				alt="tm brand"
+			/>
+			<img
+				class="h-auto hidden rounded-lg border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
+				src={tm-brand-dark}
+				alt="tm brand dark"
+			/>
+					
 		</NavBrand>
 		<div class="flex items-center lg:order-2">
 			<DarkMode class="mr-4" />
