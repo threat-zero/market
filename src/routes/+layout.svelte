@@ -43,12 +43,12 @@
 		-->
 
 			<img
-				class="h-auto rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
+				class="h-auto rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 				src={TMbrandDark}
 				alt="tm brand"
 			/>
 			<img
-				class="h-auto hidden rounded-lg border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
+				class="h-auto hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
 				src={TMbrandLight}
 				alt="tm brand dark"
 			/>
