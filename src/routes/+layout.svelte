@@ -42,17 +42,6 @@
 			<div class="text-xs dark:text-white">™</div>
 		-->
 
-			<img
-				class="h-6 rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
-				src={TMbrandDark}
-				alt="tm brand"
-			/>
-			<img
-				class="h-6 hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
-				src={TMbrandLight}
-				alt="tm brand dark"
-			/>
-
 		</NavBrand>
 		<div class="flex items-center lg:order-2">
 			<DarkMode class="mr-4" />
@@ -72,6 +61,16 @@
 			>
 				Blog
 			</NavLi>
+			<img
+				class="h-24 rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
+				src={TMbrandDark}
+				alt="tm brand"
+			/>
+			<img
+				class="h-24 hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
+				src={TMbrandLight}
+				alt="tm brand dark"
+			/>
 		</NavUl>
 	</Navbar>
 {/if}
