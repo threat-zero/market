@@ -32,12 +32,12 @@
 		id="header"
 		navClass="flex self-center w-full z-20 top-0 left-0 bg-surface-1/50 dark:bg-surface-1/50 backdrop-blur-xl"
 		<img
-			class="h-8 rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
+			class="h-10 rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 			src={TMbrandDark}
 			alt="tm brand"
 		/>
 		<img
-			class="h-8 hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
+			class="h-10 hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
 			src={TMbrandLight}
 			alt="tm brand dark"
 		/>
