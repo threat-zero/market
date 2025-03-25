@@ -42,6 +42,17 @@
 			<div class="text-xs dark:text-white">™</div>
 		-->
 
+		<img
+			class="h-8 rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
+			src={TMbrandDark}
+			alt="tm brand"
+		/>
+		<img
+			class="h-8 hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
+			src={TMbrandLight}
+			alt="tm brand dark"
+		/>
+
 		</NavBrand>
 		<div class="flex items-center lg:order-2">
 			<DarkMode class="mr-4" />
@@ -52,19 +63,6 @@
 					<NavLi href="/">Home</NavLi>
 			<NavLi href="/intro">Intro</NavLi>
 			<NavLi href="/product">Product</NavLi>
-			
-
-			<img
-				class="h-12 mx-auto rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
-				src={TMbrandDark}
-				alt="tm brand"
-			/>
-			<img
-				class="h-12 mx-auto hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
-				src={TMbrandLight}
-				alt="tm brand dark"
-			/>
-			
 			<NavLi href="/schannel">QSChannel™</NavLi>
 			<NavLi href="/pricing">Pricing</NavLi>
 			<!-- <NavLi href="/team">Team</NavLi> -->
@@ -88,7 +86,22 @@
 				<div class="mb-6 md:mb-0">
 					<a href="/">
 						<!--Do not format into two seperate lines as <span> is whitespace sensitive-->
+
+						<!--
 						<span class="text-blue-500 dark:text-blue-400">Threat</span><span class="dark:text-white">Matic</span><span class="text-xs dark:text-white">™</span>
+						-->
+
+						<img
+							class="h-6 rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
+							src={TMbrandDark}
+							alt="tm brand"
+						/>
+						<img
+							class="h-6 hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
+							src={TMbrandLight}
+							alt="tm brand dark"
+						/>
+
 					</a>
 				</div>
 				<div class="grid grid-cols-2 gap-8 sm:grid-cols-3 sm:gap-6">
