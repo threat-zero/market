@@ -54,7 +54,7 @@
 		/>
 
 		</NavBrand>
-		<div class="flex lg:order-2">
+		<div class="flex-auto lg:order-2">
 			<DarkMode class="mr-4" />
 			<NavHamburger on:click={toggle} />
 		</div>
