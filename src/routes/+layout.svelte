@@ -62,12 +62,12 @@
 				Blog
 			</NavLi>
 			<img
-				class="h-24 rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
+				class="h-20 mx-auto rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 				src={TMbrandDark}
 				alt="tm brand"
 			/>
 			<img
-				class="h-24 hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
+				class="h-20 mx-auto hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
 				src={TMbrandLight}
 				alt="tm brand dark"
 			/>
