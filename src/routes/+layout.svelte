@@ -46,18 +46,6 @@
 		<div class="flex items-center lg:order-2">
 			<DarkMode class="mr-4" />
 			<NavHamburger on:click={toggle} />
-
-			<img
-				class="h-20 mx-auto rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
-				src={TMbrandDark}
-				alt="tm brand"
-			/>
-			<img
-				class="h-20 mx-auto hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
-				src={TMbrandLight}
-				alt="tm brand dark"
-			/>
-			
 		</div>
 
 		<NavUl {hidden} {activeUrl} class="order-1 mr-4">
@@ -77,6 +65,18 @@
 
 		</NavUl>
 	</Navbar>
+	
+	<img
+		class="h-20 mx-auto rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
+		src={TMbrandDark}
+		alt="tm brand"
+	/>
+	<img
+		class="h-20 mx-auto hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
+		src={TMbrandLight}
+		alt="tm brand dark"
+	/>
+
 {/if}
 <slot />
 {#if activeUrl != '/v2'}
