@@ -88,7 +88,7 @@
 			</div>
 			<img
 				class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
-				src={productNew}
+				src={productNew} 
 				alt="Product Graphic"
 			/>
 		</div>
