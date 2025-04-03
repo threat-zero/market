@@ -40,33 +40,45 @@
 					measures with unparalleled visibility and control.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
-					Today’s cyber defenses are typically constructed with a perimeter focus where the security
-					is built from outside-in, and this fact is one of the main reasons for security
-					breaches that cause massive loss of data, trust and productivity, and are massively disruptive and expensive to
-					mitigate.
+					Today’s cyber defenses are typically constructed with a focus on protecting
+					the <span class="italic">perimeter</span> and the security architecture
+					is built from the outside-in. Unfortunately, with today's hyperconnected users and apps,
+					this <span class="italic"blind spot</span> in the "east-west aperture" can cause
+					breaches often accompanied by massive loss of data, trust and productivity.
+					These disruptive events are often crippling and expensive to mitigate.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					We have taken a novel approach to building a Zero-Trust
-					solution that is founded on the principles of simplicity of deployment and ultra low-latency policy updates
-					for an impermeable Zero-Trust model. A featherweight agent along with our cloud, or privately hosted policy engine,
-					protect your servers and users regardless of size, scope or location, in a
-					matter of milliseconds. It's anchored by a policy driven model, based on identity and secured by
-					advanced encryption and cloud-native technology.
+					solution that is founded on the principles of <span class="italic>simplicity</span>
+					of deployment and <span class="italic">ultra low-latency</span> policy updates.
+					ThreatMatic can be hosted in the cloud or privately, or as a hybrid model
+					to protect all your assets regardless of size, scope or location, in <span class="italic">milliseconds</span>.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					The ThreatMatic platform is engineered with the most up-to-date frameworks to help realize a highly potent cybersecurity mesh: lightning fast ZTNA enforcement that protects directly at your endpoints. With ultra-fast, modern onboarding in datacenters or public cloud, you can deploy app and user ID based least-privilege policies and flexible microsegmentation. On Windows and MacOS, we offer unparalleled protection against unauthorized executions or access, enable micro-segmentation and deep visibility/interoperability with perimeter protection and XDR, administered with a modern UI. The platform is modular with decoupled components that are designed to operate independently and asynchronously, to deliver uninterruptible operation.
+					The ThreatMatic platform is engineered to thrive in a cybersecurity mesh (CSMA):
+					lightning fast ZTNA enforcement directly on all your endpoints. With ultra-fast,
+				  onboarding, you can deploy app and user ID based least-privilege policies
+					with super malleable microsegmentation in minutes.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					sChannel™ untangles the traditional VPN approach to securely connect your private, cloud and untrusted spaces with an integrated policy-driven approach. It is offered for all platforms including iPhone and Android.
+					ThreatMatic is a highly modular design with decoupled components
+					that are designed to operate independently and asynchronously to deliver <span class="italic">uninterruptible</span> operation.
+					On Windows, MacOS and Linux we offer unparalleled protection against unauthorized executions and bi-directional access control,
+					easily composable micro-segmentation.
+
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					Cloudiffusion™ enables you to seamlessly connect your global workforce and privately hosted datacenters to the Cloud with sChannel and ThreatMatic ZTNA policies.
+					QSChannel™ obsoletes the traditional VPN approach to securely connect your private,
+					cloud and untrusted spaces with integrated policy-driven ZTNA.
+					It is offered for all platforms including iPhone and Android.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					ActiveObscurity™ ingress posture control extends ZTNA to ensure that only trusted and verified clients are allowed to connect to your services.
+					Cloudiffusion™ enables you to <span class="italic">seamlessly</span> connect your global workforce with private datacenters and the Cloud with ZTNA policies.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					Infused into the platform is a deep-analytics architecture that was built with AI-ML and LLM at the center to enable a natural language interface to ThreatMatic.
+					ThreatMatic features a <span class="italic>deep-analytics</span> capability with AI-ML and LLM as the founding principles to support a natural language interface.
+					You can query insights on the UI and dive deep into the ZTNA audit logs.
+					We can integrate with EDR/XDR systems and firewalls at the perimeter.
 				</p>
 			</div>
 			<img
