@@ -3,8 +3,8 @@
 	import { page } from '$app/stores';
 	import { DarkMode, NavBrand, NavHamburger, NavLi, NavUl, Navbar } from 'flowbite-svelte';
 
-	import TMbrandDark from '$lib/images/product/tm-brand-dark.png';
-	import TMbrandLight from '$lib/images/product/tm-brand-light.png';
+	import TMbrandDark from '$lib/images/product/Threatmatic_Banner1.png';
+	import TMbrandLight from '$lib/images/product/Threatmatic_Banner3.png';
 
 	import { Icon } from 'flowbite-svelte-icons';
 	import '../app.pcss';
