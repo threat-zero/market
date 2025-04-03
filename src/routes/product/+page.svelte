@@ -49,7 +49,7 @@
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					We have taken a novel approach to building a Zero-Trust
-					solution that is founded on the principles of <span class="italic>simplicity</span>
+					solution that is founded on the principles of <span class="italic">simplicity</span>
 					of deployment and <span class="italic">ultra low-latency</span> policy updates.
 					ThreatMatic can be hosted in the cloud or privately, or as a hybrid model
 					to protect all your assets regardless of size, scope or location, in <span class="italic">milliseconds</span>.
@@ -70,10 +70,14 @@
 				<p class="mb-8 font-light lg:text-xl">
 					QSChannel™ obsoletes the traditional VPN approach to securely connect your private,
 					cloud and untrusted spaces with integrated policy-driven ZTNA.
-					It is offered for all platforms including iPhone and Android.
+					Our microsegmentation zones are simple to deploy and scale and ZTNA is infused, not a legacy "add-on".
+					We offer this feature for all platforms including iPhone and Android.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					Cloudiffusion™ enables you to <span class="italic">seamlessly</span> connect your global workforce with private datacenters and the Cloud with ZTNA policies.
+					Cloudiffusion™ enables you to seamlessly and
+					rapidly connect your global workforce with private datacenters and the Cloud with ZTNA policies.
+					With our continuous verification and app-bandwidth-control features,
+					you get fine-grained control against runaway cloud costs.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					ThreatMatic features a <span class="italic>deep-analytics</span> capability with AI-ML and LLM as the founding principles to support a natural language interface.
