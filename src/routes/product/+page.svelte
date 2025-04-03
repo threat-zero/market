@@ -62,10 +62,10 @@
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					ThreatMatic is a highly modular design with decoupled components
-					that are designed to operate independently and asynchronously to deliver <span class="italic">uninterruptible</span> operation.
-					On Windows, MacOS and Linux we offer unparalleled protection against unauthorized executions and bi-directional access control,
-					easily composable micro-segmentation.
-
+					that are designed to operate independently and asynchronously
+					to deliver <span class="italic">uninterruptible</span> operation.
+					On Windows, MacOS and Linux we offer unparalleled protection
+					against unauthorized program executions and bi-directional access control.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					QSChannel™ obsoletes the traditional VPN approach to securely connect your private,
@@ -80,13 +80,14 @@
 					you get fine-grained control against runaway cloud costs.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					ThreatMatic features a <span class="italic>deep-analytics</span> capability with AI-ML and LLM as the founding principles to support a natural language interface.
+					ThreatMatic features a <span class="italic>deep-analytics</span>
+					capability with AI-ML and LLM as the founding principles to support a natural language interface.
 					You can query insights on the UI and dive deep into the ZTNA audit logs.
 					We can integrate with EDR/XDR systems and firewalls at the perimeter.
 				</p>
 			</div>
 			<img
-				class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg mx-auto"
+				class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
 				src={productNew}
 				alt="Product Graphic"
 			/>
