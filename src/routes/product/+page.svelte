@@ -43,7 +43,7 @@
 					Today’s cyber defenses are typically constructed with a focus on protecting
 					the <span class="italic">perimeter</span> and the security architecture
 					is built from the outside-in. Unfortunately, with today's hyperconnected users and apps,
-					this <span class="italic"blind spot</span> in the "east-west aperture" can cause
+					this <span class="italic">blind spot</span> in the "east-west aperture" can cause
 					breaches often accompanied by massive loss of data, trust and productivity.
 					These disruptive events are often crippling and expensive to mitigate.
 				</p>
