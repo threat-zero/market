@@ -1,7 +1,7 @@
 <script lang="ts">
 	import FeaturesList from '$lib/blocks/FeaturesList.svelte';
-	import dashboardMockupDark from '$lib/images/product/tm-cloud.jpg';
-	import dashboardMockupLight from '$lib/images/product/34.jpg';
+	import dashboardMockupDark from '$lib/images/product/Threatmatic_Banner1.png';
+	import dashboardMockupLight from '$lib/images/product/Threatmatic_Banner3.png';
 	import { Icon } from 'flowbite-svelte-icons';
 	import { JsonLd, MetaTags } from 'svelte-meta-tags';
 </script>
