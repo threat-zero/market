@@ -86,11 +86,13 @@
 					We can integrate with EDR/XDR systems and firewalls at the perimeter.
 				</p>
 			</div>
+			<!--
 			<img
 				class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
-				src={productNew} 
+				src={productNew}
 				alt="Product Graphic"
 			/>
+			-->
 		</div>
 	</div>
 </section>
