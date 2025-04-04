@@ -440,7 +440,7 @@
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
                     </svg>
 										<div class="w-full">
-       								<audio controls class="w-full h-2 rounded-md">
+       								<audio autoplay controls class="w-full h-2 rounded-md">
          							<source src="https://drive.google.com/file/d/1QW2p06boHXRGjXUbkwvHRn8Qha9kBF6t/view?usp=sharing" type="audio/wav">
          							Your browser does not support the audio element.
        								</audio>
