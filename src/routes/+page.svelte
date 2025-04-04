@@ -2,6 +2,7 @@
 	import FeaturesList from '$lib/blocks/FeaturesList.svelte';
 	import dashboardMockupDark from '$lib/images/product/Threatmatic_Banner1.png';
 	import dashboardMockupLight from '$lib/images/product/Threatmatic_Banner3.png';
+	import introAudio from '$lib/audio/intro audio.wav';
 	import { Icon } from 'flowbite-svelte-icons';
 	import { JsonLd, MetaTags } from 'svelte-meta-tags';
 </script>
@@ -442,7 +443,7 @@
                     </svg>
 										<div class="w-full">
        								<audio autoplay controls class="w-full h-2 rounded-md">
-         							<source src="$lib/audio/intro audio.wav" type="audio/wav">
+         							<source src={introAudio} type="audio/wav">
          							Your browser does not support the audio element.
        								</audio>
      								</div>
