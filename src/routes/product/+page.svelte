@@ -80,12 +80,17 @@
 					you get fine-grained control against runaway cloud costs.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					ThreatMatic features a <span class="italic>deep-analytics</span>
+					ThreatMatic features a <span class="italic">deep-analytics</span>
 					capability with AI-ML and LLM as the founding principles to support a natural language interface.
 					You can query insights on the UI and dive deep into the ZTNA audit logs.
 					We can integrate with EDR/XDR systems and firewalls at the perimeter.
 				</p>
 			</div>
+			<img
+				class="hidden mb-4 max-w-full mx-auto lg:mb-0 lg:flex rounded-lg"
+				src={productNew}
+				alt="Product Graphic"
+			/>
 		</div>
 	</div>
 </section>
