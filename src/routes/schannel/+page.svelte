@@ -1,5 +1,5 @@
 <script lang="ts">
-	import productNew from '$lib/images/product/tm-qschannel.jpg';
+	import productNew from '$lib/images/product/tm-schannel.png';
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
@@ -41,7 +41,7 @@
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
 					QSChannel is a <span class="italic">Quantum Safe</span>
-					encrypted private mesh network with the latest ciphers, infused with ThreatMatic ZTNA 
+					encrypted private mesh network with the latest ciphers, infused with ThreatMatic ZTNA
 					policies. Protect the flows and conversations you choose, unwind the complexity
 					and supercharge the sluggish performance of traditional VPNs, unleash your workforce and free
 					them to connect to your data: uncompromising confidentiality and blazing performance at a
