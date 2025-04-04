@@ -428,7 +428,8 @@
             <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-3xl dark:text-white">Demystifying Zero Trust</h1>
             <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">ThreatMatic™ strikes the perfect balance between security and usability.</p>
             <div class="flex flex-col space-y-4 space-x-2 sm:flex-row sm:space-y-0">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScTMV_GyN480Jie4voJMwDDb6U6WUv14p0k8do3TPeeb8g9uQ/viewform?usp=sf_link" target="_blank"
+								<!--
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLScTMV_GyN480Jie4voJMwDDb6U6WUv14p0k8do3TPeeb8g9uQ/viewform?usp=sf_link" target="_blank"
 								rel="external noopener noreferrer" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white
 								rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
                     Get started
@@ -436,6 +437,7 @@
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
                     </svg>
                 </a>
+								-->
 
                 <a class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white
 								rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900 ">
