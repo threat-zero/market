@@ -36,15 +36,14 @@
 		<div class="gap-8 items-top lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-2xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-					ThreatMatic™ is a potent solution for a smart Zero-Trust edge and rapid malware counter
-					measures with unparalleled visibility and control.
+					ThreatMatic™ Zero Trust Edge deploys in minutes and enforces ZTNA in milliseconds.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
-					Today’s cyber defenses are typically constructed with a focus on protecting
-					the <span class="italic">perimeter</span> and the security architecture
-					is built from the outside-in. Unfortunately, with today's hyperconnected users and apps,
-					this <span class="italic">blind spot</span> in the "east-west aperture" can cause
-					breaches often accompanied by massive loss of data, trust and productivity.
+					Cybersecurity today is focussed on protecting
+					the <span class="italic">perimeter</span> and as a consequence the security architecture
+					is built from the outside-in. In our hyperconnected current world with widely dispersed users and applications,
+					this design creates a <span class="italic">blind spot</span> in the "east-west aperture" that can result in security
+					breaches often accompanied by loss of data, trust and productivity.
 					These disruptive events are often crippling and expensive to mitigate.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
@@ -80,10 +79,11 @@
 					you get fine-grained control against runaway cloud costs.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					ThreatMatic features a <span class="italic">deep-analytics</span>
-					capability with AI-ML and LLM as the founding principles to support a natural language interface.
+					ThreatMatic includes a deep-analytics
+					capability with Gen-AI and extends a natural language interface.
 					You can query insights on the UI and dive deep into the ZTNA audit logs.
-					We can integrate with EDR/XDR systems and firewalls at the perimeter.
+					We integrate with EDR/XDR systems and firewalls at the perimeter as
+					the <span class="italic">enforcement point</span> in your CSMA.
 				</p>
 			</div>
 			<img
