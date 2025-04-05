@@ -23,7 +23,7 @@
 		Last updated April 05, 2025
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 				This Privacy Notice for Threatmatic Inc. ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 				Visit our website at threatmatic.com, or any website of ours that links to this Privacy Notice
 				Use Threatmatic Zero Trust Edge. ThreatMatic™ strikes the perfect balance between security and usability. Our modular and uninterruptible Zero Trust enforcement design, managed from an ultra-easy and modern UI ensures that your most valuable assets are protected instantaneously with ZTNA - your advantage when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. QSChannel™ Zones and Cloudiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
@@ -31,7 +31,7 @@
 				Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at privacy@threatmatic.com.
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 				SUMMARY OF KEY POINTS
 				</p>
@@ -76,7 +76,7 @@
 				Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 			TABLE OF CONTENTS
 			</p>
 
@@ -132,7 +132,7 @@
 			13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 			1. WHAT INFORMATION DO WE COLLECT?
 			</p>
 
@@ -161,7 +161,7 @@
 			All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 			2. HOW DO WE PROCESS YOUR INFORMATION?
 			</p>
 
@@ -175,7 +175,7 @@
 			To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 			3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 			</p>
@@ -216,7 +216,7 @@
 			If the information is publicly available and is specified by the regulations
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 			4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 			</p>
@@ -234,7 +234,7 @@
 
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 			5. HOW LONG DO WE KEEP YOUR INFORMATION?
 			</p>
 
@@ -242,7 +242,7 @@
 			In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law.
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 			6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 			</p>
@@ -255,7 +255,7 @@
 			We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 			7. DO WE COLLECT INFORMATION FROM MINORS?
 			</p>
@@ -268,7 +268,7 @@
 			We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at privacy@threatmatic.com.
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 			8. WHAT ARE YOUR PRIVACY RIGHTS?
 			</p>
@@ -308,7 +308,7 @@
 			If you have questions or comments about your privacy rights, you may email us at privacy@threatmatic.com.
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 			9. CONTROLS FOR DO-NOT-TRACK FEATURES
 			</p>
@@ -321,7 +321,7 @@
 			California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time.
 		</p>
 
-		<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 				10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 				</p>
@@ -547,7 +547,7 @@
 					California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"
 				</p>
 
-				<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+				<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 					11. DO WE MAKE UPDATES TO THIS NOTICE?
 				</p>
@@ -560,7 +560,7 @@
 					We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 				</p>
 
-				<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+				<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 					12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 				</p>
@@ -576,13 +576,13 @@
 					United States
 				</p>
 
-				<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+				<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 
 					13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 				</p>
 
 				<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
-					Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: threatmatic.com/privacy.s
+					Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: threatmatic.com/privacy
 		</p>
 	</div>
 </section>
