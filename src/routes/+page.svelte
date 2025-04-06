@@ -448,7 +448,7 @@
 												-->
                     </svg>
 										<div class="w-full">
-       								<audio controls class="w-full h-2 rounded-lg">
+       								<audio controls class="w-full h-auto rounded-lg">
          							<source src={introAudio} type="audio/wav">
          							Your browser does not support the audio element.
        								</audio>
