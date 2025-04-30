@@ -327,7 +327,11 @@
 				</p>
 
 				<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
-				In Short: If you are a resident of California, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.
+				In Short: If you are a resident of California, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law.
+				</p>
+
+				<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
+				More information is provided below.
 				Categories of Personal Information We Collect
 				</p>
 
