@@ -349,7 +349,7 @@
 				</p>
 
 				<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
-				NO
+				NO, except email and IP addresses to facilitate policy actions.
 				</p>
 
 				<p class="font-light text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
