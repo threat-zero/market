@@ -231,20 +231,20 @@
 					},
 					{
 						feature: 'Designated Account Manager',
-						description: 'Coming Soon!',
+						description: 'A dedicated technical manager who is familiar with your account',
 						standard: false,
 						premium: true
 					},
 					{
 						feature: 'Technical Specialist',
-						description: 'Coming Soon!',
+						description: 'Access to a Threatmatic Specialist',
 						standard: false,
 						premium: true
 					},
 					{
 						feature: 'Phone Support',
-						description: 'Coming Soon!',
-						standard: false,
+						description: 'Reach us directly at anytime, we are just a phone call away',
+						standard: true,
 						premium: true
 					}
 				]
