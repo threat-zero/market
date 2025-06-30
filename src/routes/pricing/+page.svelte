@@ -117,6 +117,12 @@
 						standard: true,
 						premium: true
 					}
+					{
+						feature: 'Deploy in minutes, enforce in milliseconds',
+						description: 'Ultra low-latency deployment and zero trust enforcement',
+						standard: true,
+						premium: true
+					}
 				],
 				Network: [
 					{
@@ -159,14 +165,14 @@
 					{
 						feature: 'Flexible microsegmentation and traffic engineering with QSChannel',
 						description:
-							'Easily connect your on-prem and cloud infrastructure, in seconds with multi-factor auth.',
+							'Easily connect your on-prem and cloud infrastructure, in seconds with multi-factor auth',
 						standard: false,
 						premium: true
 					},
 					{
-						feature: 'Metered Socket Actions (QoS)',
+						feature: 'Application bandwidth control',
 						description:
-							'Monitor individual application performance at client and respond with actions.',
+							'Monitor individual application performance at client and respond with actions',
 						standard: false,
 						premium: true
 					},
@@ -177,26 +183,26 @@
 						premium: true
 					},
 					{
-						feature: 'TrustZero Cloud Proxy',
-						description: 'Redirect web traffic through ThreatMatic Cloud',
+						feature: 'Secure Web Gateway',
+						description: 'Redirect web traffic through Threatmatic Cloud for deep inspection',
 						standard: false,
 						premium: true
 					},
 					{
-						feature: 'Advanced Analytics',
-						description: 'Coming Soon!',
+						feature: 'Advanced Analytics and Forecasting',
+						description: 'Analyze and predict app security posture with deep learning and AI',
 						standard: false,
 						premium: true
 					},
 					{
 						feature: 'ThreatMatic API',
-						description: 'Integrate your SoC or SIEM operations via APIs.',
+						description: 'Integrate your SoC or SIEM operations via APIs',
 						standard: false,
 						premium: true
 					},
 					{
-						feature: 'Mitre Attack Integrated',
-						description: 'Realtime threat intelligence integrated',
+						feature: 'Integrated Threat Intelligence',
+						description: 'Realtime threat intelligence from hi-fidelity sources',
 						standard: false,
 						premium: true
 					}
