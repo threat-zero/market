@@ -250,7 +250,7 @@
 					},
 					{
 						feature: 'Technical Specialist',
-						description: 'Access to a Threatmatic Specialist',
+						description: 'Access to a ThreatMatic Specialist',
 						standard: false,
 						premium: true
 					},
