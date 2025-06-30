@@ -116,7 +116,7 @@
 						description: 'Policy control from any public or private cloud',
 						standard: true,
 						premium: true
-					}
+					},
 					{
 						feature: 'Deploy in minutes, enforce in milliseconds',
 						description: 'Ultra low-latency deployment and zero trust enforcement',
