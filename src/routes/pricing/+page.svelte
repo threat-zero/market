@@ -121,12 +121,12 @@
 				Network: [
 					{
 						feature: 'Zero Trust Mesh Architecture',
-						description: 'Zero Edge Endpoint Architecture',
+						description: 'Zero Edge Endpoint Architecture that integrates with other security tools',
 						standard: true,
 						premium: true
 					},
 					{
-						feature: 'Edge2Edge Policy',
+						feature: 'Bi-directional ZTNA',
 						description: 'User and workload ID enforced simultaneously at source & destination',
 						standard: true,
 						premium: true
@@ -157,9 +157,9 @@
 						premium: true
 					},
 					{
-						feature: 'Flexible IPsec Traffic Steering with sChannel',
+						feature: 'Flexible microsegmentation and traffic engineering with QSChannel',
 						description:
-							'Easily connect your on-prem and cloud infra with secured IPSec, ondemand channels.',
+							'Easily connect your on-prem and cloud infrastructure, in seconds with multi-factor auth.',
 						standard: false,
 						premium: true
 					},
