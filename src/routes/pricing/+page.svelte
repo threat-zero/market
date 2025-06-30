@@ -163,16 +163,23 @@
 						premium: true
 					},
 					{
-						feature: 'Flexible microsegmentation and traffic engineering with QSChannel',
+						feature: 'QSChannel un-VPN',
 						description:
 							'Easily connect your on-prem and cloud infrastructure, in seconds with multi-factor auth',
 						standard: false,
 						premium: true
 					},
 					{
+						feature: 'Microsegmentation',
+						description:
+							'ID and App to workload microsegmentation with zero trust policy in minutes',
+						standard: false,
+						premium: true
+					},
+					{
 						feature: 'Application bandwidth control',
 						description:
-							'Monitor individual application performance at client and respond with actions',
+							'Monitor individual application performance and respond with actions',
 						standard: false,
 						premium: true
 					},
