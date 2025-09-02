@@ -7,12 +7,12 @@
 	{...{
 		title: 'Product',
 		titleTemplate: '%s | Product™',
-		description: 'ThreatMatic™ Product',
+		description: 'Threatmatic™ Product',
 		canonical: 'https://threatmatic.com/product',
 		openGraph: {
 			url: 'https://www.threatmatic.com/product',
 			title: 'Home',
-			description: 'ThreatMatic™ Product',
+			description: 'Threatmatic™ Product',
 			images: [
 				{
 					url: 'https://threatmatic.com/_app/immutable/assets/product.158ef51e.png',
@@ -21,7 +21,7 @@
 					alt: 'Product Graphic'
 				}
 			],
-			siteName: 'ThreatMatic™'
+			siteName: 'Threatmatic™'
 		},
 		twitter: {
 			handle: '@threatmatic',
@@ -39,7 +39,7 @@
 					Simplify Security Without Compromising Control.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
-					ThreatMatic™ bridges the gap between security and usability.
+					Threatmatic™ bridges the gap between security and usability.
 
 					Our intuitive UI and modular Zero Trust architecture delivers lightning-fast, real-time protection against ransomware, malware, phishing, DNS poisoning, and more. Defend your most critical assets with unparalleled ease, security and performance..
 				</p>

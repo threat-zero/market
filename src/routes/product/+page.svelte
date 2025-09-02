@@ -7,12 +7,12 @@
 	{...{
 		title: 'Product',
 		titleTemplate: '%s | Product™',
-		description: 'ThreatMatic™ Product',
+		description: 'Threatmatic™ Product',
 		canonical: 'https://threatmatic.com/product',
 		openGraph: {
 			url: 'https://www.threatmatic.com/product',
 			title: 'Home',
-			description: 'ThreatMatic™ Product',
+			description: 'Threatmatic™ Product',
 			images: [
 				{
 					url: 'https://threatmatic.com/_app/immutable/assets/product.158ef51e.png',
@@ -21,7 +21,7 @@
 					alt: 'Product Graphic'
 				}
 			],
-			siteName: 'ThreatMatic™'
+			siteName: 'Threatmatic™'
 		},
 		twitter: {
 			handle: '@threatmatic',
@@ -36,7 +36,7 @@
 		<div class="gap-8 items-top lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-2xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-					ThreatMatic™ Zero Trust Edge deploys in minutes and enforces ZTNA in milliseconds.
+					Threatmatic™ Zero Trust Edge deploys in minutes and enforces ZTNA in milliseconds.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
 					Cybersecurity today is focussed on protecting
@@ -50,17 +50,17 @@
 					We have taken a novel approach to building a Zero-Trust
 					solution that is founded on the principles of <span class="italic">simplicity</span>
 					of deployment and <span class="italic">ultra low-latency</span> policy updates.
-					ThreatMatic can be hosted in the cloud or privately, or as a hybrid model
+					Threatmatic can be hosted in the cloud or privately, or as a hybrid model
 					to protect all your assets regardless of size, scope or location, in <span class="italic">milliseconds</span>.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					The ThreatMatic platform is engineered to thrive in a cybersecurity mesh (CSMA):
+					The Threatmatic platform is engineered to thrive in a cybersecurity mesh (CSMA):
 					lightning fast ZTNA enforcement directly on all your endpoints. With ultra-fast,
 				  onboarding, you can deploy app and user ID based least-privilege policies
 					with super malleable microsegmentation in minutes.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					ThreatMatic is a highly modular design with decoupled components
+					Threatmatic is a highly modular design with decoupled components
 					that are designed to operate independently and asynchronously
 					to deliver <span class="italic">uninterruptible</span> operation.
 					On Windows, MacOS and Linux we offer unparalleled protection
@@ -79,7 +79,7 @@
 					you get fine-grained control against runaway cloud costs.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					ThreatMatic includes a deep-analytics
+					Threatmatic includes a deep-analytics
 					capability with Gen-AI and extends a natural language interface.
 					You can query insights on the UI and dive deep into the ZTNA audit logs.
 					We integrate with EDR/XDR systems and firewalls at the perimeter as

@@ -10,19 +10,19 @@
 <MetaTags
 	{...{
 		title: 'Home',
-		titleTemplate: '%s | ThreatMatic™',
+		titleTemplate: '%s | Threatmatic™',
 		description:
-			'ThreatMatic™ Zero-Trust, Bandwidth, Network, Microsegmentation, and Defense-in-Depth features',
+			'Threatmatic™ Zero-Trust, Bandwidth, Network, Microsegmentation, and Defense-in-Depth features',
 		canonical: 'https://threatmatic.com/',
 		openGraph: {
 			url: 'https://www.threatmatic.com/',
 			title: 'Home',
 			description:
-				'ThreatMatic™ Zero-Trust, Bandwidth, Network, Microsegmentation, and Defense-in-Depth features',
+				'Threatmatic™ Zero-Trust, Bandwidth, Network, Microsegmentation, and Defense-in-Depth features',
 			images: [
 				{
 					url: 'https://threatmatic.com/_app/immutable/assets/dashboardMockupLight.31c48286.svg',
-					alt: 'ThreatMatic Dashboard Mockup Light Version',
+					alt: 'Threatmatic Dashboard Mockup Light Version',
 					width: 800,
 					height: 600,
 					secureUrl:
@@ -31,7 +31,7 @@
 				},
 				{
 					url: 'https://threatmatic.com/_app/immutable/assets/dashboardMockupDark.95a900fd.svg',
-					alt: 'ThreatMatic Dashboard Mockup Dark Version',
+					alt: 'Threatmatic Dashboard Mockup Dark Version',
 					width: 800,
 					height: 600,
 					secureUrl:
@@ -39,7 +39,7 @@
 					type: 'image/jpeg'
 				}
 			],
-			siteName: 'ThreatMatic™'
+			siteName: 'Threatmatic™'
 		},
 		twitter: {
 			handle: '@threatmatic',
@@ -83,18 +83,18 @@
 			'@context': 'https://schema.org',
 			'@type': 'WebApplication',
 			applicationCategory: 'SecurityApplication',
-			description: "ThreatMatic™'s flagship product consisting of the agent and admin dashboard.",
+			description: "Threatmatic™'s flagship product consisting of the agent and admin dashboard.",
 			featureList:
-				"Fully ID aware across all your users and workloads, Unlimited Policies, Run on Customer Provided Infrastructure, Customer Safe Downtime, Cybersecurity Mesh Architecture, Cloud Ready ThreatMatic™, Zero Trust Mesh Architecture, Edge2Edge Policy, DNS Lock, Port Scanner Protection, DNSSEC Enforcement, Disable DoH (DNS over HTTP), Flexible IPsec Traffic Steering with QSChannel, Metered Socket Actions (QoS), Compliance Signals, TrustZero Cloud Proxy, Advanced Analytics, 'ThreatMatic API', 'Mitre Attack Integrated', 'Cloud-Based Management Platform', 'API Support', Self Service Knowledge Base, Designated Account Manager, Technical Specialist, Phone Support, Chat/Email Support",
+				"Fully ID aware across all your users and workloads, Unlimited Policies, Run on Customer Provided Infrastructure, Customer Safe Downtime, Cybersecurity Mesh Architecture, Cloud Ready Threatmatic™, Zero Trust Mesh Architecture, Edge2Edge Policy, DNS Lock, Port Scanner Protection, DNSSEC Enforcement, Disable DoH (DNS over HTTP), Flexible IPsec Traffic Steering with QSchannel, Metered Socket Actions (QoS), Compliance Signals, TrustZero Cloud Proxy, Advanced Analytics, 'Threatmatic API', 'Mitre Attack Integrated', 'Cloud-Based Management Platform', 'API Support', Self Service Knowledge Base, Designated Account Manager, Technical Specialist, Phone Support, Chat/Email Support",
 			keywords:
 				'Access Application Bandwidth Blocking Browser Cloud Control DNS DNS-over-HTTP Executable Free Granular Inbound Instant Integration Intelligence Internet Limits Malware Monitoring Performance Precise Rapid Resource Rule-Based Threat Traffic Trust Tuning Vulnerability-Based Zero ',
-			name: 'ThreatMatic™ Pricing Structure',
+			name: 'Threatmatic™ Pricing Structure',
 			offers: [
 				{
 					'@type': 'offer',
 					businessFunction: 'Sell',
 					category: 'https://threatmatic.com/pricing',
-					disambiguatingDescription: 'ThreatMatic Standard Working Tier',
+					disambiguatingDescription: 'Threatmatic Standard Working Tier',
 					name: 'Standard Workstation',
 					price: '9.99',
 					priceCurrency: 'USD',
@@ -107,7 +107,7 @@
 					'@type': 'offer',
 					businessFunction: 'Sell',
 					category: 'https://threatmatic.com/pricing',
-					disambiguatingDescription: 'ThreatMatic Standard Workstation Tier',
+					disambiguatingDescription: 'Threatmatic Standard Workstation Tier',
 					name: 'Standard Workstation',
 					price: '49.99',
 					priceCurrency: 'USD',
@@ -120,7 +120,7 @@
 					'@type': 'offer',
 					businessFunction: 'Sell',
 					category: 'https://threatmatic.com/pricing',
-					disambiguatingDescription: 'ThreatMatic Premium Workstation Tier',
+					disambiguatingDescription: 'Threatmatic Premium Workstation Tier',
 					name: 'Premium User',
 					price: '12.99',
 					priceCurrency: 'USD',
@@ -133,7 +133,7 @@
 					'@type': 'offer',
 					businessFunction: 'Sell',
 					category: 'https://threatmatic.com/pricing',
-					disambiguatingDescription: 'ThreatMatic Premium Workstation Tier',
+					disambiguatingDescription: 'Threatmatic Premium Workstation Tier',
 					name: 'Premium User',
 					price: '59.99',
 					priceCurrency: 'USD',
@@ -167,9 +167,9 @@
 		<p
 			class="mb-8 font-light text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-xl xl:px-48"
 		>
-			ThreatMatic™ strikes the perfect balance between security and usability. Our modular and uninterruptible Zero Trust enforcement design, managed from an ultra-easy and modern UI ensures that
+			Threatmatic™ strikes the perfect balance between security and usability. Our modular and uninterruptible Zero Trust enforcement design, managed from an ultra-easy and modern UI ensures that
 			your most valuable assets are protected <span class="italic">instantaneously</span> with ZTNA - your advantage
-			when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. QSChannel™ Zones and Cloudiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
+			when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. QSchannel™ Zones and Cloudiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
 		</p>
 
 
@@ -183,10 +183,10 @@
 		<div id="dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700">
 		    <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton">
 		      <li>
-		        <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">ThreatMatic ZTE</a>
+		        <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Threatmatic ZTE</a>
 		      </li>
 		      <li>
-		        <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">QSChannel</a>
+		        <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">QSchannel</a>
 		      </li>
 		      <li>
 		        <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Policies in Action</a>
@@ -226,7 +226,7 @@
 				rel="external noopener noreferrer"
 				class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
 			>
-				QSChannel Demo
+				QSchannel Demo
 			</a>
 
 		</div>
@@ -280,7 +280,7 @@
 			Simplicity Comes Standard
 		</h2>
 		<p class="text-gray-500 dark:text-gray-400 sm:text-xl">
-			Whether you’re a 10 person small business or a large enterprise, ThreatMatic™ enables
+			Whether you’re a 10 person small business or a large enterprise, Threatmatic™ enables
 			uncompromising endpoint protection. Lightning fast policy changes with no learning curve and instantaneous ZTNA enforcement: all adminstered by a refreshingly simple and modern UI.
 		</p>
 		<div
@@ -376,7 +376,7 @@
 		],
 		Microsegmentation: [
 			{
-				name: 'QSChannel Zones',
+				name: 'QSchannel Zones',
 				description:
 					'Simple and direct policy action to build unlimited any-to-any nano- and micro-segments: ',
 				flowbiteIconName: 'clock-solid'
@@ -426,7 +426,7 @@
     <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
         <div class="flex flex-col justify-center">
             <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-3xl dark:text-white">Demystifying Zero Trust</h1>
-            <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">ThreatMatic™ strikes the perfect balance between security and usability.</p>
+            <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">Threatmatic™ strikes the perfect balance between security and usability.</p>
             <div class="flex flex-col space-y-4 sm:flex-row sm:space-y-0">
 								<!--
 								<a href="https://docs.google.com/forms/d/e/1FAIpQLScTMV_GyN480Jie4voJMwDDb6U6WUv14p0k8do3TPeeb8g9uQ/viewform?usp=sf_link" target="_blank"

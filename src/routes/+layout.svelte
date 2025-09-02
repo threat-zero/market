@@ -164,7 +164,7 @@
 			<hr class="my-6 border-gray-200 dark:border-gray-700 sm:mx-auto lg:my-8" />
 			<div class="sm:flex sm:items-center sm:justify-between">
 				<span class="text-sm text-gray-500 dark:text-gray-400 sm:text-center">
-					© 2025 ThreatMatic™, Co. All rights reserved.
+					© 2025 Threatmatic™, Co. All rights reserved.
 				</span>
 				<span class="text-sm font-extralight text-gray-500 dark:text-gray-400 sm:text-center">
 					<span class="font-semibold">Version:</span>

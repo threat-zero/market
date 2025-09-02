@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>ThreatMatic™ | Privacy</title>
+	<title>Threatmatic™ | Privacy</title>
 </svelte:head>
 
 <section class="bg-white dark:bg-gray-900">
@@ -26,7 +26,7 @@
 		<p class="font-medium text-justify text-gray-500 md:text-lg xl:text-sm dark:text-gray-400">
 				This Privacy Notice for Threatmatic Inc. ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 				Visit our website at threatmatic.com, or any website of ours that links to this Privacy Notice
-				Use Threatmatic Zero Trust Edge. ThreatMatic™ strikes the perfect balance between security and usability. Our modular and uninterruptible Zero Trust enforcement design, managed from an ultra-easy and modern UI ensures that your most valuable assets are protected instantaneously with ZTNA - your advantage when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. QSChannel™ Zones and Cloudiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
+				Use Threatmatic Zero Trust Edge. Threatmatic™ strikes the perfect balance between security and usability. Our modular and uninterruptible Zero Trust enforcement design, managed from an ultra-easy and modern UI ensures that your most valuable assets are protected instantaneously with ZTNA - your advantage when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. QSChannel™ Zones and Cloudiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
 				Engage with us in other related ways, including any sales, marketing, or events
 				Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at privacy@threatmatic.com.
 		</p>

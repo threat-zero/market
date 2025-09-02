@@ -6,14 +6,14 @@
 <MetaTags
 	{...{
 		title: 'Pricing',
-		titleTemplate: '%s | ThreatMatic™',
-		description: 'ThreatMatic™ Pricing Tiers',
+		titleTemplate: '%s | Threatmatic™',
+		description: 'Threatmatic™ Pricing Tiers',
 		canonical: 'https://threatmatic.com/pricing',
 		openGraph: {
 			url: 'https://www.threatmatic.com/pricing',
 			title: 'Home',
-			description: 'ThreatMatic™ Pricing Tiers',
-			siteName: 'ThreatMatic™'
+			description: 'Threatmatic™ Pricing Tiers',
+			siteName: 'Threatmatic™'
 		},
 		twitter: {
 			handle: '@threatmatic',
@@ -87,7 +87,7 @@
 					{
 						feature: 'Fully ID aware across all your users and workloads',
 						description:
-							'ThreatMatic™ is firmly rooted in IAM infrastructure with air-tight policy enforcement across your entire fabric, always on.',
+							'Threatmatic™ is firmly rooted in IAM infrastructure with air-tight policy enforcement across your entire fabric, always on.',
 						standard: true,
 						premium: true
 					},
@@ -112,7 +112,7 @@
 						premium: true
 					},
 					{
-						feature: 'Cloud Ready ThreatMatic™',
+						feature: 'Cloud Ready Threatmatic™',
 						description: 'Policy control from any public or private cloud',
 						standard: true,
 						premium: true
@@ -202,7 +202,7 @@
 						premium: true
 					},
 					{
-						feature: 'ThreatMatic API',
+						feature: 'Threatmatic API',
 						description: 'Integrate your SoC or SIEM operations via APIs',
 						standard: false,
 						premium: true
@@ -250,7 +250,7 @@
 					},
 					{
 						feature: 'Technical Specialist',
-						description: 'Access to a ThreatMatic Specialist',
+						description: 'Access to a Threatmatic Specialist',
 						standard: false,
 						premium: true
 					},

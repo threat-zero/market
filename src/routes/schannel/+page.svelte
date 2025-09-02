@@ -7,12 +7,12 @@
 	{...{
 		title: 'Product',
 		titleTemplate: '%s | sChannel™',
-		description: 'ThreatMatic™ sChannel™ Feature',
+		description: 'Threatmatic™ sChannel™ Feature',
 		canonical: 'https://threatmatic.com/schannel',
 		openGraph: {
 			url: 'https://www.threatmatic.com/schannel',
 			title: 'Home',
-			description: 'ThreatMatic™ sChannel™ Product',
+			description: 'Threatmatic™ sChannel™ Product',
 			images: [
 				{
 					url: 'https://threatmatic.com/_app/immutable/assets/product.158ef51e.png',
@@ -21,7 +21,7 @@
 					alt: 'Product Graphic'
 				}
 			],
-			siteName: 'ThreatMatic™'
+			siteName: 'Threatmatic™'
 		},
 		twitter: {
 			handle: '@threatmatic',
@@ -36,20 +36,20 @@
 		<div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-2xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-					Next-gen VPN alternative: ThreatMatic QSchannel™ is a lightning fast, quantum-safe
+					Next-gen VPN alternative: Threatmatic QSchannel™ is a lightning fast, quantum-safe
 					secure channel to your private and public clouds and data centers.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
 					QSchannel is a <span class="italic">Quantum Safe</span>
-					encrypted private mesh network with the latest ciphers, infused with ThreatMatic ZTNA
+					encrypted private mesh network with the latest ciphers, infused with Threatmatic ZTNA
 					policies. Protect the flows and conversations you choose, unwind the complexity
 					and supercharge the sluggish performance of traditional VPNs, unleash your workforce and free
 					them to connect to your data: uncompromising confidentiality and blazing performance at a
 					fraction of the cost.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
-					threatmatic metrics gathering and bandwidth management (QoS) capabilities set
-					us apart from the competition, along with multi-factor authentication and short key-lifetimes
+					Threatmatic AI with deep-learning metrics and bandwidth management (QoS) capabilities
+					distinguishes us from others, along with multi-factor authentication and short key-lifetimes
 					for maximum peace of mind. It’s engineered for the modern world with auto-scaling and
 					high-availability fused into our design.
 				</p>
@@ -57,7 +57,7 @@
 					QSchannel enables you to create unlimited micro (or nano) segments, and route traffic between your branches or cloud, and to
 					security pipelines and secure web gateways (SWG) to ensure deep inspection and address obfuscation, in concert
 					with IAM, DLP, XDR and logging services. Threatmatic microsegmentation/security policies can be applied in
-					concert with QSChannel "zones" to extend Zero Trust Edge (ZTE) to endpoints anywhere: corp HQ, branch, home and public cloud.
+					concert with QSchannel "zones" to extend Zero Trust Edge (ZTE) to endpoints anywhere: corp HQ, branch, home and public cloud.
 				</p>
 			</div>
 			<img
