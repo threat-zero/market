@@ -63,7 +63,7 @@
 					<NavLi href="/">Home</NavLi>
 			<NavLi href="/intro">Intro</NavLi>
 			<NavLi href="/product">Product</NavLi>
-			<NavLi href="/schannel">QSChannel™</NavLi>
+			<NavLi href="/schannel">QSchannel™ Un-VPN</NavLi>
 			<NavLi href="/pricing">Pricing</NavLi>
 			<!-- <NavLi href="/team">Team</NavLi> -->
 			<NavLi
