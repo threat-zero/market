@@ -159,20 +159,20 @@
 	<!--Hero with App Screenshot and CTAs-->
 	<div class="mx-auto max-w-screen-xl px-4 pt-8 text-center lg:px-12 lg:pt-16">
 		<h1
-			class="mb-4 text-4xl font-light leading-none tracking-tight text-gray-900 dark:text-white md:text-5xl lg:text-6xl"
+			class="mb-4 text-4xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white md:text-5xl lg:text-6xl"
 		>
 			<span class="text-primary-500"> Zero Trust </span>
 			Demystified
 		</h1>
 		<p
-			class="mb-8 font-normal text-gray-500 dark:text-gray-400 sm:px-16 md:text-xl lg:text-2xl xl:px-48"
+			class="mb-8 font-normal text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-2xl xl:px-48"
 		>
 			<!--
 			Threatmatic™ strikes the perfect balance between security and usability. Our modular and uninterruptible Zero Trust enforcement design, managed from an ultra-easy and modern UI ensures that
 			your most valuable assets are protected <span class="italic">instantaneously</span> with ZTNA - your advantage
 			when responding to ransomware, malware, phishing attacks, DNS poisoning and so much more. QSchannel™ Zones and Cloudiffusion™ enable you to deploy microsegmentation and cloud integration with unparalleled ease, security and performance.
 			-->
-			ThreatMatic™ empowers your organization with real-time, Zero Trust protection that scales with your enterprise.
+			Threatmatic™ empowers your organization with real-time, Zero Trust protection that scales with your enterprise.
 			It reduces risk exposure while enabling innovation — so your teams can move fast without compromising security.
 			With seamless integration and enterprise-grade reliability, it’s the strategic choice for long-term resilience.
 		</p>
