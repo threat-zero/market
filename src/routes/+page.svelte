@@ -286,7 +286,7 @@
 		</h2>
 		<p class="text-gray-500 dark:text-gray-400 sm:text-xl">
 		Our intuitive UI and flexible architecture make deployment fast and frictionless,
-		while delivering powerful protection without slowing down systems, at scale. 
+		while delivering powerful protection without slowing down systems, at scale.
 		It’s the security solution your team can deploy quickly — and rely on daily.
 		Lightning fast policy changes for instantaneous ZTNA enforcement.
 		</p>
@@ -326,18 +326,18 @@
 	featureData={{
 		'Zero Trust': [
 			{
-				name: 'Application Control',
+				name: 'User and App Whitelisting',
 				description:
-					'Audit or block applications directly on endpoints by any user, group, device or device-pool groupings.',
+					'Audit or block applications and/or users directly on endpoints by any user, group, device or device-pool.',
 				flowbiteIconName: 'clapperboard-play-solid'
 			},
 			{
 				name: 'Executable Control',
-				description: 'Audit or block any executable to IPv4 or IPv6 addresses at endpoints.',
+				description: 'Allow or block any application to IPv4 or IPv6 addresses (or URLs, ports) at endpoints, ingress or egress.',
 				flowbiteIconName: 'terminal-solid'
 			},
 			{
-				name: 'Instant Rule-Based Traffic Control',
+				name: 'Instantaneous Enforcement',
 				description:
 					'Instantly block in-flight traffic by deploying rules to users, groups, devices, and device-pools.',
 				flowbiteIconName: 'scale-balance-solid'
@@ -350,13 +350,13 @@
 				flowbiteIconName: 'hourglass-solid'
 			},
 			{
-				name: 'Internet & Cloud Resource Bandwidth Limits',
+				name: 'Group based Bandwidth Limits',
 				description:
-					'Fine-tune bandwidth throttle rates for executables accessing your cloud-resources or the internet.',
+					'Fine-tune bandwidth allocation to users or groups, or network destinations.',
 				flowbiteIconName: 'cloud-arrow-up-solid'
 			},
 			{
-				name: ' Performance Tuning ',
+				name: ' Performance tuning for Workloads',
 				description:
 					'Control bandwidth allocation to specific workloads bidirectionally by user, group, device, and pool for fine-grained performance tuning at the host level.',
 				flowbiteIconName: 'cog-outline'
@@ -420,9 +420,9 @@
 				flowbiteIconName: 'bug-solid'
 			},
 			{
-				name: 'Granular DNS Traffic Control',
+				name: 'DNS Trust Enforcement',
 				description:
-					'Control DNS traffic to specific servers, and resolution to specific domains',
+					'Control which name-servers are allowed to respond to specific users, groups or networks including DNS-over-HTTP and DNS-over-TLS.',
 				flowbiteIconName: 'filter-solid'
 			}
 		]
