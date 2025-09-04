@@ -162,7 +162,7 @@
 			class="mb-4 text-4xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white md:text-5xl lg:text-6xl"
 		>
 			<span class="text-primary-500"> Zero Trust </span>
-			Demystified
+			<span class="italic">Demystified</span>
 		</h1>
 		<p
 			class="mb-8 font-normal text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-2xl xl:px-48"
