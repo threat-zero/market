@@ -282,11 +282,13 @@
 <section class="bg-white dark:bg-gray-900">
 	<div class="mx-auto max-w-screen-xl px-4 py-8 text-center sm:py-16 lg:px-6">
 		<h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
-			Simplicity Comes Standard
+			Speed, Simplicity, and Scale
 		</h2>
 		<p class="text-gray-500 dark:text-gray-400 sm:text-xl">
-			Whether you’re a 10 person small business or a large enterprise, Threatmatic™ enables
-			uncompromising endpoint protection. Lightning fast policy changes with no learning curve and instantaneous ZTNA enforcement: all adminstered by a refreshingly simple and modern UI.
+		Our intuitive UI and flexible architecture make deployment fast and frictionless,
+		while delivering powerful protection without slowing down systems, at scale. 
+		It’s the security solution your team can deploy quickly — and rely on daily.
+		Lightning fast policy changes for instantaneous ZTNA enforcement.
 		</p>
 		<div
 			class="mt-8 space-y-8 md:grid md:grid-cols-2 md:gap-12 md:space-y-0 lg:mt-12 lg:grid-cols-3"
