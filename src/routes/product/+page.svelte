@@ -36,7 +36,7 @@
 		<div class="gap-8 items-top lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-3xl tracking-tight font-bold text-gray-900 dark:text-white">
-					Threatmatic™ Zero Trust Edge deploys in minutes and enforces ZTNA in milliseconds.
+					Threatmatic™ Zero Trust Edge deploys in minutes and enforces ZTNA in <span class="italic">milliseconds</span>.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
 					Cybersecurity today is focussed on protecting

@@ -36,7 +36,7 @@
 		<div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-3xl tracking-tight font-bold text-gray-900 dark:text-white">
-					Next-gen VPN alternative: Threatmatic QSchannel™ is a lightning fast, quantum-safe
+					Next-gen VPN alternative: Threatmatic QSchannel™ is a lightning quick, <span class="italic">quantum-safe</span>
 					secure channel to your private and public clouds and data centers.
 				</h2>
 				<p class="mb-8 font-light lg:text-xl">
