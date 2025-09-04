@@ -62,8 +62,8 @@
 		<NavUl {hidden} {activeUrl} class="order-1 mr-4">
 					<NavLi href="/">Home</NavLi>
 			<NavLi href="/intro">Intro</NavLi>
-			<NavLi href="/product">Product</NavLi>
-			<NavLi href="/schannel">QSchannel™ Un-VPN</NavLi>
+			<NavLi href="/product">Zero Trust Edge</NavLi>
+			<NavLi href="/schannel">Un-VPN</NavLi>
 			<NavLi href="/pricing">Pricing</NavLi>
 			<!-- <NavLi href="/team">Team</NavLi> -->
 			<NavLi
