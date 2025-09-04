@@ -165,7 +165,7 @@
 			<span class="italic">Demystified</span>
 		</h1>
 		<p
-			class="mb-8 font-normal text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-2xl xl:px-48"
+			class="mb-8 font-light text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-2xl xl:px-48"
 		>
 			<!--
 			Threatmatic™ strikes the perfect balance between security and usability. Our modular and uninterruptible Zero Trust enforcement design, managed from an ultra-easy and modern UI ensures that
