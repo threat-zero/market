@@ -462,9 +462,11 @@
 
             </div>
         </div>
-        <div>
+        <!--
+				<div>
             <iframe class="mx-auto w-full lg:max-w-xl h-64 rounded-lg sm:h-96 shadow-xl" src="https://drive.google.com/file/d/1blEhLZeQBNmnO5gDXeXNAXx5u1Nogorl/preview" allow="autoplay"></iframe>
         </div>
+				-->
     </div>
 </section>
 
