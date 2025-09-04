@@ -157,7 +157,7 @@
 
 <section class="bg-white dark:bg-gray-900">
 	<!--Hero with App Screenshot and CTAs-->
-	<div class="mx-auto max-w-screen-xl px-4 pt-8 text-justify lg:px-12 lg:pt-16">
+	<div class="mx-auto max-w-screen-xl px-4 pt-8 text-center lg:px-12 lg:pt-16">
 		<h1
 			class="mb-4 text-4xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white md:text-5xl lg:text-6xl"
 		>
