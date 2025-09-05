@@ -59,8 +59,8 @@
 			<NavHamburger on:click={toggle} />
 		</div>
 
-		<NavUl {hidden} {activeUrl} class="lg:text-lg order-1 mr-4">
-					<NavLi href="/">Home</NavLi>
+		<NavUl {hidden} {activeUrl} class="order-1 mr-4">
+					<NavLi class="lg:text-lg" href="/">Home</NavLi>
 			<NavLi href="/intro">Idea</NavLi>
 			<NavLi href="/product">Zero Trust Edge</NavLi>
 			<NavLi href="/schannel">Un-VPN</NavLi>
