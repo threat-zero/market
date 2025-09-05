@@ -54,12 +54,12 @@
 		/>
 
 		</NavBrand>
-		<div class="text-lg flex items-center lg:order-2">
+		<div class="flex items-center lg:order-2">
 			<DarkMode class="mr-4" />
 			<NavHamburger on:click={toggle} />
 		</div>
 
-		<NavUl {hidden} {activeUrl} class="order-1 mr-4">
+		<NavUl {hidden} {activeUrl} class="lg:text-lg order-1 mr-4">
 					<NavLi href="/">Home</NavLi>
 			<NavLi href="/intro">Idea</NavLi>
 			<NavLi href="/product">Zero Trust Edge</NavLi>
