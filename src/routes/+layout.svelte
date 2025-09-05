@@ -3,7 +3,7 @@
 	import { page } from '$app/stores';
 	import { DarkMode, NavBrand, NavHamburger, NavLi, NavUl, Navbar } from 'flowbite-svelte';
 
-	import TMbrandDark from '$lib/images/product/ThreatMatic_Horizontal_TechTeal.png';
+	import TMbrandDark from '$lib/images/product/tm-brand-dark.png';
 	import TMbrandLight from '$lib/images/product/tm-brand-light.png';
 
 	import { Icon } from 'flowbite-svelte-icons';
@@ -43,12 +43,12 @@
 		-->
 
 		<img
-			class="h-6 rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
+			class="h-8 rounded-sm border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 			src={TMbrandDark}
 			alt="tm brand"
 		/>
 		<img
-			class="h-6 hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
+			class="h-8 hidden rounded-sm border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
 			src={TMbrandLight}
 			alt="tm brand dark"
 		/>
