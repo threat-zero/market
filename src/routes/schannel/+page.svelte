@@ -47,6 +47,21 @@
 					them to connect to your data: uncompromising confidentiality and blazing performance at a
 					fraction of the cost.
 				</p>
+
+				<div
+					class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
+				>
+					<a
+						href=""
+						target="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EfFViXIkPZtNj0LiDNI-1UsBkw1A76LF8nLGRfcXNhy5Ug?e=eiC2SD"
+						rel="external noopener noreferrer"
+						class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+					>
+						QSchannel Demo
+					</a>
+
+				</div>
+
 				<p class="mb-8 font-light lg:text-xl">
 					Threatmatic AI with deep-learning metrics and bandwidth management (QoS) capabilities
 					distinguishes us from others, along with multi-factor authentication and short key-lifetimes
