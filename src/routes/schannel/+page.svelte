@@ -51,9 +51,15 @@
 				<div
 					class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
 				>
-					<div class="aspect-w-16 aspect-h-9">
-					<iframe src="https://youtu.be/tlfQEfB3FOs" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-					</div>
+				
+				<div class="aspect-w-16 aspect-h-9">
+					<iframe
+						src="https://youtu.be/tlfQEfB3FOs"
+						frameborder="0"
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						allowfullscreen
+						class="w-full h-full"
+					></iframe>
 				</div>
 
 				<p class="mb-8 font-light lg:text-xl">
