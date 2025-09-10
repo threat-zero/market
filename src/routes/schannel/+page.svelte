@@ -52,13 +52,21 @@
 					class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
 				>
 					<a
-						href=""
-						target="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EfFViXIkPZtNj0LiDNI-1UsBkw1A76LF8nLGRfcXNhy5Ug?e=eiC2SD"
+						href="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EfFViXIkPZtNj0LiDNI-1UsBkw1A76LF8nLGRfcXNhy5Ug?e=eiC2SD"
+						target="_blank"
 						rel="external noopener noreferrer"
 						class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
 					>
 						QSchannel Demo
 					</a>
+
+					<video class="h-full w-full rounded-lg" controls>
+      			<source
+        		src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXDREMiF81xAoPJr6yfhUQABofa3C90NiRM_2xVCMUy0LQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uGUSAt"
+        		type="video/mp4"
+      			/>
+      		Your browser does not support the video tag.
+    			</video>
 
 				</div>
 
