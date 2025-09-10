@@ -61,7 +61,7 @@
 					</a>
 
 					<div class="aspect-w-16 aspect-h-9">
-  					<iframe src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXDREMiF81xAoPJr6yfhUQABEzBZfp9nI1ok6WYLIaRBzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NwXhfB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  					<iframe src="https://netorgft1065679-my.sharepoint.com/personal/mreddy_securiosity_net/_layouts/15/embed.aspx?UniqueId=c810d170-f385-405c-a0f2-6beb27e15100&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="sChannel demo.mp4"></iframe>
 					</div>
 
 				</div>
