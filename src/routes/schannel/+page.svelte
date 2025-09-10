@@ -51,13 +51,14 @@
 				<div
 					class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
 				>
-				<a	
+
 					<div class="aspect-w-16 aspect-h-9">
   					<iframe src="https://netorgft1065679-my.sharepoint.com/personal/mreddy_securiosity_net/_layouts/15/embed.aspx?UniqueId=c810d170-f385-405c-a0f2-6beb27e15100&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="sChannel demo.mp4"></iframe>
 					</div>
-					QSChannel demo
-				</a>
-				</div>
+					<a
+						QSChannel demo
+					</a>
+					</div>
 
 				<p class="mb-8 font-light lg:text-xl">
 					Threatmatic AI with deep-learning metrics and bandwidth management (QoS) capabilities
