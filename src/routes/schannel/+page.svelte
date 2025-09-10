@@ -47,21 +47,7 @@
 					them to connect to your data: uncompromising confidentiality and blazing performance at a
 					fraction of the cost.
 				</p>
-
-				<div
-					class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
-				>
 				
-				<div class="aspect-w-16 aspect-h-9">
-					<iframe
-						src="https://youtu.be/tlfQEfB3FOs"
-						frameborder="0"
-						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-						allowfullscreen
-						class="w-full h-full"
-					></iframe>
-				</div>
-
 				<p class="mb-8 font-light lg:text-xl">
 					Threatmatic AI with deep-learning metrics and bandwidth management (QoS) capabilities
 					distinguishes us from others, along with multi-factor authentication and short key-lifetimes
