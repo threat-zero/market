@@ -60,13 +60,9 @@
 						QSchannel Demo
 					</a>
 
-					<video class="h-full w-full rounded-lg" controls>
-      			<source
-        		src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXDREMiF81xAoPJr6yfhUQABofa3C90NiRM_2xVCMUy0LQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uGUSAt"
-        		type="video/mp4"
-      			/>
-      		Your browser does not support the video tag.
-    			</video>
+					<div class="aspect-w-16 aspect-h-9">
+  					<iframe src="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXDREMiF81xAoPJr6yfhUQABEzBZfp9nI1ok6WYLIaRBzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NwXhfB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
 
 				</div>
 
