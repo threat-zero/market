@@ -50,7 +50,7 @@
 
 				<div class="aspect-video">
   				<iframe
-    				src="https://youtu.be/tlfQEfB3FOs" 
+    				src="https://www.youtube.com/embed/tlfQEfB3FOs?si=IFRRT6iCMB57uKoT" 
     				class="w-full h-full"
     				allowfullscreen>
   				</iframe>
