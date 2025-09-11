@@ -50,7 +50,7 @@
 
 				<div class="aspect-video">
   				<iframe
-    				src="https://netorgft1065679-my.sharepoint.com/personal/mreddy_securiosity_net/_layouts/15/embed.aspx?UniqueId=c810d170-f385-405c-a0f2-6beb27e15100&" 
+    				src="https://www.youtube.com/embed/tlfQEfB3FOs?si=IFRRT6iCMB57uKoT" 
     				class="w-full h-full"
     				allowfullscreen>
   				</iframe>
