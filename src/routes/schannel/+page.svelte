@@ -48,13 +48,7 @@
 					fraction of the cost.
 				</p>
 
-				<video class="h-full w-full rounded-lg" controls>
-      		<source
-        		src="https://youtu.be/tlfQEfB3FOs"
-        		type="video/mp4"
-      		/>
-      		Your browser does not support the video tag.
-    		</video>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/tlfQEfB3FOs?si=IFRRT6iCMB57uKoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 				<p class="mb-8 font-light lg:text-xl">
 					Threatmatic AI with deep-learning metrics and bandwidth management (QoS) capabilities
