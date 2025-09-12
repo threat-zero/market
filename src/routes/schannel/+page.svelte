@@ -61,11 +61,13 @@
 					-->
 
 				<p class="mb-8 font-light lg:text-xl">
-					Threatmatic AI with deep-learning metrics and bandwidth management (QoS) capabilities
-					distinguishes us from others, along with multi-factor authentication and short key-lifetimes
-					for maximum peace of mind. It’s engineered for the modern world with auto-scaling and
-					high-availability fused into our design.
+					QSchannel is a quantum-safe asymmetric secure access mechanism designed to resist future
+					Post-Quantum Cryptography (PQC) threats. It ensures iron-clad confidentiality and integrity
+					of secure communications through advanced cryptographic primitives, integrated with Threatmatic Zero Trust framework. 
+					QSchannel supports dynamic key exchange, identity validation, and encrypted session management, optimized
+					for scalability and low latency.
 				</p>
+
 				<p class="mb-8 font-light lg:text-xl">
 					QSchannel enables you to create unlimited micro (or nano) segments, and route traffic between your branches or cloud, and to
 					security pipelines and secure web gateways (SWG) to ensure deep inspection and address obfuscation, in concert
