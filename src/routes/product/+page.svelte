@@ -1,6 +1,5 @@
 <script lang="ts">
 	import productNew from '$lib/images/product/tm-circle-new.png';
-	import threatmaticZTE from '$lib/videos/ThreatmaticZTE.webm';
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
@@ -48,17 +47,8 @@
 					These disruptive events are often crippling and expensive to mitigate.
 				</p>
 
-				<!--
 				<div class="aspect-video rounded-lg overflow-hidden">
   				<iframe src="{https://www.youtube.com/embed/_WkwgAx5094?si=nftk3rIkAj8TSmh0}"
-					class="w-full h-full"
-					allowfullscreen>
-					</iframe>
-				</div>
-				-->
-
-				<div class="aspect-video rounded-lg overflow-hidden">
-  				<iframe src="{threatmaticZTE}"
 					class="w-full h-full"
 					allowfullscreen>
 					</iframe>
