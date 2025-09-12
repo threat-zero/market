@@ -49,7 +49,8 @@
 
 				<div class="aspect-video">
   				<iframe src="https://www.youtube.com/embed/_WkwgAx5094?si=nftk3rIkAj8TSmh0"
-					 frameborder="0" scrolling="no" allowfullscreen title="Threatmatic ZTE.webm">
+					class="w-full h-full"
+					allowfullscreen>
 					</iframe>
 				</div>
 
