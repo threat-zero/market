@@ -46,6 +46,13 @@
 					breaches often accompanied by loss of data, trust and productivity.
 					These disruptive events are often crippling and expensive to mitigate.
 				</p>
+
+				<div class="aspect-video">
+  				<iframe src="https://netorgft1065679-my.sharepoint.com/personal/mreddy_securiosity_net/_layouts/15/embed.aspx?UniqueId=a9f37c0a-1ee4-4bec-8d4d-5d4ad786d24d&embed=%7B%22ust%22%3Afalse%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640"
+					height="360" frameborder="0" scrolling="no" allowfullscreen title="Threatmatic ZTE.webm">
+					</iframe>
+				</div>
+
 				<p class="mb-8 font-light lg:text-xl">
 					We have taken a novel approach to building a Zero-Trust
 					solution that is founded on the principles of <span class="italic">simplicity</span>
