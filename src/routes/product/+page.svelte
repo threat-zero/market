@@ -47,7 +47,7 @@
 					These disruptive events are often crippling and expensive to mitigate.
 				</p>
 
-				<div class="aspect-video rounded-lg">
+				<div class="aspect-video rounded-lg overflow-hidden">
   				<iframe src="https://www.youtube.com/embed/_WkwgAx5094?si=nftk3rIkAj8TSmh0"
 					class="w-full h-full"
 					allowfullscreen>

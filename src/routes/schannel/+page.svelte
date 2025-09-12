@@ -48,7 +48,7 @@
 					fraction of the cost.
 				</p>
 
-				<div class="aspect-video rounded-lg">
+				<div class="aspect-video rounded-lg overflow-hidden">
   				<iframe
     				src="https://www.youtube.com/embed/tlfQEfB3FOs?si=IFRRT6iCMB57uKoT"
     				class="w-full h-full"
