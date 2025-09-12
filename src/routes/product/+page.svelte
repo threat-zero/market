@@ -1,6 +1,6 @@
 <script lang="ts">
 	import productNew from '$lib/images/product/tm-circle-new.png';
-	import threatmatic-zte from '$lib/videos/ThreatmaticZTE.webm';
+	import threatmaticZTE from '$lib/videos/ThreatmaticZTE.webm';
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
@@ -58,7 +58,7 @@
 				-->
 
 				<div class="aspect-video rounded-lg overflow-hidden">
-  				<iframe src="{threatmatic-zte}"
+  				<iframe src="{threatmaticZTE}"
 					class="w-full h-full"
 					allowfullscreen>
 					</iframe>
