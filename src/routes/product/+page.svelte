@@ -1,6 +1,6 @@
 <script lang="ts">
 	import productNew from '$lib/images/product/tm-circle-new.png';
-	import threatmatic-zte from "$lib/videos/Threatmatic-ZTE.webm";
+	import threatmatic-zte from '$lib/videos/Threatmatic-ZTE.webm';
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
