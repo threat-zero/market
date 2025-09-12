@@ -48,8 +48,8 @@
 				</p>
 
 				<div class="aspect-video">
-  				<iframe src="https://netorgft1065679-my.sharepoint.com/personal/mreddy_securiosity_net/_layouts/15/embed.aspx?UniqueId=a9f37c0a-1ee4-4bec-8d4d-5d4ad786d24d&embed=%7B%22ust%22%3Afalse%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640"
-					height="360" frameborder="0" scrolling="no" allowfullscreen title="Threatmatic ZTE.webm">
+  				<iframe src="https://www.youtube.com/embed/_WkwgAx5094?si=nftk3rIkAj8TSmh0"
+					 frameborder="0" scrolling="no" allowfullscreen title="Threatmatic ZTE.webm">
 					</iframe>
 				</div>
 
