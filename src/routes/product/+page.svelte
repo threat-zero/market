@@ -1,5 +1,6 @@
 <script lang="ts">
 	import productNew from '$lib/images/product/tm-circle-new.png';
+	import threatmatic-zte from "$lib/videos/Threatmatic-ZTE.webm";
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
@@ -49,7 +50,7 @@
 
 				<!--
 				<div class="aspect-video rounded-lg overflow-hidden">
-  				<iframe src="https://www.youtube.com/embed/_WkwgAx5094?si=nftk3rIkAj8TSmh0"
+  				<iframe src="{https://www.youtube.com/embed/_WkwgAx5094?si=nftk3rIkAj8TSmh0}"
 					class="w-full h-full"
 					allowfullscreen>
 					</iframe>
@@ -57,7 +58,7 @@
 				-->
 
 				<div class="aspect-video rounded-lg overflow-hidden">
-  				<iframe src="$lib/videos/sChannel-demo.mp4"
+  				<iframe src="{threatmatic-zte}"
 					class="w-full h-full"
 					allowfullscreen>
 					</iframe>
