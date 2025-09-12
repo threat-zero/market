@@ -39,16 +39,16 @@
 					Retire your VPN: QSchannel™ delivers <span class="italic">lightning quick, quantum-safe</span>
 					secure connectivity
 				</h2>
+
 				<p class="mb-8 font-light lg:text-xl">
-					QSchannel is a <span class="italic">Quantum Safe</span>
-					encrypted private mesh network with the latest ciphers, infused with Threatmatic ZTNA
-					policies. Protect the flows and conversations you choose, unwind the complexity
-					and supercharge the sluggish performance of traditional VPNs, unleash your workforce and free
-					them to connect to your data: uncompromising confidentiality and blazing performance at a
-					fraction of the cost.
+					QSchannel is a quantum-safe asymmetric secure access mechanism designed to resist future
+					Post-Quantum Cryptography (PQC) threats. It ensures iron-clad confidentiality and integrity
+					of secure communications through advanced cryptographic primitives, integrated with Threatmatic Zero Trust framework.
+					QSchannel supports dynamic key exchange, identity validation, and encrypted session management, optimized
+					for scalability and low latency.
 				</p>
 
-				<div class="aspect-video rounded-lg overflow-hidden">
+				<div class="aspect-video rounded-lg overflow-hidden mb-4">
   				<iframe
     				src="https://www.youtube.com/embed/tlfQEfB3FOs?si=IFRRT6iCMB57uKoT"
     				class="w-full h-full"
@@ -59,14 +59,6 @@
 					<!--
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/tlfQEfB3FOs?si=IFRRT6iCMB57uKoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 					-->
-
-				<p class="mb-8 font-light lg:text-xl">
-					QSchannel is a quantum-safe asymmetric secure access mechanism designed to resist future
-					Post-Quantum Cryptography (PQC) threats. It ensures iron-clad confidentiality and integrity
-					of secure communications through advanced cryptographic primitives, integrated with Threatmatic Zero Trust framework. 
-					QSchannel supports dynamic key exchange, identity validation, and encrypted session management, optimized
-					for scalability and low latency.
-				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
 					QSchannel enables you to create unlimited micro (or nano) segments, and route traffic between your branches or cloud, and to
