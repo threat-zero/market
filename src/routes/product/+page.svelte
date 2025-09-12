@@ -55,6 +55,7 @@
 				</div>
 
 				<p class="mb-8 font-light lg:text-xl">
+				
 					We have taken a novel approach to building a Zero-Trust
 					solution that is founded on the principles of <span class="italic">simplicity</span>
 					of deployment and <span class="italic">ultra low-latency</span> policy updates.
