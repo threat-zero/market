@@ -61,7 +61,6 @@
 					-->
 
 				<p class="mb-8 font-light lg:text-xl">
-				
 					Threatmatic AI with deep-learning metrics and bandwidth management (QoS) capabilities
 					distinguishes us from others, along with multi-factor authentication and short key-lifetimes
 					for maximum peace of mind. It’s engineered for the modern world with auto-scaling and
