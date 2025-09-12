@@ -47,15 +47,24 @@
 					These disruptive events are often crippling and expensive to mitigate.
 				</p>
 
+				<!--
 				<div class="aspect-video rounded-lg overflow-hidden">
   				<iframe src="https://www.youtube.com/embed/_WkwgAx5094?si=nftk3rIkAj8TSmh0"
 					class="w-full h-full"
 					allowfullscreen>
 					</iframe>
 				</div>
+				-->
+
+				<div class="aspect-video rounded-lg overflow-hidden">
+  				<iframe src="$lib/videos/sChannel-demo.mp4"
+					class="w-full h-full"
+					allowfullscreen>
+					</iframe>
+				</div>
 
 				<p class="mb-8 font-light lg:text-xl">
-				
+
 					We have taken a novel approach to building a Zero-Trust
 					solution that is founded on the principles of <span class="italic">simplicity</span>
 					of deployment and <span class="italic">ultra low-latency</span> policy updates.
