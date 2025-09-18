@@ -142,7 +142,7 @@
 								<a href="/privacy" class="hover:underline">Privacy</a>
 							</li>
 							<li class="mb-4">
-								<a href="/FAQs" class="hover:underline">faq</a>
+								<a href="/faq" class="hover:underline">FAQs</a>
 							</li>
 							<li>
 								<a href="/terms" class="hover:underline">Terms of Use</a>
