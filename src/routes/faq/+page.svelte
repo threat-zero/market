@@ -33,7 +33,7 @@
 		</div>
 
 		<Accordion>
-  		<AccordionItem
+  		<AccordionItem>
     	{#snippet header()}Where is the zero-trust boundary  enforced?{/snippet}
     		<p class="mb-2 text-gray-500 dark:text-gray-400">Directly on the endpoints, every  endpoint that is protected by Threatmatic.</p>
   		</AccordionItem>
@@ -93,7 +93,7 @@
 			<AccordionItem>
 				{#snippet header()}How fast can I test Threatmatic in my own environment?{/snippet}
 				<p class="mb-2 text-gray-500 dark:text-gray-400">You can be up and running in a secure POC with minutes!</p>
-								
+
 			</AccordionItem>
 
 		</Accordion>
