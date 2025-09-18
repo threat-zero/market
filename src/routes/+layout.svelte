@@ -73,8 +73,9 @@
 			>
 				Blog
 			</NavLi>
+			<!--
 			<NavLi href="/faq">FAQs</NavLi>
-
+			-->
 		</NavUl>
 	</Navbar>
 
