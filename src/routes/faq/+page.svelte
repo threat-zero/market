@@ -1,7 +1,6 @@
 <script lang="ts">
-	import { ComparisonTable } from '$lib/blocks';
-	import { MetaTags } from 'svelte-meta-tags';
 	import { AccordionItem, Accordion } from "flowbite-svelte";
+	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
 <MetaTags
