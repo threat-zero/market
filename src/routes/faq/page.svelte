@@ -32,6 +32,7 @@
 			</h2>
 		</div>
 
+		<!--
 		<Accordion>
 			<AccordionItem>
 				{#snippet header()}Where is the zero-trust boundary  enforced?{/snippet}
@@ -93,6 +94,7 @@
 				<p class="mb-2 text-gray-500 dark:text-gray-400">You can be up and running in a secure POC with minutes!</p>
 			</AccordionItem>
 		</Accordion>
+		-->
 
 
  	</div>
