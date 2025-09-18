@@ -3,6 +3,13 @@
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
+{
+  "plugins": [
+    "prettier-plugin-tailwindcss",
+    "prettier-plugin-svelte"
+  ],
+}
+
 <MetaTags
 	{...{
 		title: 'Pricing',
