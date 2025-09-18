@@ -5,7 +5,7 @@
 
 <MetaTags
 	{...{
-		title: 'Product',
+		title: 'ZTNA',
 		titleTemplate: '%s | Product™',
 		description: 'Threatmatic™ Product',
 		canonical: 'https://threatmatic.com/product',
