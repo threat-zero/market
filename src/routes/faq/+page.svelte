@@ -1,5 +1,4 @@
 <script lang="ts">
-<!--	import { AccordionItem, Accordion } from "flowbite-svelte"; -->
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
