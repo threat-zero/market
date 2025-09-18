@@ -73,7 +73,7 @@
 			>
 				Blog
 			</NavLi>
-			<NavLi href="/faq">/faq</NavLi>
+			<NavLi href="/faq">FAQs</NavLi>
 
 		</NavUl>
 	</Navbar>
