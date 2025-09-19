@@ -45,8 +45,8 @@
 					  <input type="radio" name="my-accordion-1" />
 					  <div class="collapse-title font-semibold">How do I update my profile information?</div>
 					  <div class="collapse-content text-sm">Go to "My Account" settings and select "Edit Profile" to make changes.</div>
-				</div>
-	</p>
+				</p>
+			</div>
 
  	</div>
 
