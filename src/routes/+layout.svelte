@@ -141,13 +141,11 @@
 							<li class="mb-4">
 								<a href="/privacy" class="hover:underline">Privacy</a>
 							</li>
-							<li>
+							<li class="mb-4">
 								<a href="/terms" class="hover:underline">Terms of Use</a>
 							</li>
-							<li>
-								<li class="mb-4">
+							<li class="mb-4">
 									<a href="/faq" class="hover:underline">FAQs</a>
-								</li>
 							</li>
 						</ul>
 					</div>
