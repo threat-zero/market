@@ -28,7 +28,7 @@
 		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
 			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
 				FAQ4
-			</h4
+			</h2>
 		</div>
 
 		<div class="mx-auto max-w-screen-md text-center mb-4 lg:mb-4">
