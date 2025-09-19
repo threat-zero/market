@@ -29,7 +29,7 @@
 			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
 				FAQs
 			</h2>
-		</div>
+
 
 		<div class="collapse bg-base-100 border border-base-300">
 	  <input type="radio" name="my-accordion-1" checked="checked" />
@@ -48,5 +48,7 @@
 	</div>
 
  	</div>
+
+	</div>
 
 </section>
