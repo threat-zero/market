@@ -145,7 +145,9 @@
 								<a href="/terms" class="hover:underline">Terms of Use</a>
 							</li>
 							<li>
-								<a href="/faq" class="hover:underline">FAQs</a>
+								<li class="mb-4">
+									<a href="/faq" class="hover:underline">FAQs</a>
+								</li>
 							</li>
 						</ul>
 					</div>
