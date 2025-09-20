@@ -48,7 +48,6 @@
 		    <span slot="header">Where does the “brain” reside?</span>
 		    <p class="mb-2 text-gray-500 dark:text-gray-400">Our policy engines are designed to  operate from any compute zone: private or public virtual machines, any  combination, across your availability  zones.</p>
 		  </AccordionItem>
-			</AccordionItem>
 		 	<AccordionItem>
 			 <span slot="header">Can I write policies against arbitrary  groupings of devices?</span>
 			 <p class="mb-2 text-gray-500 dark:text-gray-400">Yes! We support virtually limitless  grouping structures, including IoT  devices and any endpoint that can be identified with an IP address.</p>
