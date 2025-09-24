@@ -235,6 +235,16 @@
 
 		</div>
 
+
+		<div class="aspect-video rounded-lg overflow-hidden mb-4">
+			<iframe
+				src="https://www.youtube.com/embed/tlfQEfB3FOs?si=IFRRT6iCMB57uKoT"
+				class="w-full h-full"
+				allowfullscreen>
+			</iframe>
+		</div>
+
+		<!--
 		<img
 			class="z-1 mx-auto mb-5 rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 			src={dashboardMockupLight}
@@ -245,6 +255,8 @@
 			src={dashboardMockupDark}
 			alt="dashboard overview dark"
 		/>
+		-->
+
 	</div>
 	<!--Social Proof-->
 	<div class="z-2 -mt-48 bg-gray-50 pb-8 pt-48 dark:bg-gray-800 sm:-mt-80 sm:pt-80 lg:pb-16">
