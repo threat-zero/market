@@ -3,7 +3,7 @@
 	import dashboardMockupDark from '$lib/images/product/Threatmatic_Banner1.png';
 	import dashboardMockupLight from '$lib/images/product/Threatmatic_Banner3.png';
 	import introAudio from '$lib/audio/intro audio.wav';
-	import introVideo from '$lib/video/Presenting Threatmatic.webm';
+	import introVideo from '$lib/videos/Presenting Threatmatic.webm';
 	import { Icon } from 'flowbite-svelte-icons';
 	import { JsonLd, MetaTags } from 'svelte-meta-tags';
 </script>
