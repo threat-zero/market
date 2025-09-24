@@ -238,7 +238,7 @@
 
 		<div class="aspect-video rounded-lg overflow-hidden mb-4">
 			<iframe
-				src="https://www.youtube.com/embed/tlfQEfB3FOs?si=IFRRT6iCMB57uKoT"
+				src="https://www.youtube.com/embed/eK0kWThr8D8?si=V4wocTbGaCVOA5Em"
 				class="w-full h-full"
 				allowfullscreen>
 			</iframe>
