@@ -221,18 +221,14 @@
 			</div>
 		-->
 
-			<a
+			<!--
 				<iframe
 					src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 					class="w-full h-full"
 					allow=autoplay
 					>
 				</iframe>
-			>
-				Why Threatmatic?
-			</a>
 
-			<!--
 			<a
 				href="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXgrDZtuICxPs7wAoofx3gYBYG_O9z9T7AIpRoy97jvEMg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tjxwVD"
 				target="_blank"
@@ -250,7 +246,7 @@
 			>
 				QSchannel Demo
 			</a>
-		-->
+			-->
 		</div>
 
 		<div class="aspect-video rounded-lg overflow-hidden mb-4">
