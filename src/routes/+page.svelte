@@ -207,9 +207,14 @@
 			class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
 		>
 
-			<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-			width="640" height="480" allow="autoplay">
-			</iframe>
+			<div class="aspect-video rounded-lg overflow-hidden mb-4">
+				<iframe
+					src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+					class="w-full h-full"
+					allowfullscreen autoplay
+					>
+				</iframe>
+			</div>
 
 		<!--
 			<a
