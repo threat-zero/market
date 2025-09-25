@@ -208,10 +208,14 @@
 		>
 
 			<div class="aspect-video rounded-lg overflow-hidden mb-4">
+				<div class="relative">
+				<h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
+				Why Threatmatic?
+				</h2>
 				<iframe
 					src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 					class="w-full h-full"
-					allowfullscreen autoplay
+					autoplay
 					>
 				</iframe>
 			</div>
