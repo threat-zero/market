@@ -211,8 +211,6 @@
 			width="640" height="480" allow="autoplay">
 			</iframe>
 
-			<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview" controls class="h-auto w-full max-w-full" />
-
 		<!--
 			<a
 				href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
