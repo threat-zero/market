@@ -208,7 +208,6 @@
 		>
 
 			<div class="aspect-video rounded-lg overflow-hidden mb-4">
-				<div class="relative">
 				<h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
 				Why Threatmatic?
 				</h2>
