@@ -221,17 +221,18 @@
 			</div>
 		-->
 
-		<!--
 			<a
-				href="https://docs.google.com/forms/d/19STPsBM-tFH9KedGLJAcj0xBE3ImP69AR2S430GMKLc"
-				target="_blank"
-				rel="external noopener noreferrer"
-				class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+				<iframe
+					src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+					class="w-full h-full"
+					allow=autoplay
+					>
+				</iframe>
 			>
 				Why Threatmatic?
 			</a>
 
-
+			<!--
 			<a
 				href="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXgrDZtuICxPs7wAoofx3gYBYG_O9z9T7AIpRoy97jvEMg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tjxwVD"
 				target="_blank"
@@ -251,8 +252,6 @@
 			</a>
 		-->
 		</div>
-
-
 
 		<div class="aspect-video rounded-lg overflow-hidden mb-4">
 			<iframe
