@@ -207,19 +207,19 @@
 			class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
 		>
 
-		<!--
 			<div class="aspect-video rounded-lg overflow-hidden mb-4">
-				<h3 class="mb-4 text-xl font-extrabold tracking-tight text-gray-900 dark:text-white">
-				<span class="italic">Why Threatmatic?</span>
-				</h3>
-				<iframe
-					src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-					class="w-full h-full"
-					allow=autoplay
-					>
-				</iframe>
+				<p
+					class="mb-8 font-light text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-xl lg:px-48"
+				>
+					The Threatmatic Difference
+					<iframe
+						src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+						class="w-full h-full"
+						allow=autoplay
+						>
+					</iframe>
+				</p>
 			</div>
-		-->
 
 			<!--
 				<iframe
