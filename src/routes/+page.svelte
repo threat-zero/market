@@ -409,7 +409,22 @@
 
 <section class="bg-white dark:bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-screen-md lg:py-16 grid lg:grid-cols-1 gap-8 lg:gap-16">
-			  <div class="flex flex-col justify-center">
+
+				<div class="aspect-video rounded-lg overflow-hidden mb-4">
+					<p
+							class="mb-4 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-xl lg:text-xl lg:px-48"
+						>
+							<iframe
+								src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+								allow="autoplay fullscreen"
+								>
+							</iframe>
+								The Threatmatic Difference
+						</p>
+				</div>
+
+
+				<div class="flex flex-col justify-center">
             <h1 class="mb-4 text-4xl font-semibold tracking-tight text-center text-gray-900 md:text-3xl lg:text-3xl dark:text-white">Demystifying Zero Trust</h1>
             <p class="mb-8 text-lg font-normal justify-left text-gray-500 lg:text-xl dark:text-gray-400">Threatmatic™ strikes the perfect balance between security and usability.</p>
             <div class="flex flex-col justify-center space-y-4 sm:flex-row sm:space-y-0">
@@ -431,21 +446,18 @@
             </div>
 	      	</div>
     </div>
-		<!--
+
 		<div class="aspect-video rounded-lg overflow-hidden mb-4">
 			<p
-					class="mb-4 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-xl lg:px-48"
+					class="mb-4 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-xl lg:text-xl lg:px-48"
 				>
-					<iframe
-						src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-						class="w-full h-full aspect-video"
-						allow="autoplay fullscreen"
-						>
+					<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+					width="640" height="480" allow="autoplay">
 					</iframe>
-						The Threatmatic Difference
+						Threatmatic Architecture
 				</p>
 		</div>
-		-->
+
 </section>
 
 <!--Mailing List Heading with CTA Button-->
