@@ -212,19 +212,19 @@
 				>
 					<iframe
 						src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-						class="w-full h-full"
-						allow=autoplay
+						width=1280
+						height=720
+						allow="autoplay fullscreen"
 						>
 					</iframe>
 						The Threatmatic Difference
 				</p>
-			</div>
 
 			<!--
 				<iframe
 					src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 					class="w-full h-full"
-					allow=autoplay
+					allow="autoplay"
 					>
 				</iframe>
 
