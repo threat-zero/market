@@ -457,19 +457,17 @@
      								</div>
                 </a>
             </div>
-	      	</div>
 
-					<div class="aspect-video rounded-lg overflow-hidden mb-4">
-						<p
-								class="mb-4 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-xl lg:text-xl lg:px-48"
-							>
-								<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-								allow="autoplay">
-								</iframe>
-								Threatmatic Architecture
-							</p>
-					</div>
-
+						<div class="aspect-video rounded-lg overflow-hidden mb-4">
+							<p
+									class="mb-4 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-xl lg:text-xl lg:px-48"
+								>
+									<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+									allow="autoplay">
+									</iframe>
+									Threatmatic Architecture
+								</p>
+						</div>
     	</div>
 
 </section>
