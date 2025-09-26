@@ -408,19 +408,18 @@
 />
 
 <section class="bg-white dark:bg-gray-900">
-    <div class="py-8 px-4 mx-auto max-w-screen-md lg:py-16 grid lg:grid-cols-1 gap-8 lg:gap-16">
+    <div class="py-8 px-4 mx-auto max-w-screen-md lg:py-16 grid lg:grid-cols-3 gap-4 lg:gap-16">
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
 					<p
 							class="mb-4 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-xl lg:text-xl lg:px-48"
 						>
-							<iframe
-								src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+							<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 								allow="autoplay"
 								>
 							</iframe>
 								The Threatmatic Difference
-						</p>
+					</p>
 				</div>
 
 
