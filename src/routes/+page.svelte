@@ -408,10 +408,10 @@
 />
 
 <section class="bg-white dark:bg-gray-900">
-    <div class="py-8 px-4 mx-auto max-w-screen-md lg:py-16 grid lg:grid-cols-1 gap-8 lg:gap-16">
+    <div class="py-8 px-4 mx-auto max-w-screen-md lg:py-16 grid lg:grid-cols-3 gap-8 lg:gap-16">
 			  <div class="flex flex-col justify-center">
-            <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-3xl dark:text-white">Demystifying Zero Trust</h1>
-            <p class="mb-8 text-lg font-normal justify-center text-gray-500 lg:text-xl dark:text-gray-400">Threatmatic™ strikes the perfect balance between security and usability.</p>
+            <h1 class="mb-4 text-4xl font-semibold tracking-tight text-center text-gray-900 md:text-3xl lg:text-3xl dark:text-white">Demystifying Zero Trust</h1>
+            <p class="mb-8 text-lg font-normal justify-left text-gray-500 lg:text-xl dark:text-gray-400">Threatmatic™ strikes the perfect balance between security and usability.</p>
             <div class="flex flex-col justify-center space-y-4 sm:flex-row sm:space-y-0">
 							<a class="inline-flex justify-center items-center py-3 px-5 text-base font-normal text-left text-white
 								rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900 ">
