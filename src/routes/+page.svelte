@@ -434,10 +434,9 @@
 									class="mb-4 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-xl lg:text-xl lg:px-48"
 								>
 									<iframe src="https://drive.google.com/file/d/1ujeChKX7vW6P-NOlGIIjmuQgb185a56Z/preview"
-									allow="autoplay"></iframe>
-										>
+									allow="autoplay">
 									</iframe>
-										Why Threatmatic?
+									Why Threatmatic?
 							</p>
 						</div>
 
@@ -467,7 +466,7 @@
 								<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 								allow="autoplay">
 								</iframe>
-									Threatmatic Architecture
+								Threatmatic Architecture
 							</p>
 					</div>
 
