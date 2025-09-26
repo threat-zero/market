@@ -203,10 +203,7 @@
 		</div>
 		-->
 
-		<div
-			class="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16"
-		>
-
+		<div class="aspect-video rounded-lg overflow-hidden mb-4">
 			<p
 					class="mb-8 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-xl lg:px-48"
 				>
@@ -218,33 +215,6 @@
 					</iframe>
 						The Threatmatic Difference
 				</p>
-
-			<!--
-				<iframe
-					src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-					class="w-full h-full"
-					allow="autoplay"
-					>
-				</iframe>
-
-			<a
-				href="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXgrDZtuICxPs7wAoofx3gYBYG_O9z9T7AIpRoy97jvEMg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tjxwVD"
-				target="_blank"
-				rel="external noopener noreferrer"
-				class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
-			>
-				3 min Demo
-			</a>
-
-			<a
-				href="https://netorgft1065679-my.sharepoint.com/:v:/g/personal/mreddy_securiosity_net/EXDREMiF81xAoPJr6yfhUQABEzBZfp9nI1ok6WYLIaRBzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wMJTxY"
-				target="_blank"
-				rel="external noopener noreferrer"
-				class="inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
-			>
-				QSchannel Demo
-			</a>
-			-->
 		</div>
 
 		<div class="aspect-video rounded-lg overflow-hidden mb-4">
