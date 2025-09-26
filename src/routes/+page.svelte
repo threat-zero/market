@@ -416,7 +416,7 @@
 						>
 							<iframe
 								src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-								allow="autoplay fullscreen"
+								allow="autoplay"
 								>
 							</iframe>
 								The Threatmatic Difference
@@ -452,7 +452,7 @@
 					class="mb-4 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-xl lg:text-xl lg:px-48"
 				>
 					<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-					width="640" height="480" allow="autoplay">
+					allow="autoplay">
 					</iframe>
 						Threatmatic Architecture
 				</p>
