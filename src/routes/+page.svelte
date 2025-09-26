@@ -453,7 +453,7 @@
 	<div class="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 lg:px-6">
 		<div class="mx-auto max-w-screen-sm text-center">
 			<h2
-				class="mb-4 text-4xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white"
+				class="mb-4 text-4xl font-semibold text-gray-900 dark:text-white"
 			>
 				Join our Mailing List!
 			</h2>
