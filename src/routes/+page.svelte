@@ -431,6 +431,7 @@
             </div>
 	      	</div>
     </div>
+		<!--
 		<div class="aspect-video rounded-lg overflow-hidden mb-4">
 			<p
 					class="mb-4 font-light italic text-gray-500 dark:text-gray-400 sm:px-16 md:text-lg lg:text-xl lg:px-48"
@@ -444,6 +445,7 @@
 						The Threatmatic Difference
 				</p>
 		</div>
+		-->
 </section>
 
 <!--Mailing List Heading with CTA Button-->
