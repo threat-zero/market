@@ -4,7 +4,7 @@
 	import dashboardMockupLight from '$lib/images/product/Threatmatic_Banner3.png';
 	import introAudio from '$lib/audio/intro audio.wav';
 	import { Icon } from 'flowbite-svelte-icons';
-	import { video } from 'flowbite-svelte';
+	import { Video } from 'flowbite-svelte';
 	import { JsonLd, MetaTags } from 'svelte-meta-tags';
 </script>
 
@@ -459,7 +459,7 @@
 
 			<div class="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 lg:px-6">
 				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview" autoplay controls class="h-auto w-full max-w-full"/>
-			</div>			
+			</div>
 
 </section>
 
