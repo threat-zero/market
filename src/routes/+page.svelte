@@ -4,7 +4,7 @@
 	import dashboardMockupLight from '$lib/images/product/Threatmatic_Banner3.png';
 	import introAudio from '$lib/audio/intro audio.wav';
 	import { Icon } from 'flowbite-svelte-icons';
-	import { Image, Video } from 'flowbite-svelte';
+	import { Video } from 'flowbite-svelte';
 	import { JsonLd, MetaTags } from 'svelte-meta-tags';
 </script>
 
@@ -473,8 +473,6 @@
 				allow="autoplay">
 				</iframe>
 				-->
-
-				<Image src={dashboardMockupDark}/>
 				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"/>
 			</div>
 
