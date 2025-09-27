@@ -470,7 +470,7 @@
 						allow="autoplay controls"
 						class="w-full h-full">
 					</iframe>
-					<p Why Threatmatic? /p>
+					<p Why Threatmatic? </p>
 				</div>
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
@@ -479,7 +479,7 @@
 						class="w-full h-full"
 						allowfullscreen>
 					</iframe>
-					<p Threatmatic Architecture /p>
+					<p Threatmatic Architecture </p>
 				</div>
 
 				<!--
