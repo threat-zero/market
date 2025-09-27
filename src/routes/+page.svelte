@@ -474,9 +474,9 @@
 				</iframe>
 				-->
 				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-				poster={dashboardMockupDark}
 				controls autoplay
 				class="h-auto w-full max-w-full rounded-lg"/>
+
 			</div>
 
 </section>
