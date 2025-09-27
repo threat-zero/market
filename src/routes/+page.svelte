@@ -458,11 +458,11 @@
     	</div>
 
 			<div class="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 lg:px-6">
-			<!--
-				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-				autoplay controls
-				class="h-auto w-full max-w-full"/>
-			-->
+			
+					<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+					allow="autoplay">
+					</iframe>
+
 				<img
 					class="z-1 mx-auto mb-5 rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 					src={dashboardMockupLight}
