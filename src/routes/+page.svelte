@@ -448,7 +448,7 @@
 
  <section class="bg-white dark:bg-gray-900">
 
-			<div class="mx-auto max-w-screen-lg px-4 pt-8 text-center lg:px-12 lg:pt-16">
+			<div class="mx-auto max-w-screen-md px-4 pt-8 text-center lg:px-12 lg:pt-16">
 
 			<!--
 			<div class="mx-auto max-w-screen-xl text-center px-4 py-8 sm:py-16 lg:px-6">
@@ -473,7 +473,7 @@
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-4">
+				<div class="aspect-video rounded-lg overflow-hidden mb-8">
 					<iframe
 						src="https://drive.google.com/file/d/1ujeChKX7vW6P-NOlGIIjmuQgb185a56Z/preview"
 						allow="autoplay controls"
