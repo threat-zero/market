@@ -474,8 +474,8 @@
 				</iframe>
 				-->
 
-				<Image src={dashboardMockupDark}>
-				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview">
+				<Image src={dashboardMockupDark}/>
+				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"/>
 			</div>
 
 </section>
