@@ -471,7 +471,7 @@
 				/>
 				-->
 
-				<div class="aspect-video md:w-full rounded-lg overflow-hidden mb-4">
+				<div class="aspect-video rounded-lg mb-4">
 					<iframe
 					src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 					allow="autoplay controls">
