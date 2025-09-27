@@ -465,21 +465,23 @@
 				-->
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
+					<p
 					<iframe
 						src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 						allow="autoplay controls"
 						class="w-full h-full">
 					</iframe>
-					<p Why Threatmatic? </p>
+					Why Threatmatic? </p>
 				</div>
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
+					<p
 					<iframe
 						src="https://drive.google.com/file/d/1ujeChKX7vW6P-NOlGIIjmuQgb185a56Z/preview"
 						class="w-full h-full"
 						allowfullscreen>
 					</iframe>
-					<p Threatmatic Architecture </p>
+					Threatmatic Architecture </p>
 				</div>
 
 				<!--
