@@ -457,7 +457,8 @@
 						-->
     	</div>
 
-			<div class="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 lg:px-6">
+			<div class="mx-auto max-w-screen-xl justify-center px-4 py-8 sm:py-16 lg:px-6">
+				<!--
 				<img
 					class="z-1 mx-auto mb-5 rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
 					src={dashboardMockupLight}
@@ -468,12 +469,14 @@
 					src={dashboardMockupDark}
 					alt="dashboard overview dark"
 				/>
-				<!--
 				<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 				allow="autoplay">
 				</iframe>
 				-->
-				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview" controls class="w-96 h-auto rounded-lg"/>
+				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+				poster={dashboardMockupDark}
+				controls autoplay
+				class="h-auto w-full max-w-full rounded-lg"/>
 			</div>
 
 </section>
