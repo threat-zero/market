@@ -470,10 +470,15 @@
 					alt="dashboard overview dark"
 				/>
 				-->
-				<iframe src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-				allow="autoplay controls"
-				class="h-auto w-full max-w-full rounded-lg">
-				</iframe>
+
+				<div class="w-full md:max-w-md mx-auto rounded-lg overflow-hidden mb-4">
+					<iframe
+					src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
+					allow="autoplay controls"
+					class="h-auto w-full max-w-full rounded-lg">
+					</iframe>
+				</div>
+
 				<!--
 				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 				controls autoplay
