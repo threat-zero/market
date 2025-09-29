@@ -463,8 +463,8 @@
 				/>
 				-->
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-0 text-base font-normal dark:text-white">
+				<div class="aspect-video rounded-lg mb-4">
+					<h3 class="mb-0 text-lg font-normal dark:text-white">
 						Introducing Threatmatic
 					</h3>
 					<iframe
@@ -474,8 +474,8 @@
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-0 text-base font-normal dark:text-white">
+				<div class="aspect-video rounded-lg mb-4">
+					<h3 class="mb-0 text-lg font-normal dark:text-white">
 						Architecture
 					</h3>
 					<iframe
@@ -485,8 +485,8 @@
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-0 text-base font-normal dark:text-white">
+				<div class="aspect-video rounded-lg mb-4">
+					<h3 class="mb-0 text-lg font-normal dark:text-white">
 						Why do you need Threatmatic?
 				</h3>
 					<iframe
@@ -496,8 +496,8 @@
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-0 text-base font-normal dark:text-white">
+				<div class="aspect-video rounded-lg mb-4">
+					<h3 class="mb-0 text-lg font-normal dark:text-white">
 						Zero Trust Edge by Threatmatic
 				</h3>
 					<iframe
@@ -507,8 +507,8 @@
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-0 text-base font-normal dark:text-white">
+				<div class="aspect-video rounded-lg mb-4">
+					<h3 class="mb-0 text-lg font-normal dark:text-white">
 						What are some Use-Cases?
 				</h3>
 					<iframe
