@@ -464,7 +464,7 @@
 				-->
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-8">
-					<h3 class="mb-2 text-xl font-normal italic dark:text-white">
+					<h3 class="mb-2 text-xl font-normal dark:text-white">
 						Architecture
 					</h3>
 					<iframe
@@ -475,8 +475,8 @@
 				</div>
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-8">
-					<h3 class="mb-2 text-xl font-normal italic dark:text-white">
-						Why Threatmatic? Why Now?
+					<h3 class="mb-2 text-xl font-normal dark:text-white">
+						Why Threatmatic?
 				</h3>
 					<iframe
 						src="https://drive.google.com/file/d/1ujeChKX7vW6P-NOlGIIjmuQgb185a56Z/preview"
