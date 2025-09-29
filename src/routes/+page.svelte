@@ -463,18 +463,18 @@
 				/>
 				-->
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-8">
+				<div class="aspect-video rounded-lg overflow-hidden mb-4">
 					<h3 class="mb-2 text-xl font-normal dark:text-white">
 						Introducing Threatmatic
-				</h3>
-					<iframehttps://drive.google.com/file/d/1RlYexMPTIzPMm_vmKjWQMfC_QygQL61f/preview
+					</h3>
+					<iframe
 						src="https://drive.google.com/file/d/1wc56Fr1qrhxA4w9KANDL0_jCOfs3oZYy/preview""
 						allow="autoplay controls"
 						class="w-full h-full">
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-8">
+				<div class="aspect-video rounded-lg overflow-hidden mb-4">
 					<h3 class="mb-2 text-xl font-normal dark:text-white">
 						Architecture
 					</h3>
@@ -485,7 +485,7 @@
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-8">
+				<div class="aspect-video rounded-lg overflow-hidden mb-4">
 					<h3 class="mb-2 text-xl font-normal dark:text-white">
 						Why Threatmatic?
 				</h3>
@@ -496,22 +496,22 @@
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-8">
+				<div class="aspect-video rounded-lg overflow-hidden mb-4">
 					<h3 class="mb-2 text-xl font-normal dark:text-white">
 						Zero Trust Edge by Threatmatic
 				</h3>
-					<iframehttps://drive.google.com/file/d/1RlYexMPTIzPMm_vmKjWQMfC_QygQL61f/preview
+					<iframe
 						src="https://drive.google.com/file/d/1MfVGdBVMYb1pLcqvcyiwtlDLtnboVSl9/preview"
 						allow="autoplay controls"
 						class="w-full h-full">
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-8">
+				<div class="aspect-video rounded-lg overflow-hidden mb-4">
 					<h3 class="mb-2 text-xl font-normal dark:text-white">
 						What are the usecases?
 				</h3>
-					<iframehttps://drive.google.com/file/d/1RlYexMPTIzPMm_vmKjWQMfC_QygQL61f/preview
+					<iframe
 						src="https://drive.google.com/file/d/1RlYexMPTIzPMm_vmKjWQMfC_QygQL61f/preview"
 						allow="autoplay controls"
 						class="w-full h-full">
@@ -523,9 +523,6 @@
 				controls autoplay
 				class="h-auto w-full max-w-full rounded-lg"/>
 				-->
-
-			</div>
-
 </section>
 
 <!--Mailing List Heading with CTA Button-->
