@@ -471,6 +471,9 @@
 						class="w-full h-full">
 						title = "Why Threatmatic?"
 					</iframe>
+					<h3 class="mb-2 text-xl font-bold dark:text-white">
+						Why do you need Threatmatic?
+					</h3>
 				</div>
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
@@ -481,6 +484,9 @@
 						title = "Threatmatic Architecture"
 						>
 					</iframe>
+					<h3 class="mb-2 text-xl font-bold dark:text-white">
+						Our Architecture
+					</h3>
 				</div>
 
 				<!--
