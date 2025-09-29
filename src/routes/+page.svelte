@@ -464,8 +464,8 @@
 				-->
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-2 text-xl font-normal dark:text-white">
-						Introducing <span class="italic">Safter with Threatmatic</span>
+					<h3 class="mb-0 text-base font-normal dark:text-white">
+						Introducing Threatmatic
 					</h3>
 					<iframe
 						src="https://drive.google.com/file/d/1wc56Fr1qrhxA4w9KANDL0_jCOfs3oZYy/preview"
@@ -475,7 +475,7 @@
 				</div>
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-2 text-xl font-normal dark:text-white">
+					<h3 class="mb-0 text-base font-normal dark:text-white">
 						Architecture
 					</h3>
 					<iframe
@@ -486,8 +486,8 @@
 				</div>
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-2 text-xl font-normal dark:text-white">
-						Why do you need Threatmatic <span class="italic">now</span>?
+					<h3 class="mb-0 text-base font-normal dark:text-white">
+						Why do you need Threatmatic?
 				</h3>
 					<iframe
 						src="https://drive.google.com/file/d/1ujeChKX7vW6P-NOlGIIjmuQgb185a56Z/preview"
@@ -497,7 +497,7 @@
 				</div>
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-2 text-xl font-normal dark:text-white">
+					<h3 class="mb-0 text-base font-normal dark:text-white">
 						Zero Trust Edge by Threatmatic
 				</h3>
 					<iframe
@@ -508,7 +508,7 @@
 				</div>
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-2 text-xl font-normal dark:text-white">
+					<h3 class="mb-0 text-base font-normal dark:text-white">
 						What are some Use-Cases?
 				</h3>
 					<iframe
