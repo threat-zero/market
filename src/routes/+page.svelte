@@ -468,7 +468,7 @@
 						Introducing Threatmatic
 					</h3>
 					<iframe
-						src="https://drive.google.com/file/d/1wc56Fr1qrhxA4w9KANDL0_jCOfs3oZYy/preview""
+						src="https://drive.google.com/file/d/1wc56Fr1qrhxA4w9KANDL0_jCOfs3oZYy/preview"
 						allow="autoplay controls"
 						class="w-full h-full">
 					</iframe>
