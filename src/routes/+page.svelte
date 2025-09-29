@@ -442,7 +442,6 @@
      								</div>
                 </a>
             </div>
-
 					</div>
  </section>
 
@@ -464,8 +463,8 @@
 				/>
 				-->
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-4">
-					<h3 class="mb-2 text-xl font-bold dark:text-white">
+				<div class="aspect-video rounded-lg overflow-hidden mb-8">
+					<h3 class="mb-2 text-xl font-normal dark:text-white">
 						Why do you need Threatmatic?
 					</h3>
 					<iframe
@@ -475,16 +474,14 @@
 					</iframe>
 				</div>
 
-				<div class="aspect-video rounded-lg overflow-hidden mb-4">
+				<div class="aspect-video rounded-lg overflow-hidden mb-8">
+					<h3 class="mb-2 text-xl font-normal dark:text-white">
+						Our Architecture
+				</h3>
 					<iframe
 						src="https://drive.google.com/file/d/1ujeChKX7vW6P-NOlGIIjmuQgb185a56Z/preview"
 						allow="autoplay controls"
-						class="w-full h-full"
-						title = "Threatmatic Architecture"
-						>
-						<h3 class="mb-2 text-xl font-bold dark:text-white">
-							Our Architecture
-						</h3>
+						class="w-full h-full">
 					</iframe>
 				</div>
 
