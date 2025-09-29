@@ -465,7 +465,7 @@
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
 					<h3 class="mb-2 text-xl font-normal dark:text-white">
-						Introducing Threatmatic
+						Introducing <span class="italic">Safter with Threatmatic</span>
 					</h3>
 					<iframe
 						src="https://drive.google.com/file/d/1wc56Fr1qrhxA4w9KANDL0_jCOfs3oZYy/preview"
@@ -487,7 +487,7 @@
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
 					<h3 class="mb-2 text-xl font-normal dark:text-white">
-						Why Threatmatic?
+						Why do you need Threatmatic <span class="italic">now</span>?
 				</h3>
 					<iframe
 						src="https://drive.google.com/file/d/1ujeChKX7vW6P-NOlGIIjmuQgb185a56Z/preview"
@@ -509,7 +509,7 @@
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
 					<h3 class="mb-2 text-xl font-normal dark:text-white">
-						What are the usecases?
+						What are some Use-Cases?
 				</h3>
 					<iframe
 						src="https://drive.google.com/file/d/1RlYexMPTIzPMm_vmKjWQMfC_QygQL61f/preview"
