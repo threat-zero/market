@@ -465,13 +465,13 @@
 				-->
 
 				<div class="aspect-video rounded-lg overflow-hidden mb-4">
+					<h3 class="mb-2 text-xl font-bold dark:text-white">
+						Why do you need Threatmatic?
+					</h3>
 					<iframe
 						src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
 						allow="autoplay controls"
 						class="w-full h-full">
-						<h3 class="mb-2 text-xl font-bold dark:text-white">
-							Why do you need Threatmatic?
-						</h3>
 					</iframe>
 				</div>
 
