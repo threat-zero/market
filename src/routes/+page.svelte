@@ -446,6 +446,7 @@
  </section>
 
 <!-- Mohan's videos -->
+<!--
  <section class="bg-white dark:bg-gray-900">
 
 			<div class="mx-auto max-w-screen-md px-4 pt-8 text-center lg:px-12 lg:pt-16">
@@ -505,12 +506,8 @@
 					</iframe>
 				</div>
 
-				<!--
-				<Video src="https://drive.google.com/file/d/1Tnv4cEJge1o0CQCnQw8YJ9SDW3f20QDd/preview"
-				controls autoplay
-				class="h-auto w-full max-w-full rounded-lg"/>
-				-->
-</section>
+			</section>
+-->
 
 <!--Mailing List Heading with CTA Button-->
 <section class="bg-white dark:bg-gray-900">
