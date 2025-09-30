@@ -444,24 +444,11 @@
             </div>
 					</div>
  </section>
-<!--
+
+<!-- Mohan's videos -->
  <section class="bg-white dark:bg-gray-900">
 
 			<div class="mx-auto max-w-screen-md px-4 pt-8 text-center lg:px-12 lg:pt-16">
-
-			<!--
-			<div class="mx-auto max-w-screen-xl text-center px-4 py-8 sm:py-16 lg:px-6">
-				<img
-					class="z-1 mx-auto mb-5 rounded-lg border border-gray-200 shadow-xl dark:hidden dark:border-gray-600 lg:mb-8"
-					src={dashboardMockupLight}
-					alt="dashboard overview"
-				/>
-				<img
-					class="z-1 mx-auto mb-5 hidden rounded-lg border border-gray-200 shadow-xl dark:block dark:border-gray-600 lg:mb-8"
-					src={dashboardMockupDark}
-					alt="dashboard overview dark"
-				/>
-				-->
 
 				<div class="aspect-video rounded-lg mb-4">
 					<h3 class="mb-0 text-lg font-normal dark:text-white">
@@ -499,7 +486,7 @@
 				<div class="aspect-video rounded-lg mb-4">
 					<h3 class="mb-0 text-lg font-normal dark:text-white">
 						Zero Trust Edge by Threatmatic
-				</h3>
+					</h3>
 					<iframe
 						src="https://drive.google.com/file/d/1MfVGdBVMYb1pLcqvcyiwtlDLtnboVSl9/preview"
 						allow="autoplay controls"
@@ -524,7 +511,6 @@
 				class="h-auto w-full max-w-full rounded-lg"/>
 				-->
 </section>
--->
 
 <!--Mailing List Heading with CTA Button-->
 <section class="bg-white dark:bg-gray-900">
