@@ -444,7 +444,7 @@
             </div>
 					</div>
  </section>
-
+<!--
  <section class="bg-white dark:bg-gray-900">
 
 			<div class="mx-auto max-w-screen-md px-4 pt-8 text-center lg:px-12 lg:pt-16">
@@ -524,6 +524,7 @@
 				class="h-auto w-full max-w-full rounded-lg"/>
 				-->
 </section>
+-->
 
 <!--Mailing List Heading with CTA Button-->
 <section class="bg-white dark:bg-gray-900">
