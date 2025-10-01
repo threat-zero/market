@@ -43,6 +43,18 @@
 
 					Our intuitive UI and modular Zero Trust architecture delivers lightning-fast, real-time protection against ransomware, malware, phishing, DNS poisoning, and more. Defend your most critical assets with unparalleled ease, security and performance..
 				</p>
+
+				<div class="aspect-video rounded-lg mb-4">
+					<h3 class="mb-0 text-lg font-normal dark:text-white">
+						Introducing Threatmatic
+					</h3>
+					<iframe
+						src="https://drive.google.com/file/d/1h5_0WC1X2MDnqs7zcMn8E3ZoJlxNcie7/preview"
+						allow="autoplay controls"
+						class="w-full h-full">
+					</iframe>
+				</div>
+
 				<p class="mb-8 font-light lg:text-xl">
 					Instant Zero Trust Enforcement:
           				Block traffic in real-time with granular, rule-based policies applied to users, groups, devices, and endpoints.
