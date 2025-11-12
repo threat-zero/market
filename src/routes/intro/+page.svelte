@@ -41,7 +41,8 @@
 				<p class="mb-8 font-light lg:text-xl">
 					Threatmatic™ bridges the gap between security and usability.
 
-					Our intuitive UI and modular Zero Trust architecture delivers lightning-fast, real-time protection against ransomware, malware, phishing, DNS poisoning, and more. Defend your most critical assets with unparalleled ease, security and performance..
+					Our intuitive UI and modular Zero Trust architecture delivers lightning-fast, real-time protection against ransomware, malware, phishing, DNS poisoning, and more.
+					Defend your most critical assets with unparalleled ease, security and performance..
 				</p>
 
 				<div class="aspect-video rounded-lg mb-4">
@@ -58,7 +59,8 @@
 				<p class="mb-8 font-light lg:text-xl">
 					Instant Zero Trust Enforcement:
           				Block traffic in real-time with granular, rule-based policies applied to users, groups, devices, and endpoints.
-          				Audit or block applications and executables directly on endpoints.
+          				Audit or block applications and executables directly on endpoints. Tags and annonations in policies allow you to compose
+									security policies with surgical precision for a highly dynamic, maximum security posture.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					Smarter Bandwidth Management:
