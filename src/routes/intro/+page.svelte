@@ -59,7 +59,7 @@
 				<p class="mb-8 font-light lg:text-xl">
 					Instant Zero Trust Enforcement:
           				Block traffic in real-time with granular, rule-based policies applied to users, groups, devices, and endpoints.
-          				Audit or block applications and executables directly on endpoints. Tags and annonations in policies allow you to compose
+          				Audit or block applications and executables directly on endpoints. "Tags" and "Annotations" allow you to compose
 									security policies with surgical precision for a highly dynamic, maximum security posture.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
@@ -70,7 +70,7 @@
 				<p class="mb-8 font-light lg:text-xl">
 					Seamless Micro-segmentation:
           				Quickly isolate malware and control host-to-host traffic to enhance performance and security.
-          				Achieve secure, dynamic cloud integration with ClouDiffusion™.
+          				Achieve secure, dynamic cloud integration with Cloudiffusion™.
 				</p>
 				<p class="mb-8 font-light lg:text-xl">
 					Comprehensive Defense-in-Depth:
