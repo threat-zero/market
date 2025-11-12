@@ -33,22 +33,23 @@
 <section class="bg-white dark:bg-gray-900">
 	<div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
 		<!-- Row -->
-		<div class="gap-8 items-top lg:grid lg:grid-cols-1 xl:gap-16">
+		<div class="gap-8 items-top lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
-				<h2 class="mb-4 text-3xl tracking-tight font-bold text-gray-900 dark:text-white">
-					Elevate Zero Trust Enforcement with Threatmatic ZT-sync
-				</h2>
-				<p class="mb-8 font-light lg:text-2xl">
-					Zero Trust is no longer optional—it’s mission-critical.
-					Yet, most ZTNA solutions struggle with latency, complexity, and reliability.
-					Threatmatic ZT-sync changes that paradigm.
-				</p>
+					<h2 class="mb-4 text-3xl tracking-tight font-bold text-gray-900 dark:text-white">
+						Elevate Zero Trust Enforcement with Threatmatic ZT-sync
+					</h2>
+					<p class="mb-8 font-light lg:text-2xl">
+						Zero Trust is no longer optional—it’s mission-critical.
+						Yet, most ZTNA solutions struggle with latency, complexity, and reliability.
+						Threatmatic ZT-sync changes that paradigm.
+					</p>
 
-				<img
-					class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
-					src={productNew}
-					alt="Product Graphic"
-				/>
+					<img
+						class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
+						src={productNew}
+						alt="Product Graphic"
+					/>
+				</div>
 
 					<div class="gap-8 items-top lg:grid lg:grid-cols-3 xl:gap-16">
 						<p class="mb-8 font-light lg:text-xl">
@@ -74,7 +75,6 @@
 						<p class="mb-8 font-light lg:text-xl">
 							<span class="font-semibold">Future-Proof:</span> Built for adaptive, autonomous enforcement in dynamic threat landscapes.
 						</p>
-					</div>
 
 		</div>
 	</div>
