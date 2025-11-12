@@ -46,27 +46,27 @@
 
 				<div class="gap-8 items-top lg:grid lg:grid-cols-3 xl:gap-16">
 				<p class="mb-8 font-light lg:text-xl">
-					<span class="semibold">Uninterruptible Control Plane:</span> Conceptually simple yet profoundly effective for Zero Trust enforcement.
+					<span class="font-semibold">Uninterruptible Control Plane:</span> Conceptually simple yet profoundly effective for Zero Trust enforcement.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-					<span class="semibold">Unmatched Performance:</span> Sub-50ms latency for targeted policy updates to endpoints and workloads—anywhere in the world.
+					<span class="font-semibold">Unmatched Performance:</span> Sub-50ms latency for targeted policy updates to endpoints and workloads—anywhere in the world.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-					<span class="semibold">Architectural Excellence:</span> Asynchronous, multi-cloud design with highly decoupled components, autoscaling, and astonishing reliability.
+					<span class="font-semibold">Architectural Excellence:</span> Asynchronous, multi-cloud design with highly decoupled components, autoscaling, and astonishing reliability.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-					<span class="semibold">Global Reach:</span> Multi-region availability ensures resilience and compliance across distributed environments.
+					<span class="font-semibold">Global Reach:</span> Multi-region availability ensures resilience and compliance across distributed environments.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-				<span class="semibold">Intelligent Security:</span> Multi-modal IOC signal processing fused with AI-powered reasoning for topological, chronological, and causal correlation.
+				<span class="font-semibold">Intelligent Security:</span> Multi-modal IOC signal processing fused with AI-powered reasoning for topological, chronological, and causal correlation.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-					<span class="semibold">Future-Proof:</span> Built for adaptive, autonomous enforcement in dynamic threat landscapes.
+					<span class="font-semibold">Future-Proof:</span> Built for adaptive, autonomous enforcement in dynamic threat landscapes.
 				</p>
 				</div>
 
