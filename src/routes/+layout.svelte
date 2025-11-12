@@ -73,9 +73,9 @@
 			>
 				Blog
 			</NavLi>
-			<!--
-			<NavLi href="/faq">FAQs</NavLi>
-			-->
+
+			<NavLi href="/ciso">For CISOs</NavLi>
+
 		</NavUl>
 	</Navbar>
 
