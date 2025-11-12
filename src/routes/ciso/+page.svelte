@@ -51,7 +51,7 @@
 					/>
 				</div>
 
-					<div class="gap-8 items-top lg:grid lg:grid-cols-3 xl:gap-16">
+					<div class="gap-8 items-top lg:grid lg:grid-cols-3 dark:text-white xl:gap-16">
 						<p class="mb-8 font-light lg:text-xl">
 							<span class="font-semibold">Uninterruptible Control Plane:</span> Conceptually simple yet profoundly effective for Zero Trust enforcement.
 						</p>
