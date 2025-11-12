@@ -60,7 +60,7 @@
 					</div>
 
 					<div class="gap-8 items-top lg:grid lg:grid-cols-3 xl:gap-16">
-		
+
 					<img
 						class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
 						src={productNew}
@@ -79,8 +79,6 @@
 						<span class="font-semibold">Future-Proof:</span> Built for adaptive, autonomous enforcement in dynamic threat landscapes.
 					</p>
 					</div>
-				</div>
-
 
 			</div>
 
