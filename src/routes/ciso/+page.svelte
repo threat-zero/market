@@ -36,7 +36,7 @@
 		<div class="gap-8 items-top lg:grid lg:grid-cols-2 xl:gap-16">
 			<div class="text-gray-500 sm:text-lg dark:text-gray-400">
 				<h2 class="mb-4 text-3xl tracking-tight font-bold text-gray-900 dark:text-white">
-					Subject: Elevate Zero Trust Enforcement with Threatmatic ZT-sync
+					Elevate Zero Trust Enforcement with Threatmatic ZT-sync
 				</h2>
 				<p class="mb-8 font-light lg:text-2xl">
 					Zero Trust is no longer optional—it’s mission-critical.
@@ -46,27 +46,27 @@
 
 				<div class="gap-8 items-top lg:grid lg:grid-cols-3 xl:gap-16">
 				<p class="mb-8 font-light lg:text-xl">
-					Uninterruptible Control Plane: Conceptually simple yet profoundly effective for Zero Trust enforcement.
+					<span class="semibold">Uninterruptible Control Plane:</span> Conceptually simple yet profoundly effective for Zero Trust enforcement.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-					Unmatched Performance: Sub-50ms latency for targeted policy updates to endpoints and workloads—anywhere in the world.
+					<span class="semibold">Unmatched Performance:</span> Sub-50ms latency for targeted policy updates to endpoints and workloads—anywhere in the world.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-					Architectural Excellence: Asynchronous, multi-cloud design with highly decoupled components, autoscaling, and astonishing reliability.
+					<span class="semibold">Architectural Excellence:</span> Asynchronous, multi-cloud design with highly decoupled components, autoscaling, and astonishing reliability.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-					Global Reach: Multi-region availability ensures resilience and compliance across distributed environments.
+					<span class="semibold">Global Reach:</span> Multi-region availability ensures resilience and compliance across distributed environments.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-				Intelligent Security: Multi-modal IOC signal processing fused with AI-powered reasoning for topological, chronological, and causal correlation.
+				<span class="semibold">Intelligent Security:</span> Multi-modal IOC signal processing fused with AI-powered reasoning for topological, chronological, and causal correlation.
 				</p>
 
 				<p class="mb-8 font-light lg:text-xl">
-					Future-Proof: Built for adaptive, autonomous enforcement in dynamic threat landscapes.
+					<span class="semibold">Future-Proof:</span> Built for adaptive, autonomous enforcement in dynamic threat landscapes.
 				</p>
 				</div>
 
