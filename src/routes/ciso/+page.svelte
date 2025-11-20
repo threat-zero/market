@@ -77,10 +77,10 @@
 						</p>
 
 				</div>
-				
+
 	</div>
 
-			<div class="gap-8 items-top lg:grid lg:grid-cols-3 dark:text-gray-400 xl:gap-16">
+			<div class="mx-auto max-w-screen-xl px-4 py-8 text-center sm:py-16 lg:px-6">
 				<p class="mb-8 font-light lg:text-xl">
 					<span class="font-semibold">Rapid Policy Enforcement Across Distributed Environments:</span>
 
