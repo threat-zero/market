@@ -77,32 +77,32 @@
 						</p>
 
 				</div>
-				<div class="gap-8 items-top lg:grid lg:grid-cols-1 dark:text-gray-400 xl:gap-16">
+				<div class="gap-8 items-top lg:grid lg:grid-cols-3 dark:text-gray-400 xl:gap-16">
 					<p class="mb-8 font-light lg:text-xl">
-						1. Rapid Policy Enforcement Across Distributed Environments
-						Problem:
+						<span class="font-semibold">Rapid Policy Enforcement Across Distributed Environments:</span>
+
 						Legacy ZTNA and firewall solutions struggle to push policy updates quickly across global endpoints and workloads, often taking minutes or hours—leaving gaps attackers exploit.
 					</p>
 					<p class="mb-8 font-light lg:text-xl">
-						Threatmatic Solution:
+						<span class="font-semibold">Threatmatic Solution:</span>
 						Threatmatic enforces targeted security policy updates in under 50ms, regardless of endpoint location or network topology. This ultra-low latency ensures instant posture correction and real-time containment of emerging threats.
 					</p>
 					<p class="mb-8 font-light lg:text-xl">
-						2. Fragmented Threat Signal Processing
-						Problem:
+						<span class="font-semibold">Fragmented Threat Signal Processing:</span>
+
 						EDR/XDR tools often rely on endpoint-only telemetry and static rules, missing multi-modal signals like network anomalies, identity context, and behavioral patterns.
 					</p>
 					<p class="mb-8 font-light lg:text-xl">
-					Threatmatic Solution:
+					<span class="font-semibold">Threatmatic Solution:</span>
 					Threatmatic processes multi-modal IOC signals—network, identity, application, and behavioral telemetry—through a global, asynchronous architecture. This enables high-fidelity threat detection and context-aware enforcement across the entire attack surface.
 					</p>
 					<p class="mb-8 font-light lg:text-xl">
-					3. Lack of Intelligent Correlation and Autonomous Response
-					Problem:
+					<span class="font-semibold">Lack of Intelligent Correlation and Autonomous Response:</span>
+
 					Traditional SIEM and XDR platforms provide alerts but lack AI-driven reasoning and causal correlation, forcing manual triage and delayed response.
 					</p>
 					<p class="mb-8 font-light lg:text-xl">
-					Threatmatic Solution:
+					<span class="font-semibold">Threatmatic Solution:</span>
 					Threatmatic fuses AI-powered reasoning with topological, chronological, and causal correlation to understand attack paths and root causes. Combined with agentic tool calling, Threatmatic autonomously executes mitigation actions—such as isolating endpoints or adjusting ZTNA posture—without human intervention.
 					</p>
 			</div>
