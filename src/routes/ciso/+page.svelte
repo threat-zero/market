@@ -80,7 +80,7 @@
 
 	</div>
 
-			<div class="mx-auto max-w-screen-xl px-4 py-8 text-center sm:py-16 lg:px-6">
+			<div class="mx-auto max-w-screen-xl px-4 py-8 text-center sm:py-16 lg:px-6 lg:grid lg:grid-cols-3">
 				<p class="mb-8 font-light lg:text-xl">
 					<span class="font-semibold">Rapid Policy Enforcement Across Distributed Environments:</span>
 
