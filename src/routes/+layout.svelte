@@ -66,6 +66,7 @@
 			<NavLi href="/schannel">Un-VPN</NavLi>
 			<!-- <NavLi href="/pricing">Pricing</NavLi> -->
 			<!-- <NavLi href="/team">Team</NavLi> -->
+			<!--
 			<NavLi
 				href="https://medium.com/@threatmatic"
 				target="_blank"
@@ -73,6 +74,7 @@
 			>
 				Blog
 			</NavLi>
+			-->
 
 			<NavLi href="/ciso">For CISOs</NavLi>
 
@@ -121,7 +123,7 @@
 							</li>
 						 	<li class="mb-4">
 							<a href="/team" class="hover:underline">Team</a>
-						</li> -->
+						</li>
 							<li class="mb-4">
 								<a
 									href="https://medium.com/@threatmatic"
@@ -131,7 +133,7 @@
 								>
 									Blog
 								</a>
-							</li>
+							</li> -->
 						</ul>
 					</div>
 					<div>
