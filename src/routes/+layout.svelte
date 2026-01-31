@@ -64,7 +64,7 @@
 			<NavLi href="/intro">Idea</NavLi>
 			<NavLi href="/product">ZTNA</NavLi>
 			<NavLi href="/schannel">Un-VPN</NavLi>
-			<NavLi href="/pricing">Pricing</NavLi>
+			<!-- <NavLi href="/pricing">Pricing</NavLi> -->
 			<!-- <NavLi href="/team">Team</NavLi> -->
 			<NavLi
 				href="https://medium.com/@threatmatic"
@@ -115,10 +115,11 @@
 							<li class="mb-4">
 								<a href="/product" class="hover:underline">Product</a>
 							</li>
+							<!--
 							<li class="mb-4">
 								<a href="/pricing" class="hover:underline">Pricing</a>
 							</li>
-							<!-- <li class="mb-4">
+						 	<li class="mb-4">
 							<a href="/team" class="hover:underline">Team</a>
 						</li> -->
 							<li class="mb-4">
